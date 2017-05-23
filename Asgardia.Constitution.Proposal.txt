@@ -55,45 +55,41 @@ CHAPTER 2.
 GENERAL PROVISIONS
 
 Article 1. Name
-The terms “Space Nation of Asgardia” and “Asgardia” are synonymous
+The terms “The Space State”, “Space Nation of Asgardia” and “Asgardia” are synonymous.
 Article 2. Status
 Asgardia is a Democratic Technocracy that is the first free space unitary, social nation under law that is above ethnic, national, religious divides, based on morality, fairness, peace and the equal dignity of every human being, which looks to the future and the infinite space of the Universe.
 
 Article 3. Mission
-To ensure the existence and development of the Space Nation of Asgardia and the new humanity in space.
+To ensure the existence and development of the Asgardia and the new humanity in space.
 
 Article 4. Supreme Values of Asgardia
 1. Asgardia’s Supreme Values are the most common and permanent foundations of the self-identification of Asgardian citizens which form the commonality of Asgardian society and lie at the heart of the objectives and activities of Asgardian state bodies, citizens and associations.
 2. The Constitution, laws and other regulations of Asgardia, as well as the activities of its state bodies, implement and protect Asgardia’s Supreme Values.
-3. Asgardia’s absolute supreme value is humanity striving into the limitless future of the limitless Universe, an unstoppable quest to understand and transform the world.
+3. Asgardia’s absolute supreme value is humanity striving into the limitless future of the limitless Universe, an unstoppable quest to understand and transform the Universe.
 4. Asgardia’s Supreme Values in fulfilling its Mission are:
  a. peace in Space and the peaceful settlement of the Universe;
- b. protection of Earth and all of humanity from Space-originating threats;
+ b. protection of all of humanity from Space-originating threats;
  c. ensuring equality of opportunity in Space for all Asgardian citizens;
  d. unity of space humanity as a community;
- e. human dignity, human rights and freedoms and the harmonious development of the individual;
-9. f. human life, love, children and family, and the propagation of the human species;
-10. 
+ e. human dignity, human rights, freedoms, and the harmonious development of the individual;
+ f. human life, love, children and family, and the propagation of the human species;
+ g. supremacy of law; 
+ h. space ecology;
+ i. community and mutual support; 
+ j. scientific, artistic creativity, and the belief in the boundless potential of human reason, knowledge, labour and progress;
+ k. peace, tranquillity, security and confidence;
+ l. morality, fairness and freedom;
+ m. harmonious existence of the individual, society, and the state.
 
-
-
-g. supremacy of law; 
-h. space ecology;
-i. community and mutual support; 
-j. scientific and artistic creativity and the belief in the boundless potential of human reason, knowledge, labour and progress;
-k. peace, tranquillity, security and confidence;
-l. morality, fairness and freedom;
-m. harmonious existence of the individual, society and the state.
-
-1. Asgardia’s Supreme Values are equally important and equally implemented in state administration. In the event of a conflict between the Supreme Values, the absolute supreme value of Asgardia prevails.
-2. Asgardia’s Supreme Values apply to relations with Earth nations and citizens, as well as any discovered alien intelligence.
-3. It is prohibited to undermine or diminish the Supreme Values of Asgardia. Asgardia and its citizens must implement and protect its Supreme Values from internal and external infringement.
+5. Asgardia’s Supreme Values are equally important and equally implemented in state administration. In the event of a conflict between the Supreme Values, the absolute supreme value of Asgardia prevails.
+6. Asgardia’s Supreme Values apply to relations with Earth nations and citizens, as well as any discovered alien intelligence.
+7. Citizens must implement and protect its Supreme Values from internal and external infringement.
 
 Article 5. Territory
 1. At the time of its foundation, Asgardia’s territory is the digitised noosphere, a digital state with living citizens on Earth, which exists on a near-Earth orbit in the form of a single satellite or an orbital satellite constellation.
 2. Asgardia expands its territory by creating Asgardian localities on Earth, near-Earth orbits and celestial bodies.
-3. Asgardian localities on Earth are peacefully and lawfully acquired natural hard and liquid surfaces on Earth and man-made platforms situated on such surfaces.
-4. Asgardian localities on near-Earth orbits are satellites, orbital satellite constellations, man-made platforms (Arks) and devices used to protect Earth and Asgardia.
+3. Asgardian localities on Earth are peacefully and lawfully acquired natural hard and liquid surfaces on Earth and platforms situated on such surfaces.
+4. Asgardian localities on near-Earth orbits are satellites, orbital satellite constellations, man-made platforms (Space Arks) and devices used to protect Asgardia.
 5. Asgardian localities on celestial bodies are Asgardian celestial entities on the Moon and other objects in the Solar System and elsewhere in the Universe.
 6. Asgardia expands its territory by obtaining new localities on Earth, in space and on celestial bodies.
 7. Asgardia uses adjacent territories (hard surfaces, subsurface resources, oceans, atmospheres, space, celestial bodies) in accordance with generally recognised international principles and norms, as well as international treaties to which it is a party.
@@ -105,9 +101,9 @@ SPACE CITIZENSHIP OF ASGARDIA
 
 Article 6. Asgardian Citizens
 1. Any resident of Earth over the age of 16 who agrees to Asgardia’s Declaration of Unity and Constitution and consciously submits his/her digital personal data to Asgardia’s Space Database may become an Asgardian citizen. 
-2. Space citizenship of Asgardia is a special type of citizenship and does not constitute dual or second citizenship for the purposes of Earth nation citizenship. A citizen of an Earth nation becoming a space citizen does not confer multiple citizenship status unless otherwise stipulated by an international treaty to which Asgardia is a party.
-3. A child gains space citizenship of Asgardia at birth if one or both parents or the only parent is/are space citizens of Asgardia. A child born before the foundation of Asgardia may become a citizen on the request of his/her parent(s) who are citizens of Asgardia.
-4. Space citizenship may be terminated by the Asgardian citizen waiving citizenship or by Asgardia revoking or temporarily suspending citizenship. Grounds for revocation of space citizenship, as well as restrictions on the acceptance of new citizens are set by the law of Asgardia. 
+2. Citizenship of Asgardia is a special type of citizenship and does not constitute dual or second citizenship for the purposes of Earth nation citizenship. A citizen of an Earth nation becoming an Asgardian citizen does not confer multiple citizenship status unless otherwise stipulated by an international treaty to which Asgardia is a party.
+3. A child gains space citizenship of Asgardia at birth if at least one parent is a citizen of Asgardia. A child born before the foundation of Asgardia may become a citizen on the request of his/her parent(s) who are citizens of Asgardia.
+4. Space citizenship may be terminated by the Asgardian citizen waiving citizenship or, by Asgardia revoking or temporarily suspending citizenship rights. Grounds for revocation of space citizenship, as well as restrictions on the acceptance of new citizens are set by the Law of Asgardia. 
 
 Article 7. Location of Citizens
 1. Asgardian citizens have the right of free movement in Asgardian localities and the right to choose their location in Earth nations.
@@ -116,42 +112,35 @@ Article 7. Location of Citizens
 Article 8. Key Citizen Rights and Freedoms 
 1. All human and citizen rights and freedoms are recognised in Asgardia in accordance with generally recognised international principles and norms. Human rights and freedoms are inalienable and enjoyed by all persons from birth on the basis of the law.
 2. All Asgardian citizens are equal.
-3. Persons who acquire space citizenship at birth acquire and exercise rights and perform obligations in full on reaching full legal age at 16. 
-
-
-
-1. Key Citizen Rights and Freedoms: a. freedom of the individual and freedom of speech are inviolable;
+3. All persons born within Asgardian territories will be granted citizenship.
+4. All citizens, upon reaching 16 Earth-years are empowered to exercise their full rights and obligations.
+5. Key Citizen Rights and Freedoms: 
+ a. freedom of the individual and freedom of speech are inviolable;
+    freedom of the press shall not be impeded except where State secrets must be kept in the broadest discretion;
  b. the right to participate in managing the affairs of the state both directly and via representatives;
  c. the right to elect and be elected/appointed to Asgardia’s state bodies and participate in referenda;
  d. the right to put forward legislative proposals;
- e. the right to access to information about the activities of state bodies and supervise them;
- f. the right to participate in exploration of space and universal access to scientific information about space;
+ e. the right to access to information about the activities of state bodies, officials, and supervise them;
+ f. the right to participate in exploration of space and universal access to scientific information and research;
  g. the right to personal safety and the safety of the home;
  h. the right to self-governance;
  i. the right to own and inherit property.
-10. 
-11. If the state infringes on the rights of an Asgardian citizen, he/she has the right to seek legal protection in court.
-12. Asgardian citizens may only be extradited to other states on the basis of the law.
-13. Asgardian citizens have the right to create associations and societies based on the law.
-14. Asgardian citizens have the right of peaceful and unarmed assembly without prior approval on the basis of written notification.
-15. The enumeration of specific citizen rights and freedoms in this article shall not be interpreted as the negation or diminishment of other citizen rights and freedoms stipulated by other articles of Asgardia’s Constitution, the laws of Asgardia and generally recognised human rights and freedoms.
-16. Citizen rights and freedoms may only be restricted by the law of Asgardia to the extent required to protect Asgardia’s national sovereignty, ensure Asgardia’s security, performance of its mission and supreme values, and protect the rights and legal interests of other Asgardian citizens.
+6. All citizens have the right to seek legal reprieve in the Justice Court for any infringement of rights and property.
+7. Asgardian citizens may not be extradited to other states except as defined by the law.
+8. Asgardian citizens have the right to create associations and societies based on the law.
+9. Asgardian citizens have the right of peaceful and unarmed assembly.
+10. The enumeration of specific citizen rights and freedoms in this article shall not be interpreted as the negation or diminishment of other citizen rights and freedoms stipulated by other articles of Asgardia’s Constitution, the laws of Asgardia and generally recognised human rights and freedoms.
+11. Citizen rights and freedoms may only be restricted by the law of Asgardia to the extent required to protect Asgardia’s national sovereignty, ensure Asgardia’s security, performance of its mission and supreme values, and protect the rights of Asgardian citizens.
 
 Article 9. Key Citizen Obligations
-1. Asgardian citizens have inalienable and indispensable obligations. Asgardian citizen obligations arise from the moment they become citizens of Asgardia.
-2. All Asgardian citizens must respect and not violate the rights, freedoms and legal interests of other people.
+1. Asgardian citizens have inalienable and indispensable rights. Asgardian citizen obligations arise from the moment they become citizens of Asgardia.
+2. All Asgardian citizens must respect and not violate the rights, freedoms and established Law of Asgardia.
 3. All persons on Asgardian territory must comply with Asgardia’s Constitution, its laws and regulations effective on Asgardian territory, as well as respecting Asgardia’s Supreme Values.
-
-
-
-
-1. All citizens of Asgardia must comply with the Constitution, Asgardia’s laws and regulations, respect and implement its Supreme Values irrespective of their location, unless this results in violation of the law of the country in which they are located.
-2. Asgardian citizens must pay lawfully established taxes and levies.
-3. Asgardian citizens have the right and obligations to participate in elections and referenda. Systematic derogation of this duty may lead to legal consequences in accordance with the law.
-4. All Asgardian citizens must preserve nature and the environment in Asgardia’s localities. 
-5. Protecting Asgardia’s national sovereignty and security and performing its mission and Supreme Values is an obligation of every Asgardian citizen.
-6. Asgardian citizens must make a contribution to the creation of Asgardia’s resources to ensure the common good that is commensurate with their ability to do so. 
-7. Failure to perform citizen obligations or failure to perform them properly may lead to permanent revocation of Asgardian citizenship, suspension of Asgardian citizenship, fines, restriction and/or permanent revocation of access to Asgardia’s electronic resources in accordance with the law of Asgardia. The death penalty is prohibited in Asgardia. The creation of prisons is prohibited in Asgardia. 
+4. All citizens of Asgardia must comply with the Constitution, Asgardia’s laws and regulations, respect and implement its Supreme Values irrespective of their location, unless this results in violation of the law of the country in which they are located.
+5. Asgardian citizens must pay lawfully established taxes and levies.
+6. Asgardian citizens have the right to participate in elections and referenda. No law, decree, or amendment shall prevent any citizen from participation in processes of Government. Citizens regardless of origin, creed, physical location shall be permitted to participate in elections and referenda.
+8. Protecting Asgardia’s national sovereignty, security, and performing its mission and Supreme Values is an obligation of every Asgardian citizen.
+10. Failure to perform citizen obligations or failure to perform them properly may lead to permanent revocation of Asgardian citizenship, suspension of Asgardian citizenship, fines, restriction and/or permanent revocation of access to Asgardia’s electronic resources in accordance with the law of Asgardia. The death penalty is prohibited in Asgardia. The creation of prisons is prohibited in Asgardia. 
 
 Article 10. Guarantees of Citizen Rights and Freedoms
 1. The state guarantees the rights and freedoms of citizens by ensuring the use of state body powers and all available resources.
