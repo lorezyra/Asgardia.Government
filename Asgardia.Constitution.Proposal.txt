@@ -138,20 +138,19 @@ Article 9. Key Citizen Obligations
 § 3. All persons on Asgardian territory must comply with Asgardia’s Constitution, its laws and regulations effective on Asgardian territory, as well as respecting Asgardia’s Supreme Values.
 § 4. All citizens of Asgardia must comply with the Constitution, Asgardia’s laws and regulations, respect and implement its Supreme Values irrespective of their location, unless this results in violation of the law of the country in which they are located.
 § 5. Asgardian law will establish taxes, duties, imposts and excises, to pay the debts and provide for the common defence and general welfare of Asgardia.
-6. Asgardian citizens have the right to participate in elections and referenda. No law, decree, or amendment shall prevent any citizen from participation in processes of Government. Citizens regardless of origin, creed, physical location shall be permitted to participate in elections and referenda.
-8. Protecting Asgardia’s national sovereignty, security, and performing its mission and Supreme Values is an obligation of every Asgardian citizen.
-10. In accordance with the established Law, gross failure to perform citizen obligations may lead to suspension or permanent revocation of Asgardian citizenship, fines, restriction and/or permanent revocation of access to Asgardia’s electronic resources.
-11. The death penalty is prohibited in Asgardia.
-12 The creation of private prisons is prohibited in Asgardia. However, law may establish State owned and operated rehabitation centers.
+§ 6. Asgardian citizens have the right to participate in elections and referenda. No law, decree, or amendment shall prevent any citizen from participation in processes of Government. Citizens regardless of origin, creed, physical location shall be permitted to participate in elections and referenda.
+§ 8. Protecting Asgardia’s national sovereignty, security, and performing its mission and Supreme Values is an obligation of every Asgardian citizen.
+§ 9. In accordance with the established Law, gross failure to perform citizen obligations may lead to suspension or permanent revocation of Asgardian citizenship, fines, restriction and/or permanent revocation of access to Asgardia’s electronic resources.
+§ 10. The death penalty is prohibited in Asgardia.
+§ 11. The creation of private prisons is prohibited in Asgardia. However, law may establish State owned and operated rehabitation centers.
 
 Article 10. Guarantees of Citizen Rights and Freedoms
-1. The state guarantees the rights and freedoms of citizens by ensuring the use of state body powers and all available resources.
-2. The state is responsible for respecting and protecting citizen rights and freedoms and ensuring that they can be exercised.
-3. Guarantees of citizen rights and freedoms are supported using state property which serves as the material foundation for the exercising of state powers and performance of state obligations.
-4. The rights and freedoms of Asgardian citizens are guaranteed through the establishment of corresponding state obligations in the Constitution and Asgardia’s laws.
-5. The state guarantees that its aims, plans, development forecasts, as well as threats and risks to its development, will be publicly disclosed.
-6. The state must establish Asgardia’s public opinion and take it into account when making administrative decisions in accordance with the law of Asgardia.
-7. The state guarantees that any Asgardian legal act may be repealed on the request of Asgardian citizens by means of the appropriate procedure set by Asgardian law.
+§ 1. The state guarantees the rights and freedoms of citizens by ensuring the use of state body powers and all available resources.
+§ 2. The state is liable to protecting citizen rights and freedoms and ensuring that they can be exercised.
+§ 3. Guarantees of citizen rights and freedoms are supported using state property which serves as the material foundation for the exercising of state powers and performance of state obligations.
+§ 4. The rights and freedoms of Asgardian citizens are guaranteed through the establishment of corresponding state obligations in the Constitution and Asgardia’s laws.
+§ 5. The state guarantees that its aims, plans, development forecasts, including threats and risks to its development, will be publicly disclosed.
+§ 6. The state guarantees that any Asgardian legal act may be repealed on the request of Asgardian citizens by means of the appropriate procedure set by Asgardian law.
 
 
 
@@ -159,11 +158,10 @@ CHAPTER 4.
 ASGARDIAN RESOURCES
 
 Article 11. Human Resources
-1. Asgardia encourages the development of human resources.
-2. Asgardia uses its own material, financial and other resources to ensure free access to distance learning, professional qualifications, scientific and creative work for Asgardian citizens.
-3. Asgardian citizens have a guaranteed right to free time for self-development and self-improvement, creative and cultural pursuits.
-4. Asgardia works to create jobs and facilitate maximum utilisation of the abilities and qualifications of its citizens.
-5. The state supports Asgardian citizens in leading healthy lifestyles.
+§ 1. Asgardia encourages the development of human resources.
+§ 2. Asgardia uses its own material, financial and other resources to ensure free access to distance learning, professional qualifications, scientific and creative work for Asgardian citizens.
+§ 3. Asgardian citizens are entitled to free time for self-development and self-improvement, creative and cultural pursuits for a minimum of 25 percent of the year while employed by a business operating within Asgardian territories. It’s not required to spend this time contiguously.
+§ 4. Asgardia works to create jobs and facilitate maximum utilisation of the abilities and qualifications of its citizens.
 
 Article 12. Natural Resources
 1. Asgardia’s natural resources include material objects, energy and information streams in space environments in the Universe within Asgardian territory and adjacent environments in accordance with generally recognised international principles and norms, as well as international treaties to which it is a party.
