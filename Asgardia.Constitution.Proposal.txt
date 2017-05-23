@@ -217,7 +217,7 @@ Article 16. Government by the People
  d. public control via electronic resources of the public activities of state bodies, regular reporting to citizens, provision of open information about the state of different areas of government responsibilities in the format set by the law;
  e. procedures that allow citizens to put forward legislative proposals and initiate referenda;
  f. separation of powers;
- g. the work of the Royal Council of Supreme Values which monitors the activities of state bodies to ensure they are compliant with Asgardia’s Supreme Values and Constitution.
+ g. the work of the Council of Supreme Values which monitors the activities of state bodies to ensure they are compliant with Asgardia’s Supreme Values and Constitution.
 § 7. The supreme form of the expression of public will in Asgardia is a referendum. Referenda are used to resolve important matters in Asgardia’s public life. The Head of State, Parliament, the Council of Supreme Values and citizens have the right to initiate referenda.
 
 
@@ -308,32 +308,28 @@ Article 27. Language
 § 2. Official language in Asgardia are the administrative and document languages.
 § 3. All Asgardian citizens may use their native languages for communication, education, parenting and creative pursuits. The state guarantees that all may retain their native language but requires proficiency in Basic.
 § 4. In its relations with Earth nations and international organisations, Asgardia uses Basic and the interlocutor. Agreements, treaties and other international acts executed by Asgardia may also be prepared in a different language requested by the other party on the mutual agreement of the parties.
-2. Asgardia strives towards a single Asgardian language in the future.
 
 Article 28. Capital
-1. The celestial capital of Asgardia, Asgard or Celestial Asgard, is located on a currently active near-Earth orbit satellite or satellites that are part of an orbital constellation. The capital may subsequently be located on a Space Ark or, eventually, on a Moon entity in accordance with international space law.
-2. Celestial Asgard is an information portal and the virtual location of Asgardia’s state bodies, citizens and infrastructure. The capital is used for address purposes by Asgardia citizens, other persons, Earth nations and international organisations to contact Asgardian state bodies and officials.
-3. Individual and collective enquiries by Asgardian citizens, other individuals and legal entities to Asgardian state bodies and officials must be sent electronically in a manner that allows the enquiring party to be identified and authenticated using the virtual resources of the capital of Asgardia.
-4. The Earth capital of Asgardia, Asgard or Earth Asgard, is the location of state bodies as required and the location of software and hardware complexes of Asgardia’s Earth entities, if Asgardia has territory (natural, artificial on hard surfaces or water, lawfully located in Earth nations or not owned by Earth nations).
-5. The status of both capitals, the legal arrangements for their location, their operational procedures and resource use are set by the law of Asgardia.
+§ 1. The celestial capital of Asgardia, Asgard or Celestial Asgard, is located on a currently active near-Earth orbit satellite or satellites that are part of an orbital constellation. The capital may subsequently be located on a Space Ark or, eventually, on a moon entity in accordance with international space law.
+§ 2. Celestial Asgard is an information portal and the virtual location of Asgardia’s state bodies, citizens and infrastructure. The capital is used for address purposes by Asgardia citizens, other persons, Earth nations and international organisations to contact Asgardian state bodies and officials.
+§ 3. Individual and collective enquiries by Asgardian citizens, other individuals and legal entities to Asgardian state bodies and officials must be sent electronically in a manner that allows the enquiring party to be identified and authenticated using the virtual resources of the capital of Asgardia.
+§ 4. The Earth capital of Asgardia, Asgard or Earth Asgard, is the location of state bodies as required and the location of software and hardware complexes of Asgardia’s Earth entities, if Asgardia has territory (natural, artificial on hard surfaces or water, lawfully located in Earth nations or not occupied by Earth nations).
+§ 5. The status of both capitals, the legal arrangements for their location, their operational procedures and resource use are set by the law of Asgardia.
 
 Article 29. Foreign Relations
-1. Asgardia conducts its foreign policy based on its mission and Supreme Values, as well as the national interest.
-2. Achieving international legal recognition of Asgardia, including establishing diplomatic relations with Earth nations and opening embassies and consulates in such nations is one of the objectives of Asgardia’s foreign policy.
-3. Asgardia opens embassies on all continents of the Earth.
-4. Asgardia’s foreign policy is aimed at achieving a balance of general space and planetary interests and its national interest.
-5. Asgardia builds international relations and collaborates with other nations on the basis of international treaties and agreements executed by authorised state bodies.
-6. The common norms of international law are a component of Asgardia’s legal system. These norms have priority over Asgardian law, provided they do not threaten Asgardia’s supreme mission of ensuring its existence.
-
-
-
-1. In resolving international disputes, Asgardia seeks to reach settlements under general, comprehensive and binding international arbitration proceedings.
+§ 1. Asgardia conducts its foreign policy based on its mission and Supreme Values, as well as the national interest.
+§ 2. Achieving international legal recognition of Asgardia, including establishing diplomatic relations with Earth nations and opening embassies and consulates in such nations is one of the objectives of Asgardia’s foreign policy.
+§ 3. Asgardia opens embassies on all continents of the Earth.
+§ 4. Asgardia’s foreign policy is aimed at achieving a balance of general space and planetary interests and its national interest.
+§ 5. Asgardia builds international relations and collaborates with other nations on the basis of international treaties and agreements executed by authorised state bodies.
+§ 6. The common norms of international law are a component of Asgardia’s legal system. These norms have priority over Asgardian law, provided they do not threaten Asgardia’s supreme mission of ensuring its existence.
+§ 7. In resolving international disputes that directly involve Asgardian territories, Asgardia seeks to reach settlements under general, comprehensive and binding international arbitration proceedings.
 
 Article 30. Government 
-1. Asgardia is governed by its citizens through referenda and the following state bodies: Head of State, Royal Council of Supreme Values, Parliament, Government and its ministries, as well as the Royal Court, law enforcement and supervisory authorities. 
-2. Asgardia’s government is based on the separation of the legislature, executive, judiciary and supervisory branches. The Head of State is the head of the government and is not part of any of the branches of government. 
-3. The authority of state bodies is set by the Constitution and the law of Asgardia. 
-4. Asgardia, through its state bodies and officials, is responsible for developing all areas of the state’s life and activities in accordance with its mission and Supreme Values by exercising the authority specified by the Constitution and the law of Asgardia and using state resources.
+§ 1. Asgardia is governed by its citizens through referenda and the following state bodies: Head of State, Council of Supreme Values, Parliament, Government and its ministries, as well as the Court of Justice, law enforcement and supervisory authorities. 
+§ 2. Asgardia’s government is based on the separation of the legislature, executive, judiciary and supervisory branches. The Head of State is the head of the government and leads the Executive branch. 
+§ 3. The authority of state bodies is set by the Constitution and the law of Asgardia. 
+§ 4. Asgardia, through its state bodies and officials, is responsible for developing all areas of the state’s procedures and activities in accordance with its mission and Supreme Values by exercising the authority specified by the Constitution and the law of Asgardia and using state resources.
 
 
 
@@ -346,25 +342,26 @@ CHAPTER 9.
 ADOPTION AND AMENDMENT OF THE CONSTITUTION
 
 Article 41. Adoption of the Constitution
-Asgardia’s Constitution is adopted by means of an electronic referendum.
+Asgardia’s Constitution is adopted by means of a referendum. A period of 2 days shall be allowed for the collection of all votes.
 
 Article 42. First Constitution
-The first Constitution of Asgardia will be put to a referendum by Igor Ashurbeyli, the Head of Nation proclaimed on 20/Jan/2017 by Decree #1. The referendum on adopting the first Asgardian Constitution is open for voting to persons over the age of 16 who have submitted their personal data via the Internet and agree to the terms and conditions published on the https://asgardia.space website. These persons are considered Asgardian citizens on a preferential basis until the adoption of the law on citizenship of Asgardia and will retain this status subsequently if desired.
+The first Constitution of Asgardia will be put to a referendum by Igor Ashurbeyli, proclaimed the Head of Nation on 20/Jan/2017 by Decree #1. The referendum on adopting the first Asgardian Constitution is open for voting to persons over the age of 16 who have submitted their personal data via the Internet and agree to the terms and conditions published on the https://asgardia.space website. These persons are considered Asgardian citizens on a preferential basis until the adoption of the law on citizenship of Asgardia and will retain this status subsequently if desired.
+
 Article 43. Quorum for Adoption of the Constitution
-Asgardia’s Constitution is adopted if more than 2/3rd majority of the total number of Asgardian citizens on the date of the vote voted in favour, and for adoption of the first Constitution.
+Asgardia’s Constitution is adopted if more than 2/3rd majority of the total number of registered Asgardian citizens on the date of the vote voted in favour, and for adoption of the first Constitution.
 
 Article 44. Amendment of the Constitution
-Asgardia’s Constitution may be amended by means of an electronic referendum.
+Asgardia’s Constitution may be amended by means of a referendum. However, this article of amendment is unchangeable and cannot be voided by any law, decree, or other amendment.
 
 Article 45. Procedure for Amendment of the Constitution
-Proposals on amending the Constitution may be made by the Head of State, Parliament and the Royal Council of Supreme Values in accordance with the law of Asgardia.
+Proposals on amending the Constitution may be made by the Head of State, Parliament and the Council of Supreme Values in accordance with the law of Asgardia. No amendment shall be made until 2/3rds majority of parliament agree.
 
 
 CHAPTER 10.
 TRANSITIONAL AND FINAL PROVISIONS
 
 Article 46. Special rights of the Head of State before the election of Parliament and formation of the Government of Asgardia
-In the absence of Asgardian laws and for the purposes of implementing the provisions of the Constitution before the election of Parliament and formation of the Government of Asgardia, the Head of State may issue decrees which remain in force until appropriate laws are adopted.
+In the absence of Asgardian laws and for the purposes of implementing the provisions of the Constitution before the election of Parliament and formation of the Government of Asgardia, the Head of State may issue decrees which remain in force until appropriate laws are adopted. All decrees will be reviewed by the Council of Supreme Values and the Court of Justice. Any decree may be revoked by the Council of Supreme Values and the Court of Justice provided that a 2/3rd majority stand in agreement from both state bodies.
 
 Article 47. Special procedure for election of a new Head of State
 If elections for a new Head of State are scheduled within the first five years of adoption of the Constitution, the requirements of Asgardia’s Constitution concerning the candidate for the position of Head of State holding citizenship for at least five years do not apply.
@@ -373,7 +370,7 @@ Article 48. Deadline for election of Parliament 
 Elections for members of Parliament are called no later than six months after the adoption of the Constitution. The procedure for holding the first elections is set by a decree of the Head of State in accordance with the Constitution. The law on subsequent elections of members of Parliament is adopted after Parliament is formed.
 
 Article 49. Deadline for forming the Government of Asgardia
-The Government is formed no later than three months after election of Asgardia’s Parliament in accordance with the Constitution and the law. Until a Government is formed, the duties of the Government are performed by the Head of State and his/her Administration.
+The Government is formed no later than six months after election of Asgardia’s Parliament in accordance with the Constitution and the law. Until a Government is formed, the duties of the Government are performed by the Head of State and his/her Administration.
 
 Article 50. Effectiveness of the Constitution
 The Constitution of Asgardia becomes effective on the day of its official publication at https://asgardia.space on the basis of the results of the referendum of 18 June 2017.
