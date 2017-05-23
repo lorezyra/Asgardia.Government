@@ -164,46 +164,41 @@ Article 11. Human Resources
 § 4. Asgardia works to create jobs and facilitate maximum utilisation of the abilities and qualifications of its citizens.
 
 Article 12. Natural Resources
-1. Asgardia’s natural resources include material objects, energy and information streams in space environments in the Universe within Asgardian territory and adjacent environments in accordance with generally recognised international principles and norms, as well as international treaties to which it is a party.
-2. Asgardia uses space resources in accordance with international space law.
-3. Asgardia’s natural resources may be exclusively state property, the property of state-owned companies, public-private property, private property, personal property, as well as other property under the law of Asgardia.
-4. Asgardia uses all available resources to ensure the safety and sustainability of its natural resources and the space environment and supports corresponding initiatives in accordance with the procedure set by the law.
+§ 1. Asgardia’s natural resources include material objects, energy and information streams in space environments in the Universe within Asgardian territory and adjacent environments in accordance with generally recognised international principles and norms, as well as international treaties to which it is a party.
+§ 2. Asgardia uses space resources in accordance with international space law.
+§ 3. Asgardia’s natural resources may be exclusively state property, the property of state-owned companies, public or private property, as well as other property under the law of Asgardia.
+§ 4. Asgardia uses all available resources to ensure the safety and sustainability of its natural resources and the space environment and supports corresponding initiatives in accordance with the procedure set by the law.
 
 Article 13. Financial Resources
-1. Asgardia’s sovereign financial resources comprise state and private finance. Arbitrary seizure of private financial resources is prohibited.
-2. Asgardia’s currency is the Gor.
-3. Asgardian currency is freely exchangeable into all of the main global currencies on the free market on Earth.
-4. Asgardia’s National Bank is responsible for the exchange rate, issue and circulation of finance, stability of the sovereign currency and bank system liquidity. Asgardia’s National Bank is regulated by the law of Asgardia.
-
-
-
-1. Asgardia’s sovereign currency is issued by the National Bank in the amount tied to the ideal parameters of the Moon set by a special law of Asgardia. Asgardia’s National Bank is a lender of last resort.
-2. Asgardia supports private and corporate charitable donors and investors.
-3. Asgardia creates special national charitable foundations, including the Asgardia, Science, Childhood Foundations and others, in accordance with the procedure set by the law of Asgardia. Distribution of foundation assets is within the purview of the Government and supervised by Parliament.
-4. The Government is responsible for the national budget, external financial exchange, the tax system, Asgardia’s public consumption foundations and state charitable foundations.
-5. Asgardia’s National Bank facilitates the development of a banking system for state-owned and private banks, regulates their operations and profitability. The state guarantees bank secrecy. Bank secrecy may not be restricted by the law of Asgardia or international treaties.
-6. Revenue from state licences and the business activities of state institutions and organisations of any kind is paid to the budget of Asgardia in full.
-7. Asgardia recognises the immunity of commercial secrets.
-8. The Government encourages the development of private business by establishing an appropriate tax and state insurance system. Private business is regulated by the law of Asgardia. 
-9. The tax system and preferential tax terms are set by the law of Asgardia.
+§ 1. Asgardia’s sovereign financial resources comprise state and private finance. Arbitrary seizure of private financial resources is prohibited.
+§ 2. Asgardia’s currency is the GARD. The symbols for GARD will be established by Asgardia’s National Bank. GARD shall not be represented with a decimal place or fractional value.
+§ 3. Asgardian currency is freely exchangeable into all of the main global currencies on the free market on Earth.
+§ 4. Asgardia’s National Bank is responsible for the exchange rate, issue and circulation of finance, stability of the sovereign currency and bank system liquidity. Asgardia’s National Bank is regulated by the law of Asgardia.
+§ 5. Asgardia’s sovereign currency is issued by the National Bank further defined by law of Asgardia. Asgardia’s National Bank is a lender of last resort. Asgardia’s National Bank will never become a private entity and will forever be the financial arm of the State.
+§ 6. The Government is responsible for the national budget, external financial exchange, the tax system, the borrowing of money on the credit of Agardia.
+§ 7. Asgardia’s National Bank facilitates the development of a banking system for state-owned and private banks, regulates their operations and profitability. Bank regulations may not be restricted by the international treaties.
+§ 8. Revenue from state licences and the business activities of state institutions and state organisations of any kind is paid to the budget of Asgardia in full.
+§ 9. Asgardia respects intellectual property rights. These rights will be further defined by law.
+§ 10. The Government encourages the development of private business by establishing an appropriate state insurance system. Private business is regulated by the law of Asgardia.
+§ 11. The Government shall establish a single-payer, universal health insurance program that all citizens must contribute based on law of Asgardia.
+§ 12. The tax system and tax terms are set by the law of Asgardia.
 
 Article 14. Scientific Resources
-1. Asgardia is a nation which celebrates science, the digitised noosphere and ideas, which combines the advantages of information technology in virtual and physical space.
-2. Asgardia’s hardware and software complex comprises a combination of Earth-based, orbital and Moon-based entities in its localities.
-3. Asgardia accumulates intellectual resources by digitising and storing the wealth of human knowledge in space.
-4. Asgardia creates and stores in orbit and on celestial bodies a Databank of biological materials from Earth.
-5. Science, art, research and education may be pursued freely in Asgardia, subject to the Constitution.
-6. Asgardia’s electronic resources include, among others, a secure information and telecommunications network, an electronic mail network, electronic mass media, television and radio broadcasting.
-7. Asgardia guarantees the rights of authors, inventors and users of intellectual property in harmony and balance. 
+§ 1. Asgardia is a nation which celebrates science, the digitised noosphere and ideas, which combines the advantages of information technology in virtual and physical space.
+§ 2. Asgardia accumulates intellectual resources by digitising and storing the wealth of human knowledge in space.
+§ 3. Asgardia creates and stores in orbit and on celestial bodies a Databank of biological materials from Earth.
+§ 5. Science, art, research and education may be pursued freely in Asgardia, subject to the Constitution.
+§ 6. Asgardia’s electronic resources include, among others, a secure information and telecommunications network, an electronic mail network, electronic mass media, television and radio broadcasting.
+§ 7. Asgardia guarantees the rights of authors, inventors and users of intellectual property. The Law of Asgardia may further define limits to this guarantee.
 
 
 
 Article 15. Property
-1. Property in Asgardia ensures and guarantees the rights and freedoms of citizens, the security, welfare and development of Asgardia and serves the achievement of the common good.
-2. Asgardia recognises exclusive (inalienable) state property, state property used for public needs, state property that constitutes the wealth of Asgardian citizens used for the common good, private property, personal property and mixed forms of property.
-3. Property in Asgardia includes material and non-material objects such as information and intellectual property.
-4. Restrictions on property rights, as well as the procedure for circulation and disposal of property, are set by the law of Asgardia.
-5. Asgardia guarantees and protects all types of property equally.
+§ 1. Property in Asgardia ensures and guarantees the rights and freedoms of citizens, the security, welfare and development of Asgardia, and serves the achievement of the common good.
+§ 2. Asgardia recognises exclusive (inalienable) state property, state property used for public needs, state property that constitutes the wealth of Asgardian citizens used for the common good, private property, and mixed forms of property.
+§ 3. Property in Asgardia includes material and non-material objects such as information and intellectual property.
+§ 4. Restrictions on property rights, as well as the procedure for circulation and disposal of property, are set by the law of Asgardia.
+§ 5. Asgardia guarantees and protects all types of property.
 
 
 
@@ -211,34 +206,31 @@ CHAPTER 5.
 GOVERNMENT BY THE PEOPLE AND SOCIAL JUSTICE
 
 Article 16. Government by the People
-1. Asgardian citizens are the source of Asgardia’s powers. 
-2. The collective will of Asgardian citizens is implemented through their participation in elections to state bodies and monitoring of these bodies, referenda, interaction with their representatives in elected state bodies.
-3. Elections to state bodies and citizen participation in developing, making, implementing and monitoring the performance of state administrative decisions is conducted primarily via electronic voting.
-4. Prejudice during elections and referenda based on Earth country of birth, residence, citizenship, race, nationality, gender, language, wealth, creed or belief and other differences is prohibited.
-5. State bodies and officials may not intervene in elections, put pressure on citizens or falsify elections during democratic procedures.
-6. Government by the People in Asgardia is ensured by:
-a. establishing a procedure for elections, requirements applicable to candidates and election time frames;
+§ 1. Asgardian citizens are the source of Asgardia’s powers. 
+§ 2. The collective will of Asgardian citizens is implemented through their participation in elections to state bodies and monitoring of these bodies, referenda, interaction with their representatives in elected state bodies.
+§ 3. Elections to state bodies and citizen participation in developing, making, implementing and monitoring the performance of state administrative decisions is conducted primarily via electronic voting.
+§ 4. Prejudice against participation in elections and referenda based on Earth country of birth, residence, citizenship, race, nationality, gender, language, wealth, creed or belief and other differences is prohibited.
+§ 5. State bodies and officials may not intervene in elections, put pressure on citizens or falsify elections during democratic procedures.
+§ 6. Government by the People in Asgardia is ensured by:
+ a. establishing a procedure for elections, requirements applicable to candidates and election time frames;
  b. ensuring that state body officials can be replaced and setting maximum term limits for government positions;
  c. court protection of Asgardian citizen rights to run for office and be elected;
  d. public control via electronic resources of the public activities of state bodies, regular reporting to citizens, provision of open information about the state of different areas of government responsibilities in the format set by the law;
  e. procedures that allow citizens to put forward legislative proposals and initiate referenda;
  f. separation of powers;
  g. the work of the Royal Council of Supreme Values which monitors the activities of state bodies to ensure they are compliant with Asgardia’s Supreme Values and Constitution.
-13. 
-14. The supreme form of the expression of public will in Asgardia is a referendum. Referenda are used to resolve important matters in Asgardia’s public life. The Head of State, Parliament, the Chamber of Supreme Values and citizens have the right to initiate referenda.
+§ 7. The supreme form of the expression of public will in Asgardia is a referendum. Referenda are used to resolve important matters in Asgardia’s public life. The Head of State, Parliament, the Council of Supreme Values and citizens have the right to initiate referenda.
 
 
 Article 17. Fairness 
-1. Asgardia recognises that every person has an inalienable right to fair treatment and facilitates the enjoyment of this right.
-2. Asgardia is a nation of social justice which strives to ensure that citizens enjoy material and spiritual benefits expected by other citizens, society and the state and produced by the citizen through labour.
-3. Fairness in Asgardia is ensured through the state respecting the legal interests of all lawful interest groups and striving to balance conflicting interests.
-4. To ensure fairness, the state encourages:
- a. the spread of moral ideals;
- b. equal rights and equality of human dignity;
- c. state and public support for groups in need, charity, philanthropy and mutual aid;
- d. work and scientific and technological progress.
-8. 
-9. The state encourages the work of citizens, citizen associations, including investors and philanthropists, who engage in socially important activities.
+§ 1. Asgardia recognises that every person has an inalienable right to fair treatment and facilitates the enjoyment of this right.
+§ 2. Asgardia is a nation of social justice which strives to ensure that citizens enjoy material benefits expected by other citizens, society and the state and produced by the citizen through labour.
+§ 3. Fairness in Asgardia is ensured through the state respecting the legal interests of all lawful interest groups and striving to balance conflicting interests.
+§ 4. To ensure fairness, the state encourages:
+ a. equal rights and equality of human dignity;
+ b. state and public support for groups in need, charity, philanthropy and mutual aid;
+ c. work and scientific and technological progress.
+§ 5. The state encourages the work of citizens, citizen associations, including investors and philanthropists, who engage in socially important activities.
 
 Article 18. Equality of Dignity for All 
 1. Asgardia recognises the equal dignity of all persons.
