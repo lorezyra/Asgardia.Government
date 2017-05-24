@@ -354,8 +354,8 @@ Article 31. Legal System and Branch structures
  c. Judicial, and 
  d. Supervisory.
 § 9. The Head of State (HoS) is the Executive branch.
-§ 10. The Executive branch shall include the elected Ministry Leaders.
-§ 11. The legislative branch is comprised of the parliament and ministries.
+§ 10. The Executive branch shall include the elected Ministry Chairpersons.
+§ 11. The legislative branch is comprised of the parliament and ministry offices.
 § 12. The Judicial branch is composed of the Court of Justice. There shall be one Supreme Court of Justice. The law may define inferior courts as deemed necessary.
 § 13 Council of Supreme Values and Law enforcement is the supervisory branch of government.
 
@@ -367,7 +367,7 @@ Article 32. Asgardia’s Head of State
 -- The seconds and subsequent Heads of State may be any Asgardian Citizen that submits his/her candidacy and qualifications to the Parliament for consideration. The Parliament shall appoint a committee of no more than 7 members to confirm the qualifications and, upon committee approval, provide the recommendation of the Candidates to the Council of Supreme Values. The Council will further interview the Candidates and confirm their fitness to lead the honorable office as defined by the supreme values of Asgardia. Three Earth-months prior to the conclusion of the current Head of State term, the Council of Supreme Values shall present the Candidates to the public for a final vote. There will be a maximum of five candidates including the current Head of State, if he/she has not already served a second term. Two Earth-months prior to the conclusion of the current Head of State, the general election shall commence. Citizen votes shall be collected over a period of 48 Earth Hours and the candidate with the most votes shall be the next Head of State. In the even that two or more Candidate have the same number of votes, the Chairperson of the Council of the Supreme Values shall cast the tie-breaker vote.
 -- Upon retirement of the HoS, except in case of Impeachment, shall enjoy guaranteed personal safety and the protection of his/her private property for the remainder of his/her life.
 -- While in Office, the Head of State shall be referred only by titles of “Asgardian Head of State” or “Head of Asgardia.” No suggestion of Noble title may be used.
-7. In the event the Head of State dies, resigns, becomes permanently incapacitated or is declared missing, as well as in the circumstances stipulated by law where the Head of State is unable to perform his/her duties, his/her duties temporarily pass to the Chairperson of the Royal Council of Supreme Values until the reasons which prevented the Head of State from performing such duties cease to be in effect or until the inauguration of the new Head of State. The Head of State must prove his fitness within two Earth-months and by the approval of a certified medical physician duly appointed by the Ministry of Science. In the event that both the Head of State and Chairperson of Council of Supreme Values are unable to perform such duties, the responsibilities shall fall to the following line of succession:
+7. In the event the Head of State dies, resigns, becomes permanently incapacitated or is declared missing, as well as in the circumstances stipulated by law where the Head of State is unable to perform his/her duties, his/her duties temporarily pass to the Chairperson of the Council of Supreme Values until the reasons which prevented the Head of State from performing such duties cease to be in effect or until the inauguration of the new Head of State. The Head of State must prove his fitness within two Earth-months and by the approval of a certified medical physician duly appointed by the Ministry of Science. In the event that both the Head of State and Chairperson of Council of Supreme Values are unable to perform such duties, the responsibilities shall fall to the following line of succession:
  - Ministry of Science Chairperson
  - Ministry of Safety and Security Chairperson
  - Ministry of Finance Chairperson
@@ -388,7 +388,7 @@ Article 32. Asgardia’s Head of State
 14. The Head of State issues decrees which are mandatory for Asgardian citizens. Head of State decrees must not be counter to the Constitution and Asgardia’s laws.
 
 Article 33. Council of Supreme Values
--- Terms of “Council of Supreme Values,” “Supreme Values Council,” and “The Council” are synonymous. 
+-- Terms of “Council of Supreme Values,” “Supreme Values Council,” and “The Council” are synonymous.
 -- Powers of Impeachment shall be empowered to the supervisory branch.
 -- Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under Asgardia: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
 -- Any officer of law shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
@@ -398,12 +398,27 @@ Article 33. Council of Supreme Values
 
 Article 34. Parliament and Ministries
 -- 
--- The Parliament is empowered to 
--- 
--- 
+-- The Parliament is directly elected from Citizens that submit their candidacy to The Council.
+-- Parliament must confirm and ratify all treaties signed by the Head of State with a two-thirds majority.
+-- Parliament shall appoint new Ministries as deemed required.
+-- The Ministries are:
+ a. Ministry of Information and Communication
+ b. Ministry of Justice
+ c. Ministry of Science
+ d. Ministry of Citizenship
+ e. Ministry of Foreign Affairs
+ f. Ministry of Finance
+ g. Ministry of Trade and Commerce
+ h. Ministry of Youth and Education
+ i. Ministry of Safety and Security
+ j. Ministry of Equity and Resources
+ k. Ministry of Administrative Affairs
+
 
 Article 35. 
+
 Article 36. 
+
 Article 37. Judiciary
 -- Citizens are guaranteed that every person accused of wrongdoing has the right to a fair trial before a competent judge and a jury of one's peers.
 
