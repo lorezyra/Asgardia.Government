@@ -104,8 +104,8 @@ Article 7. Location of Citizens
 § 2. An Asgardian citizen’s permanent residence in an Earth nation does not deprive or diminish his/her rights or freedoms, does not suspend or terminate his/her citizenship and does not annul his/her obligations to Asgardia.
 
 Article 8. Key Citizen Rights and Freedoms 
-§ 1. All human and citizen rights and freedoms are recognised in Asgardia in accordance with generally recognised international principles and norms. Human rights and freedoms are inalienable and enjoyed by all persons from birth on the basis of the law.
-§ 2. All Asgardian citizens are equal.
+§ 1. The fundamental human rights by this Constitution guaranteed to the people of Asgardia are fruits of the age-old struggle of man to be free; they have survived the many exacting tests for durability and are conferred upon this and future generations in trust, to be held for all time inviolate. The people shall not be prevented from enjoying any of the fundamental human rights. These fundamental human rights guaranteed to the people by this Constitution shall be conferred upon the people of this and future generations as eternal and inviolate rights. 
+§ 2. All of the people shall be respected as individuals. Their right to life, liberty, and the pursuit of happiness shall, to the extent that it does not interfere with the public welfare, the Supreme Values of Asgardia, and in other governmental affairs. All Citizens are considered equal under the law and there shall be no discrimination in political, economic or social relations because of race, creed, sex, social status or family origin. 
 § 3. All persons born within Asgardian territories will be granted citizenship.
 § 4. All citizens, upon reaching 16 Earth-years are empowered to exercise their full rights and obligations.
 § 5. Key Citizen Rights and Freedoms: 
@@ -118,12 +118,13 @@ Article 8. Key Citizen Rights and Freedoms 
  g. the right to personal safety and the safety of the home;
  h. the right to self-governance;
  i. the right to own and inherit property.
-§ 6. All citizens have the right to seek legal reprieve in the Justice Court for any infringement of rights and property.
-§ 7. Asgardian citizens may not be extradited to other states except as defined by the law.
-§ 8. Asgardian citizens have the right to create associations and societies based on the law.
-§ 9. Asgardian citizens have the right of peaceful and unarmed assembly.
-§ 10. The enumeration of specific citizen rights and freedoms in this article shall not be interpreted as the negation or diminishment of other citizen rights and freedoms stipulated by other articles of Asgardia’s Constitution, the laws of Asgardia, and generally recognised human rights and freedoms.
-§ 11. Citizen rights and freedoms may only be restricted by the law of Asgardia to the extent required to protect Asgardia’s national sovereignty, ensure Asgardia’s security, enable the performance of its mission and supreme values, and protect the rights of Asgardian citizens.
+§ 6. Children shall not be exploited. 
+§ 7. All citizens have the right to seek legal reprieve in the Justice Court for any infringement of rights and property. Every person may sue for redress as provided by law from the State or a public entity, in case he has suffered damage through illegal act of any public official. 
+§ 8. Asgardian citizens may not be extradited to other states except as defined by the law.
+§ 9. Asgardian citizens have the right to create associations and societies based on the law.
+§ 10. Asgardian citizens have the right of peaceful and unarmed assembly.
+§ 11. The enumeration of specific citizen rights and freedoms in this article shall not be interpreted as the negation or diminishment of other citizen rights and freedoms stipulated by other articles of Asgardia’s Constitution, the laws of Asgardia, and generally recognised human rights and freedoms.
+§ 12. Citizen rights and freedoms may only be restricted by the law of Asgardia to the extent required to protect Asgardia’s national sovereignty, ensure Asgardia’s security, enable the performance of its mission and supreme values, and protect the rights of Asgardian citizens.
 
 Article 9. Key Citizen Obligations
 § 1. Asgardian citizens have inalienable and indispensable rights. Asgardian citizen obligations arise from the moment they become citizens of Asgardia.
@@ -136,6 +137,7 @@ Article 9. Key Citizen Obligations
 § 9. In accordance with the established Law, gross failure to perform citizen obligations may lead to suspension or permanent revocation of Asgardian citizenship, fines, restriction, and/or permanent revocation of access to Asgardia’s electronic and physical resources.
 § 10. The death penalty is prohibited in Asgardia.
 § 11. The creation of private prisons is prohibited in Asgardia. However, law may establish State owned and operated rehabitation centers.
+§ 12. The people shall be liable to taxation as provided by law.
 
 Article 10. Guarantees of Citizen Rights and Freedoms
 § 1. The state guarantees the rights and freedoms of citizens through the use of state body powers and all available resources.
@@ -357,7 +359,8 @@ Article 31. Legal System and Branch structures
 § 10. The Executive branch shall include the elected Ministry Chairpersons.
 § 11. The legislative branch is comprised of the parliament and ministry offices.
 § 12. The Judicial branch is composed of the Court of Justice. There shall be one Supreme Court of Justice. The law may define inferior courts as deemed necessary.
-§ 13 Council of Supreme Values and Law enforcement is the supervisory branch of government.
+§ 13. Council of Supreme Values and Law enforcement is the supervisory branch of government.
+§ 14. No officer of law shall be permitted to hold more than one office at a time.
 
 
 Article 32. Asgardia’s Head of State
@@ -397,10 +400,10 @@ Article 33. Council of Supreme Values
 
 
 Article 34. Parliament and Ministries
--- 
--- The Parliament is directly elected from Citizens that submit their candidacy to The Council.
+-- The term of office of members of the Parliament shall be five years, and election for half the members shall take place every three years. 
+-- The Parliament is directly elected from Citizens that submit their candidacy to The Council and directly voted for by citizen elections.
 -- Parliament must confirm and ratify all treaties signed by the Head of State with a two-thirds majority.
--- Parliament shall appoint new Ministries as deemed required.
+-- Parliament shall appoint new Ministries as deemed required in referendum.
 -- The Ministries are:
  a. Ministry of Information and Communication
  b. Ministry of Justice
@@ -420,13 +423,18 @@ Article 35.
 Article 36. 
 
 Article 37. Judiciary
--- Citizens are guaranteed that every person accused of wrongdoing has the right to a fair trial before a competent judge and a jury of one's peers.
+-- In all criminal cases, the accused shall enjoy the right to a speedy and public trial by an impartial, competent judge and a jury of one's peers. He shall be permitted full opportunity to examine all witnesses, and he shall have the right of compulsory process for obtaining witnesses on his behalf at public expense. At all times the accused shall have the assistance of competent counsel who shall, if the accused is unable to secure the same by his own efforts, be assigned to his use by the State.
+-- No person shall be held criminally liable for an act which was lawful at the time it was committed, or of which he has been acquitted, nor shall he be placed in double jeopardy.
+-- Any person, in case he is acquitted after he has been arrested or detained, may sue the State for redress as provided by law.
 
 Article 38. Prosecutor’s Office 
 Article 39. National Audit Office
 -- division of the supervisory branch
 Article 40. Law Enforcement
 -- division of supervisory branch.
+-- No person shall be apprehended except upon warrant issued by a competent judicial officer which specifies the offense with which the person is charged, unless he is apprehended, the offense being committed.
+-- No person shall be arrested or detained without being at once informed of the charges against him or without the immediate privilege of counsel; nor shall he be detained without adequate cause; and upon demand of any person such cause must be immediately shown in open court in his presence and the presence of his counsel.
+-- The infliction of torture by any public officer and cruel punishments are absolutely forbidden.
 
 
 
