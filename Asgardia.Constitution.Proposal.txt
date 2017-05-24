@@ -334,25 +334,51 @@ Article 30. Government 
 
 
 CHAPTER 8. ADMINISTRATION OF GOVERNMENT
-Article 31. Branch structures
--components: Executive, legislative, judicial, and supervisory branches.
--- The Head of State (HoS) is the Executive branch.
--- The Executive branch shall include the elected Ministry Leaders.
--- The legislative branch is comprised of the parliament and ministries.
--- The Judicial branch is composed of the Court of Justice. There shall be one Supreme Court of Justice. The law may define inferior courts as deemed necessary.
--- Council of Supreme Values and Law enforcement is the supervisory branch of government.
+Article 31. Legal System and Branch structures
+§ 1. The Constitution of Asgardia is the foundation of Asgardia’s legal system. Asgardia’s Constitution takes precedence over all other legal documents and is directly applicable.
+§ 2. Asgardia’s legal acts include:
+ a. referendum decisions;
+ b. decrees of the Head of State;
+ c. acts of the Royal Council of Supreme Values;
+ d. international treaties;
+ e. laws;
+ f. acts of Parliament;
+ g. Government resolutions;
+ h. National Audit Office acts;
+ i. prosecution authority acts;
+ j. National Bank acts;
+ k. acts of ministries;
+ l. security service acts.
+§ 3. Asgardia’s Constitution and legal acts apply throughout Asgardia’s territory and to all Asgardian citizens irrespective of their location. In the event of differences between legal acts of the state in which an Asgardian citizen is located and Asgardia’s legal acts, if such differences are not addressed by an international treaty to which Asgardia is a party, the Asgardian citizen may operate on the basis of the acts of the state in which he/she is located.
+§ 4. Laws and other legal acts adopted in Asgardia may not be counter to Asgardia’s Constitution or distort its provisions in any other way. Laws and other legal acts that are counter to the Constitution shall be repealed and declared void in accordance with the procedure set by the law of Asgardia.
+§ 5. International treaties executed by Asgardia may not be counter to its Constitution. Treaties executed by Asgardia become part of its legal system.
+§ 6. Asgardia recognises generally accepted international principles and norms.
+§ 7. The requirements for preparation, consideration, adoption, official publication, entry into force, interpretation and systematisation of legal acts, as well as legal force and methods of resolving contradictions between legal acts, are set by the Constitution and Asgardian law. 
+§ 8. The branches of Government are: 
+ a. Executive, 
+ b. Legislative, 
+ c. Judicial, and 
+ d. Supervisory.
+§ 9. The Head of State (HoS) is the Executive branch.
+§ 10. The Executive branch shall include the elected Ministry Leaders.
+§ 11. The legislative branch is comprised of the parliament and ministries.
+§ 12. The Judicial branch is composed of the Court of Justice. There shall be one Supreme Court of Justice. The law may define inferior courts as deemed necessary.
+§ 13 Council of Supreme Values and Law enforcement is the supervisory branch of government.
+
 
 Article 32. Asgardia’s Head of State
 -- HoS is limited to a maximum of two terms. Each term shall not exceed 5 years.
 -- The HoS shall be a minimum age of 35, hold a professional certification in law or science, and be a citizen of Asgardia for at least five years. The required merits of Candidates for HoS shall be further defined by law.
--- The Head of Nation role shall be abolished upon the adoption of this Constitution. The current Head of Nation, as defined by Decree # 1, shall be requested to take the honorable role of Head of State. After five years, the first Head of State shall agree to step down unless voted to a second term in office. In the event the Head of Nation declines to become the Head of State, upto five Candidates shall be vetted by special committee appointed by the Head of Nation, within 30 Earth-days, and hold a general Election where the candidate with the most votes shall become the Head of State. In the case where two or more Candidates have the same number of Votes, the Head of Nation shall cast a tie-breaker vote. 
+-- The Head of Nation role shall be abolished upon the adoption of this Constitution. The current Head of Nation, as defined by Decree # 1, shall be requested to take the honorable role of Head of State. After five years, the first Head of State shall agree to step down unless voted to a second term in office. In the event the Head of Nation declines to become the Head of State, upto five Candidates shall be vetted by special committee appointed by the Head of Nation, within 30 Earth-days, and hold a general Election where the candidate with the most votes shall become the Head of State. In the case where two or more Candidates have the same number of Votes, the Head of Nation shall cast a tie-breaker vote.
 -- Upon retirement of the HoS, except in case of Impeachment, shall enjoy guaranteed personal safety and the protection of his/her private property for the remainder of his/her life.
+-- While in Office, the HoS shall be referred only by titles of “Asgardian Head of State” or “Head of Asgardia.” No suggestion of Noble title may be used.
+-- 
 
 Article 33. Council of Supreme Values
 -- Powers of Impeachment shall be empowered to the supervisory branch.
 -- Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under Asgardia: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
 -- Any officer of law shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
--- 
+-- Shall review and make consistent all Decrees made by the HoS. By a two-thirds majority, may vote to void any decree that violates the spirit of the Supreme Values.
 
 Article 34. Parliament and Ministries
 -- 
@@ -363,7 +389,7 @@ Article 34. Parliament and Ministries
 Article 35. 
 Article 36. 
 Article 37. Judiciary 
-Article 38. 
+Article 38. Prosecutor’s Office 
 Article 39. National Audit Office
 -- division of the supervisory branch
 Article 40. Law Enforcement
