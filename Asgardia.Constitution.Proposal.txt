@@ -26,7 +26,7 @@ DECLARATION
 • ensure the protection of humankind from outer space threats;
 • ensure equal opportunities in space for all Asgardians living on Earth, regardless of geographic, financial, technological and other features of the countries of their earthly citizenship.
 
-§ 3. Any citizen of Earth can become a citizen of Asgardia, if he concurs with this Declaration, respects the Constitution and legislation of Asgardia. 
+§ 3. Any citizen of Earth can become a citizen of Asgardia, if he/she concurs with this Declaration, respects the Constitution and legislation of Asgardia. 
 § 4. All citizens of Asgardia are equal, regardless of their country of origin, residence, citizenship, race, nation, gender, language, or financial standing. 
 § 5. Asgardia respects the laws of the states on Earth and the international agreements and wishes to be recognized as equal country among other states on Earth. 
 § 6. Asgardia does not interfere in the affairs of the states on Earth on the principle of reciprocity.
@@ -36,9 +36,9 @@ DECLARATION
 
 
 
-§ 10. Asgardia mirrors the Earth, but it does not reflect the Earth’s borders. At the same time, in the framework of earthly law every Asgardian can freely live within the borders of any earthly country. 
+§ 10. Asgardia mirrors the Earth, but it does not reflect the Earth’s borders. At the same time, in the framework of earthly law every Asgardian can freely live within the borders of any earthly country.
 § 11. ASGARDIA encourages progressive scientific research, thinking and international cooperation. Every Asgardian can freely practice any religion on Earth.
-12. ASGARDIA endeavors to boldly travel beyond the history of Earth and build a new future for all in Space.
+§ 12. ASGARDIA endeavors to boldly travel beyond the history of Earth and build a new future for all in Space.
 
 
 
@@ -186,9 +186,9 @@ Article 14. Scientific Resources
 § 1. Asgardia is a nation which celebrates science, the digitised noosphere and ideas, which combines the advantages of information technology in virtual and physical space.
 § 2. Asgardia accumulates intellectual resources by digitising and storing the wealth of human knowledge in space.
 § 3. Asgardia creates and stores in orbit and on celestial bodies a Databank of biological materials from Earth.
-§ 5. Science, art, research and education may be pursued freely in Asgardia, subject to the Constitution.
-§ 6. Asgardia’s electronic resources include, among others, a secure information and telecommunications network, an electronic mail network, electronic mass media, television and radio broadcasting.
-§ 7. Asgardia guarantees the rights of authors, inventors and users of intellectual property. The Law of Asgardia may further define limits to this guarantee.
+§ 4. Science, art, research and education may be pursued freely in Asgardia, subject to the Constitution.
+§ 5. Asgardia’s electronic resources include, among others, a secure information and telecommunications network, an electronic mail network, electronic mass media, television and radio broadcasting.
+§ 6. Asgardia guarantees the rights of authors, inventors and users of intellectual property. The Law of Asgardia may further define limits to this guarantee.
 
 
 
@@ -273,7 +273,7 @@ Article 23. Security of Asgardia
 § 4. The list of information, as well as the procedure for including it in restricted information, is set by the law.
 § 5. The state ensures the creation of a secure environment for the circulation of accurate information (including electronic databases of scientific research and technical information) and the creation of informational infrastructure that is resistant to different types of impact.
 
-Article 24. Protection of Earth
+Article 24. Protection of Territories
 § 1. Asgardia uses state and private resources to build and operate systems to protect its territories from Space-originating threats independently and in cooperation with Earth nations and international organisations on the basis of bilateral and multilateral treaties. 
 § 2. In order to protect Asgardia’s authorised state bodies:
  a. monitor the condition and physical processes of potentially dangerous objects in near and outer space, model and forecast Space-originating threats and their potential consequences; 
@@ -307,7 +307,7 @@ Article 27. Language
 § 1. Asgardia’s official language shall be called BASIC and is based on International English.
 § 2. Official language in Asgardia are the administrative and document languages.
 § 3. All Asgardian citizens may use their native languages for communication, education, parenting and creative pursuits. The state guarantees that all may retain their native language but requires proficiency in Basic.
-§ 4. In its relations with Earth nations and international organisations, Asgardia uses Basic and the interlocutor. Agreements, treaties and other international acts executed by Asgardia may also be prepared in a different language requested by the other party on the mutual agreement of the parties.
+§ 4. In its relations with Earth nations and international organisations, Asgardia uses Basic and the interlocutor. Agreements, treaties and other international acts executed by Asgardia may also be prepared in a different language requested by the other party on the mutual agreement of the parties. All agreements, treaties, and partnerships must be stored in BASIC and the original interlocutor, if not BASIC.
 
 Article 28. Capital
 § 1. The celestial capital of Asgardia, Asgard or Celestial Asgard, is located on a currently active near-Earth orbit satellite or satellites that are part of an orbital constellation. The capital may subsequently be located on a Space Ark or, eventually, on a moon entity in accordance with international space law.
@@ -335,6 +335,15 @@ Article 30. Government 
 
 CHAPTER 8.
 ADMINISTRATION OF GOVERNMENT
+-components: Executive, legislative, judicial, and supervisory branches.
+-- The Head of State (HoS) is the Executive branch.
+-- The legislative branch is comprised of the parliament and ministries.
+-- The Judicial branch is composed of the Court of Justice. There shall be one Supreme Court of Justice. The law may define inferior courts as deemed necessary.
+-- Council of Supreme Values is the supervisory branch of government.
+-- HoS is limited to a maximum of two terms. Each term shall not exceed 5 years.
+-- The HoS shall be a minimum age of 35, hold a professional certification in law or science, and be a citizen of Asgardia for at least five years. The required merits of Candidates for HoS shall be further defined by law.
+-- The Head of the Nation role shall be abolished upon the adoption of this Constitution. The current Head of Nation, as defined by Decree # 1, shall be requested to take the role of Head of State. After five years, the first Head of State shall agree to step down unless voted to a second term in office. In the event the Head of the Nation declines to become the Head of State, upto five Candidates shall be vetted, within 30 Earth-days and hold a general Election where the candidate with the most votes shall become the Head of State.
+-- Upon retirement of the HoS, except in case of Impeachment, shall enjoy guaranteed personal safety and the safety of his/her private property for the remainder of life.
 
 
 
@@ -348,10 +357,10 @@ Article 42. First Constitution
 The first Constitution of Asgardia will be put to a referendum by Igor Ashurbeyli, proclaimed the Head of Nation on 20/Jan/2017 by Decree #1. The referendum on adopting the first Asgardian Constitution is open for voting to persons over the age of 16 who have submitted their personal data via the Internet and agree to the terms and conditions published on the https://asgardia.space website. These persons are considered Asgardian citizens on a preferential basis until the adoption of the law on citizenship of Asgardia and will retain this status subsequently if desired.
 
 Article 43. Quorum for Adoption of the Constitution
-Asgardia’s Constitution is adopted if more than 2/3rd majority of the total number of registered Asgardian citizens on the date of the vote voted in favour, and for adoption of the first Constitution.
+Asgardia’s Constitution is adopted if more than 2/3rd majority of the total number of registered Asgardian citizens on the date of the vote, voted in favour, and for adoption of the first Constitution.
 
 Article 44. Amendment of the Constitution
-Asgardia’s Constitution may be amended by means of a referendum. However, this article of amendment is unchangeable and cannot be voided by any law, decree, or other amendment.
+Asgardia’s Constitution may be amended by means of a referendum. However, this article of amendment is unchangeable and cannot be voided nor limited by any law, decree, or other amendment.
 
 Article 45. Procedure for Amendment of the Constitution
 Proposals on amending the Constitution may be made by the Head of State, Parliament and the Council of Supreme Values in accordance with the law of Asgardia. No amendment shall be made until 2/3rds majority of parliament agree.
