@@ -370,9 +370,16 @@ Article 32. Asgardia’s Head of State
 -- HoS is limited to a maximum of two terms. Each term shall not exceed 5 years.
 -- The HoS shall be a minimum age of 35, hold a professional certification in law or science, and be a citizen of Asgardia for at least five years. The required merits of Candidates for HoS shall be further defined by law.
 -- The Head of Nation role shall be abolished upon the adoption of this Constitution. The current Head of Nation, as defined by Decree # 1, shall be requested to take the honorable role of Head of State. After five years, the first Head of State shall agree to step down unless voted to a second term in office. In the event the Head of Nation declines to become the Head of State, upto five Candidates shall be vetted by special committee appointed by the Head of Nation, within 30 Earth-days, and hold a general Election where the candidate with the most votes shall become the Head of State. In the case where two or more Candidates have the same number of Votes, the Head of Nation shall cast a tie-breaker vote.
+-- The seconds and subsequent Heads of State may be any Asgardian Citizen that submits his/her candidacy and qualifications to the Parliament for consideration. The Parliament shall appoint a committee of no more than 7 members to confirm the qualifications and, upon committee approval, provide the recommendation of the Candidates to the Council of Supreme Values. The Council will further interview the Candidates and confirm their fitness to lead the honorable office as defined by the supreme values of Asgardia. Three Earth-months prior to the conclusion of the current Head of State term, the Council of Supreme Values shall present the Candidates to the public for a final vote. There will be a maximum of five candidates including the current Head of State if he/she has not already served a second term.
 -- Upon retirement of the HoS, except in case of Impeachment, shall enjoy guaranteed personal safety and the protection of his/her private property for the remainder of his/her life.
 -- While in Office, the HoS shall be referred only by titles of “Asgardian Head of State” or “Head of Asgardia.” No suggestion of Noble title may be used.
--- 
+7. In the event the Head of State dies, resigns, becomes permanently incapacitated or is declared missing, as well as in the circumstances stipulated by law where the Head of State is unable to perform his/her duties, his/her duties temporarily pass to the Chairperson of the Royal Council of Supreme Values until the reasons which prevented the Head of State from performing such duties cease to be in effect or until the inauguration of the new Head of State. The Head of State must prove his fitness within two Earth-months and by the approval of a certified medical physician duly appointed by the Ministry of Science. In the event that both the Head of State and Chairperson of Council of Supreme Values are unable to perform such duties, the responsibilities shall fall to the following line of succession:
+ - Ministry of Science Chairperson
+ - Ministry of Safety and Security Chairperson
+ - Ministry of Finance Chairperson
+ - Ministry of Administrative Affairs Chairperson
+ - Ministry of Justice Chairperson
+
 
 Article 33. Council of Supreme Values
 -- Powers of Impeachment shall be empowered to the supervisory branch.
@@ -388,7 +395,9 @@ Article 34. Parliament and Ministries
 
 Article 35. 
 Article 36. 
-Article 37. Judiciary 
+Article 37. Judiciary
+-- Citizens are guaranteed that every person accused of wrongdoing has the right to a fair and speedy trial before a competent judge and a jury of one's peers.
+
 Article 38. Prosecutor’s Office 
 Article 39. National Audit Office
 -- division of the supervisory branch
