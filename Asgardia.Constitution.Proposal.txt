@@ -282,7 +282,7 @@ Article 24. Protection of Territories
 
 Article 25. Asgardia’s Aerospace Fleet
 § 1. To protect Earth and its orbital satellite constellation, Asgardia creates an aerospace fleet in accordance with international space law.
-§ 2. The core of Asgardia’s aerospace fleet is comprised of universal robotic combat space platforms (URBOCOPS).
+§ 2. The core of Asgardia’s aerospace fleet is comprised of Universal RoBOtic COmbat space PlatformS (URBOCOPS).
 § 3. The Government controls Asgardia’s aerospace fleet in normal times.
 § 4. The Head of State and Parliament may declare a state of emergency, defence or disaster in accordance with the law. In such cases, the Head of State may assume the role of Commander-in-Chief. 
 § 5. Asgardia’s aerospace fleet operates in cooperation with Earth nations and international organisations to achieve peace in Space and protect Argardia from Space-originating threats.
@@ -429,29 +429,29 @@ Article 42. First Constitution
 The first Constitution of Asgardia will be put to a referendum by Igor Ashurbeyli, proclaimed the Head of Nation on 20/Jan/2017 by Decree #1. The referendum on adopting the first Asgardian Constitution is open for voting to persons over the age of 16 who have submitted their personal data via the Internet and agree to the terms and conditions published on the https://asgardia.space website. These persons are considered Asgardian citizens on a preferential basis until the adoption of the law on citizenship of Asgardia and will retain this status subsequently if desired.
 
 Article 43. Quorum for Adoption of the Constitution
-Asgardia’s Constitution is adopted if more than 2/3rd majority of the total number of registered Asgardian citizens on the date of the vote, voted in favour, and for adoption of the first Constitution.
+Asgardia’s Constitution is adopted if more than a two-thirds majority of the total number of registered Asgardian citizens on the date of the vote, voted in favour, and for adoption of the first Constitution.
 
 Article 44. Amendment of the Constitution
 Asgardia’s Constitution may be amended by means of a referendum. However, this article of amendment is unchangeable and cannot be voided nor limited by any law, decree, or other amendment.
 
 Article 45. Procedure for Amendment of the Constitution
-Proposals on amending the Constitution may be made by the Head of State, Parliament and the Council of Supreme Values in accordance with the law of Asgardia. No amendment shall be made until 2/3rds majority of parliament agree.
+Proposals on amending the Constitution may be made by the Head of State, Parliament and the Council of Supreme Values in accordance with the law of Asgardia. No amendment shall be made until two-thirdss majority of parliament agree.
 
 
 CHAPTER 10.
 TRANSITIONAL AND FINAL PROVISIONS
 
-Article 46. Special rights of the Head of State before the election of Parliament and formation of the Government of Asgardia
-In the absence of Asgardian laws and for the purposes of implementing the provisions of the Constitution before the election of Parliament and formation of the Government of Asgardia, the Head of State may issue decrees which remain in force until appropriate laws are adopted. All decrees will be reviewed by the Council of Supreme Values and the Court of Justice. Any decree may be revoked by the Council of Supreme Values and the Court of Justice provided that a 2/3rd majority stand in agreement from both state bodies.
+Article 46. Special Rights of the Head of State before the election of Parliament and Formation of the Government of Asgardia
+In the absence of Asgardian laws and for the purposes of implementing the provisions of the Constitution before the election of Parliament and formation of the Government of Asgardia, the Head of State may issue decrees which remain in force until appropriate laws are adopted. All decrees will be reviewed by the Council of Supreme Values and the Court of Justice. Any decree may be revoked by the Council of Supreme Values and the Court of Justice provided that a two-thirds majority stand in agreement from both state bodies.
 
-Article 47. Special procedure for election of a new Head of State
+Article 47. Special Procedure for the Election of a new Head of State
 If elections for a new Head of State are scheduled within the first five years of adoption of the Constitution, the requirements of Asgardia’s Constitution concerning the candidate for the position of Head of State holding citizenship for at least five years do not apply.
 
 Article 48. Deadline for election of Parliament 
 Elections for members of Parliament are called no later than six months after the adoption of the Constitution. The procedure for holding the first elections is set by a decree of the Head of State in accordance with the Constitution. The law on subsequent elections of members of Parliament is adopted after Parliament is formed.
 
 Article 49. Deadline for forming the Government of Asgardia
-The Government is formed no later than six months after election of Asgardia’s Parliament in accordance with the Constitution and the law. Until a Government is formed, the duties of the Government are performed by the Head of State and his/her Administration.
+The Government is formed no later than six months after the election of Asgardia’s Parliament in accordance with the Constitution and the law. Until a Government is formed, the duties of the Government are performed by the Head of State and his/her Administration.
 
 Article 50. Effectiveness of the Constitution
 The Constitution of Asgardia becomes effective on the day of its official publication at https://asgardia.space on the basis of the results from the referendum of 18 June 2017.
