@@ -511,7 +511,7 @@ Article 39. National Audit Office
 
 Article 40. Law Enforcement
 § 1. Division of supervisory branch.
-§ 2. No person shall be apprehended except upon warrant issued by a competent judicial officer which specifies the offense with which the person is charged, unless he/she is apprehended while the offense being committed.
+§ 2. No person shall be apprehended except upon warrant issued by a competent judicial officer which specifies the offense with which the person is charged, unless he/she is apprehended while the is offense being committed.
 § 3. No person shall be arrested or detained without being at once informed of the charges against him/her or without the immediate privilege of counsel; nor shall he/she be detained without adequate cause; and upon demand of any person such cause must be immediately shown in open court in his/her presence and the presence of his/her counsel.
 § 4. The infliction of torture by any public officer and cruel punishments are absolutely forbidden.
 
