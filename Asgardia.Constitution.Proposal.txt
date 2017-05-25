@@ -147,7 +147,7 @@ CHAPTER 4. ASGARDIAN RESOURCES
 Article 11. Human Resources
 § 1. Asgardia encourages the development of human resources.
 § 2. Asgardia uses its own material, financial, and other resources to ensure free access to distance learning, professional qualifications, and scientific and creative work for Asgardian citizens.
-§ 3. Asgardian citizens are entitled to free time for self-development, self-improvement, and creative and cultural pursuits for a minimum of thirty-five percent of days in the Earth-year while employed by a business operating within Asgardian territories. It is not required to spend this time contiguously.
+§ 3. Asgardian citizens are entitled to free time for self-development, self-improvement, and creative and cultural pursuits for a minimum of thirty-five (35) percent of Earth-days in the Earth-year while employed by a business operating within Asgardian territories. It is not required to spend this time contiguously.
 § 4. Asgardia works to create jobs and facilitate maximum utilization of the abilities and qualifications of its citizens.
 
 Article 12. Natural Resources
@@ -345,11 +345,11 @@ Article 31. Legal System and Branch structures
 § 14. No officer of the government or law shall be permitted to hold more than one office at a time.
 
 Article 32. Asgardia’s Head of State
-§ 1. The Head of State is limited to a maximum of two terms. Each term shall not exceed five years of civic service.
-§ 2. The HoS shall be a minimum age of 35, hold a professional certification in law and/or science, and be a citizen of Asgardia for at least five years. The required merits of Candidates for HoS shall be further defined by law.
+§ 1. The Head of State (HoS) is limited to a maximum of two terms. Each term shall not exceed five (5) years of civic service.
+§ 2. The HoS shall be a minimum age of thirty-five (35), hold a professional certification in law and/or science, and be a citizen of Asgardia for at least five (5) years. The required merits of Candidates for HoS shall be further defined by law.
 § 3. The Head of State is not above the law of Asgardia.
-§ 4. The Head of Nation role shall be abolished upon the adoption of this Constitution. The current Head of Nation, as defined by Decree # 1, shall be requested to take the honorable role of Head of State. After five years, the first Head of State shall agree to step down unless voted to a second term in office. In the event the Head of Nation declines to become the Head of State, up to five Candidates shall be vetted by special committee appointed by the Head of Nation, within 30 Earth-days, and hold a general Election where the candidate with the most votes shall become the Head of State. In the case where two or more Candidates have the same number of Votes, the Head of Nation shall cast a tie-breaker vote.
-§ 5. The second and subsequent Heads of State may be any Asgardian Citizen that submits his/her candidacy and qualifications to the Parliament for consideration. The Parliament shall appoint a committee of no more than seven members to confirm the qualifications and, upon committee approval, provide the recommendation of the Candidates to the Council of Supreme Values. The Council will further interview the Candidates and confirm their fitness to lead the honorable office as defined by the Supreme Values of Asgardia. Three Earth-months prior to the conclusion of the current Head of State term, the Council of Supreme Values shall present the Candidates to the public for a final vote. There will be a maximum of five candidates including the current Head of State, if he/she has not already served a second term. Two Earth-months prior to the conclusion of the current Head of State, the general election shall commence. Citizen votes shall be collected over a period of 48 Earth-hours and the candidate with the most votes shall be the next Head of State. In the even that two or more Candidates have the same number of votes, the Chairperson of the Council of the Supreme Values shall cast the tie-breaker vote.
+§ 4. The Head of Nation role shall be abolished upon the adoption of this Constitution. The current Head of Nation, as defined by Decree # 1, shall be requested to take the honorable role of Head of State. After five (5) years, the first Head of State shall agree to step down unless voted to a second term in office. In the event the Head of Nation declines to become the Head of State, up to five (5) Candidates shall be vetted by special committee appointed by the Head of Nation, within thirty (30) Earth-days, and hold a general Election where the candidate with the most votes shall become the Head of State. In the case where two or more Candidates have the same number of Votes, the Head of Nation shall cast a tie-breaker vote.
+§ 5. The second and subsequent Heads of State may be any Asgardian Citizen that submits his/her candidacy and qualifications to the Parliament for consideration. The Parliament shall appoint a committee of no more than seven (7) members to confirm the qualifications and, upon committee approval, provide the recommendation of the Candidates to the Council of Supreme Values. The Council will further interview the Candidates and confirm their fitness to lead the honorable office as defined by the Supreme Values of Asgardia. Three Earth-months prior to the conclusion of the current Head of State term, the Council of Supreme Values shall present the Candidates to the public for a final vote. There will be a maximum of five (5) candidates including the current Head of State, if he/she has not already served a second term. Two Earth-months prior to the conclusion of the current Head of State, the general election shall commence. Citizen votes shall be collected over a period of 48 Earth-hours and the candidate with the most votes shall be the next Head of State. In the even that two or more Candidates have the same number of votes, the Chairperson of the Council of the Supreme Values shall cast the tie-breaker vote.
 § 6. Upon retirement of the HoS, except in the case of Impeachment, he/she shall enjoy guaranteed personal safety and the protection of his/her private property for the remainder of his/her life.
 [Edit: Is that necessary in the constitution as it is a matter of law?]
 § 7. While in Office, the Head of State shall be referred only by titles of “Asgardian Head of State” or “Head of Asgardia.”
@@ -363,7 +363,7 @@ Article 32. Asgardia’s Head of State
  a. appoints the Supreme Justice of the Judicial Court, the Chairperson of the National Audit Office, the Chairperson of the Council of Supreme Values, and Asgardian ambassadors extraordinary and plenipotentiary to Earth nation states;
  b. has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of Chairperson of the Government, member of the Council of Supreme Values, and Chairman of the National Bank, and has the right to propose removal of persons who hold these positions;
  c. calls elections of members of Parliament in accordance with the Constitution and the law of Asgardia and has the right to propose dissolution of Parliament to the Council of Supreme Values;
- d. negotiates and signs international treaties and ratification instruments, accepts letters of credence and recall from diplomatic representatives; treaties must be approved by Parliament via a simple majority within six Earth-months of HoS signing;
+ d. negotiates and signs international treaties and ratification instruments, accepts letters of credence and recall from diplomatic representatives; treaties must be approved by Parliament via a simple majority within six (6) Earth-months of HoS signing;
  e. proposes draft laws to Parliament, signs laws adopted by Parliament, returns draft laws without signature with noted objections, and has the right to veto laws adopted by Parliament;
  g. grants clemency;
  h. staffs the Administration of the Head of State, the body which supports the work of the Head of State;
@@ -374,9 +374,9 @@ Article 32. Asgardia’s Head of State
 
 Article 33. Council of Supreme Values
 § 1. The terms “Council of Supreme Values,” “Supreme Values Council,” and “The Council” are synonymous.
-§ 2. The Council shall be comprised of no more than 30 members appointed by Parliament.
-§ 3. Council members must be of minimum age of 30 Earth-years, hold a professional certification in law, business, or science, and be an Asgardian citizen for five Earth-years or more.
-§ 4. Council members may not serve more than a single, 15 Earth-year term.
+§ 2. The Council shall be comprised of no more than thirty (30)　members appointed by Parliament.
+§ 3. Council members must be of minimum age of thirty (30) Earth-years, hold a professional certification in law, business, or science, and be an Asgardian citizen for five (5) Earth-years or more.
+§ 4. Council members may not serve more than a single, fifteen (15) Earth-year term.
 § 5. Powers of Impeachment shall be empowered to the supervisory branch.
 § 6. Judgment in Cases of Impeachment shall not extend further than the removal from Office and disqualification to hold and enjoy any Office of honor, Trust, or Profit under Asgardia. The Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment, and Punishment in accordance with the Law.
 § 7. Any officer of law shall be removed from Office on Impeachment for, and in conviction of, treason, bribery, or other high crimes and misdemeanors.
@@ -385,19 +385,20 @@ Article 33. Council of Supreme Values
 § 10. The Council is charged with the removal of officers in the Executive, Legislative, and Judicial branches in accordance of law.
 § 11. The Council shall make the final recommendation for candidates of the Head of State for public election.
 § 12. Only the Council may consider demands to dissolve Parliament. The Council has the right to dissolve the Parliament based on the Supreme Values of Asgardia. The dissolution of Parliament requires a three-fourths, super-majority, vote of The Council members and approval from the Head of State.
+When the Parliament is dissolved, there must be a general election of members within forty (40) Earth-days from the date of dissolution, and the Parliament must be convoked within thirty (30) Earth-days from the date of the election.
 
 Article 34. Parliament
 § 1. Parliament is a unicameral legislature which represents all Asgardian citizens.
-§ 2. The term of office of members of the Parliament shall be six years. Parliament seats shall be up for election on a six year cadence, with only half of the seats of Parliament to be elected at any one time.
-§ 3. Parliament members must be at least 25 Earth-years of age and a Citizen of Asgardia.
+§ 2. The term of office of members of the Parliament shall be six (6) years. Parliament seats shall be up for election on a six (6) year cadence, with only half of the seats of Parliament to be elected at any one time.
+§ 3. Parliament members must be at least twenty-five (25) Earth-years of age and a Citizen of Asgardia.
 § 4. The Parliament is directly elected from Citizens that submit their candidacy to The Council and directly voted for by citizen elections.
 § 5. The status of members of Parliament, procedure for forming and organizing the work of Parliament, nominating, electing, and recalling candidates is set by the Constitution and the law of Asgardia. Parliament adopts rules to regulate internal administrative matters.
 § 6. Deliberation in Parliamentary sessions shall be public. However, a closed meeting may be held where a majority of two-thirds or more of those members present passes a resolution therein. Parliament shall keep a record of proceedings. This record shall be published and given general circulation, excepting such parts of proceedings of closed session as may be deemed to require secrecy. All open sessions of Parliament shall make votes of the members on any matter to be public record. Parliamentary sessions are held using video conferencing and other electronic systems which allow members to be identified and authenticated.
 § 7. Members of Parliament elect a Chairperson and his/her deputies from among Members of Parliament. Upon the acceptance of the Chairperson role, the former role shall be relinquished and open for immediate election of a new Parliament member.
 § 8. Parliamentary sessions may be held in person, remotely, or electronically.
-§ 9. Parliament must confirm and ratify all treaties signed by the Head of State with a simple majority within six Earth-months of the treaty’s signing.
+§ 9. Parliament must confirm and ratify all treaties signed by the Head of State with a simple majority within six (6) Earth-months of the treaty’s signing.
 § 10. Upon return of any vetoed law by the Head of State, Parliament may still enact that law if a super-majority of three-fourths of Parliament vote in favor of it.
-§ 11. Parliament shall be housed by no more than one member for every 5,000 Citizens and no less than one member for every 10,000 Citizens. During the first five years of Asgardia’s Constitution acceptance by all Citizens, the parliament may not be housed with less than 50 Parliament members.
+§ 11. Parliament shall be housed by no more than one member for every 5,000 Citizens and no less than one member for every 10,000 Citizens. During the first five (5) years of Asgardia’s Constitution acceptance by all Citizens, the parliament may not be housed with less than 50 Parliament members.
 § 12. Except in cases provided by law, members of Parliament shall be exempt from apprehension while the Parliament is in session, and any members apprehended before the opening of the session shall be freed during the term of the session upon demand of the Council of Supreme Values.
 § 13. An ordinary session of the Parliament shall be convened once per Earth-year.
 § 14. The Council may determine to convene extraordinary sessions of Parliament. When a quarter or more of the total members of Parliament makes the demand, The Council must agree to such convocation.
@@ -413,12 +414,13 @@ Article 34. Parliament
  i. holding parliamentary hearings and investigations, including summoning representatives of state bodies.
 § 16. Parliament issues resolutions on matters within its purview pursuant to the Constitution and the law of Asgardia. The procedure for Parliament adopting Asgardian laws and responsibility for violation of this procedure are set by the law.
 § 17. Asgardian law will establish taxes, duties, imposts, and excises, to pay the debts and provide for the common defense and general welfare of Asgardia.
+§ 18. Business cannot be transacted in Parliament unless one-third or more of total membership is present. All matters shall be decided by a majority of those present, except as elsewhere provided in the Constitution, and in case of a tie, the presiding officer shall decide the issue.
 
 Article 35. Government and Ministries
 § 1. Asgardia’s supreme state Legislative body is the Government.
 § 2. The Government is a collective body which comprises the Chairman of the Government, his/her deputies and ministers. The Government may hold meetings in person, remotely, or electronically.
 § 3. The system of the state’s executive bodies comprises 11 ministries.
-§ 4. The Chairman of the Government is appointed by Parliament on the proposal of the Council of Supreme Values on agreement with the Head of State. Candidates for minister are nominated by the Chairman of the Government and approved by Parliament. Ministers may be Asgardian Citizens aged 35 or older, who have a degree, qualifications, and professional experience in relevant area and the physical and mental health to perform the duties of a minister. Members of Parliament who have a private business must put it into blind-trust management for the duration of their Government position to avoid a conflict of interest, on agreement with the Chairman of the Government.
+§ 4. The Chairman of the Government is appointed by Parliament on the proposal of the Council of Supreme Values on agreement with the Head of State. Candidates for minister are nominated by the Chairman of the Government and approved by Parliament. Ministers may be Asgardian Citizens aged thirty-five (35) or older, who have a degree, qualifications, and professional experience in relevant area and the physical and mental health to perform the duties of a minister. Members of Parliament who have a private business must put it into blind-trust management for the duration of their Government position to avoid a conflict of interest, on agreement with the Chairman of the Government.
 § 5. The Chairman of the Government sets priority areas for the Government and organizes its work in accordance with the Constitution, the law of Asgardia, and Head of State decrees.
 § 6. The procedure for forming and organizing the work of the Government is set by the Constitution and the law of Asgardia.
 § 7. The Government’s powers include:
@@ -454,7 +456,7 @@ Article 35. Government and Ministries
  i. Ministry of Safety and Security
  j. Ministry of Equity and Resources
  k. Ministry of Administrative Affairs
-§ 2. Each Ministry Chairperson must be at least 35 Earth-years of age, possess a professional certification in law and/or science, and be a Citizen of Asgardia.
+§ 2. Each Ministry Chairperson must be at least thirty-five (35) Earth-years of age, possess a professional certification in law and/or science, and be a Citizen of Asgardia.
 § 3. Ministry Chairpersons are appointed by the Head of State in accordance to this Constitution and the law of Asgardia.
 § 4. Ministry staff shall be the purview the Ministry Chairperson, except that staff must hold a professional certification in the domain for that Ministry.
 
@@ -470,8 +472,8 @@ Article 37. Judiciary
 § 2. The terms: “The Court,” “Court of Justice,” and “Justice Court” are synonymous.
 § 3. The judiciary in Asgardia takes the form of the Court of Justice, comprising a presidium and four panels for constitutional, civil, administrative and criminal proceedings.
 § 4. The Court is headed by the Supreme Justice who is appointed by the Head of State. Court Justices are appointed by Parliament on the proposal of the Council of Supreme Values. The term of appointment is no more than 15 years.
-§ 5. The Presidium of the Court comprises nine Justices. The Presidium of the Court is chaired by the Supreme Justice.
-§ 6. Justices may be Asgardian citizens aged at least 35 Earth-years of age, hold a degree in law, and experience of working in the legal profession for at least five years. The law may set additional requirements in respect of Justices.
+§ 5. The Presidium of the Court comprises nine (9) Justices. The Presidium of the Court is chaired by the Supreme Justice.
+§ 6. Justices may be Asgardian citizens aged at least thirty-five (35) Earth-years of age, hold a degree in law, and experience of working in the legal profession for at least five (5) years. The law may set additional requirements in respect of Justices.
 § 7. The purview, composition of panels, procedure for forming and organising the work of the Court are set by the law.
 § 8. The Supreme Justice organises the work of the Court, sets the Court's internal code of conduct, calls and chairs meetings of the court’s Presidium and performs other duties in accordance with the law.
 § 9. Court hearings may be held in person or using video conferencing and other electronic systems which allow participants to be identified and authenticated.
@@ -491,8 +493,8 @@ Article 38. Prosecutor’s Office
 § 2. The prosecutor’s office monitors compliance of acts within state bodies and citizens on behalf of Asgardia. In the case of non-compliance, the prosecutor is responsible for presenting the case on behalf of Asgardia according to the law.
 § 3. The prosecutor’s office is appointed and removed by the Parliament.
 § 4. The prosecutor’s office is composed of the Prosecutor General and his/her deputies as needed.  Appointment to the position of deputy is made by the Prosecutor General.
-§ 5. The Prosecutor General is appointed for a term of no more than seven years.
-§ 6. Citizens appointed to the prosecutor’s office must be a 35 years of age or older, hold a degree in law and have previous work within the justice system.
+§ 5. The Prosecutor General is appointed for a term of no more than seven (7) years.
+§ 6. Citizens appointed to the prosecutor’s office must be thirty-five (35) years of age or older, hold a degree in law and have previous work within the justice system.
 
 
 Article 39. National Audit Office
@@ -501,7 +503,7 @@ Article 39. National Audit Office
 § 3. It is the responsibility of the NAO to publish the results of audits for information to citizens and Parliament before Parliament votes on policies involving public finance.
 § 4. The NAO is comprised of an Auditor General and deputy auditors as needed.
 § 5. Appointments to and removal from the NAO are carried out by the Council of Supreme Values.
-§ 6. Appointment to the position of Auditor General are made for a maximum of a five year term.
+§ 6. Appointment to the position of Auditor General are made for a maximum of a five (5) year term.
 § 7. Appointment to the position of deputy auditor in the NAO must be approved by Parliament.
 § 8. Citizens appointed to the NAO must have a degree in business or commerce and have worked in financial control or auditing for large projects within the general public or private business community.
 
@@ -538,20 +540,20 @@ CHAPTER 10. TRANSITIONAL AND FINAL PROVISIONS
 Article 45. First Constitution
 The first Constitution of Asgardia will be put to a referendum by Igor Ashurbeyli, proclaimed the Head of Nation on 20/Jan/2017 by Decree #1. The referendum on adopting the first Asgardian Constitution is open for voting to persons over the age of 16 who have submitted their personal data via the Internet and agree to the terms and conditions published on the https://asgardia.space website. These persons are considered Asgardian citizens on a preferential basis until the adoption of the law on citizenship of Asgardia and will retain this status subsequently if desired.
 
-Article 46. The Head of Nation role shall be abolished upon the adoption of this Constitution. The current Head of Nation, as defined by Decree # 1, shall be requested to take the honorable role of Head of State. After five years, the first Head of State shall agree to step down unless voted to a second term in office. 
+Article 46. The Head of Nation role shall be abolished upon the adoption of this Constitution. The current Head of Nation, as defined by Decree # 1, shall be requested to take the honorable role of Head of State. After five (5) years, the first Head of State shall agree to step down unless voted to a second term in office. 
 
 Article 47. Special Procedure for the Election of a New Head of State
 In the event the Head of Nation declines to become the Head of State, 
-subsequent Head of State may be any Asgardian Citizen that submits his/her candidacy and qualifications to the special committee appointed by the Head of Nation for consideration. The special committee of no more than seven members shall confirm the qualifications and, upon committee approval, provide the recommendation of the Candidates to the Council of Supreme Values. The Council will further interview the Candidates and confirm their fitness to lead the honorable office as defined by the Supreme Values of Asgardia. The Council of Supreme Values shall present the Candidates to the public for a final vote within 30 Earth-days. There will be a maximum of five candidates. The general election shall commence upon presentation of the candidates. Citizen votes shall be collected over a period of 48 Earth-hours and the candidate with the most votes shall be the next Head of State. In the event that two or more Candidates have the same number of votes, the former Head of Nation shall cast the tie-breaker vote.
+subsequent Head of State may be any Asgardian Citizen that submits his/her candidacy and qualifications to the special committee appointed by the Head of Nation for consideration. The special committee of no more than seven (7) members shall confirm the qualifications and, upon committee approval, provide the recommendation of the Candidates to the Council of Supreme Values. The Council will further interview the Candidates and confirm their fitness to lead the honorable office as defined by the Supreme Values of Asgardia. The Council of Supreme Values shall present the Candidates to the public for a final vote within thirty (30) Earth-days. There will be a maximum of five (5) candidates. The general election shall commence upon presentation of the candidates. Citizen votes shall be collected over a period of 48 Earth-hours and the candidate with the most votes shall be the next Head of State. In the event that two or more Candidates have the same number of votes, the former Head of Nation shall cast the tie-breaker vote.
 
 Article 48. Special Rights of the Head of State before the Election of Parliament and Formation of the Government of Asgardia
 In the absence of Asgardian laws and for the purposes of implementing the provisions of the Constitution before the election of Parliament and formation of the Government of Asgardia, the Head of State may issue decrees which remain in force until appropriate laws are adopted. All decrees will be reviewed by the Council of Supreme Values and the Court of Justice. Any decree may be revoked by the Council of Supreme Values and the Court of Justice, provided that a two-thirds majority stand in agreement from both state bodies.
 
 Article 49. Deadline for the Election of Parliament 
-Elections for members of Parliament are called no later than six months after the adoption of the Constitution. The procedure for holding the first elections is set by a decree of the Head of State in accordance with the Constitution. The law on subsequent elections of members of Parliament is adopted after Parliament is formed.
+Elections for members of Parliament are called no later than six (6) months after the adoption of the Constitution. The procedure for holding the first elections is set by a decree of the Head of State in accordance with the Constitution. The law on subsequent elections of members of Parliament is adopted after Parliament is formed.
 
 Article 50. Deadline for Forming the Government of Asgardia
-The Government is formed no later than six months after the election of Asgardia’s Parliament in accordance with the Constitution and the law. Until a Government is formed, the duties of the Government are performed by the Head of State and his/her Administration.
+The Government is formed no later than six (6) months after the election of Asgardia’s Parliament in accordance with the Constitution and the law. Until a Government is formed, the duties of the Government are performed by the Head of State and his/her Administration.
 
 Article 51. Effectiveness of the Constitution
 The Constitution of Asgardia becomes effective on the day of its official publication at https://asgardia.space on the basis of the results from the referendum of 18 June 2017.
