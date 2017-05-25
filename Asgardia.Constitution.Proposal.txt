@@ -507,10 +507,17 @@ Article 37. Judiciary
 [Edit: I think the rest of this is really a legal matter as we are just talking about the structure of the court here]
 
 Article 38. Prosecutor’s Office
-§ 1. Division of the Court of Justice
+§ 1. The Prosecutors office is a division of the Court of Justice.
+6. The prosecutors office monitors compliance of acts within state bodies and citizens on behalf of Asgardia. In the case of non-compliance the prosecutor is responsible for presenting the case on behalf of Asgardia according to the law.
+2. The prosecutors office is appointed and removed by the Parliament.
+3. The prosecutors office is composed of the Prosecutor General and his/her deputies as needed.  Appointment to the position of deputy is made by the Prosecutor General.
+4. The Prosecutor General is appointed for a term of no more than 6 years.
+5. Citizens appointed to the prosecutors office must be 35 years of age, hold a degree in law and have previous work within the justice system.
+
 
 Article 39. National Audit Office
-§ 1. Division of the Council of Supreme Values
+§ 1. The National Audit Office is a Division of the Council of Supreme Values
+
 
 Article 40. Law Enforcement
 § 1. Division of supervisory branch.
