@@ -21,9 +21,9 @@ adopt this
 DECLARATION
 § 1. Asgardia is a free and unified space state. 
 § 2. The objectives of Asgardia are to:
-a. ensure peace in space;
-b. ensure the protection of humankind from outer space threats;
-c. ensure equal opportunities in space for all Asgardians living on Earth, regardless of geographic, financial, technological and other features of the countries of their earthly citizenship.
+ a. ensure peace in space;
+ b. ensure the protection of humankind from outer space threats;
+ c. ensure equal opportunities in space for all Asgardians living on Earth, regardless of geographic, financial, technological and other features of the countries of their earthly citizenship.
 § 3. Any citizen of Earth can become a citizen of Asgardia, if he/she concurs with this Declaration, respects the Constitution and legislation of Asgardia. 
 § 4. All citizens of Asgardia are equal, regardless of their country of origin, residence, citizenship, race, nation, gender, language, or financial standing. 
 § 5. Asgardia respects the laws of the states on Earth and the international agreements and wishes to be recognized as equal country among other states on Earth. 
@@ -394,6 +394,7 @@ Article 33. Council of Supreme Values
 -- The terms: “Council of Supreme Values,” “Supreme Values Council,” and “The Council” are synonymous.
 -- The Council shall be comprised of no more than 30 members appointed by Parliament.
 -- Council members must be of minimum age of 30 Earth-years, hold a professional certification in law and/or science, and be a Citizen for five Earth-years or more.
+-- Council members may not serve more than a single, 15 Earth-year term.
 -- Powers of Impeachment shall be empowered to the supervisory branch.
 -- Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under Asgardia: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
 -- Any officer of law shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
@@ -401,10 +402,10 @@ Article 33. Council of Supreme Values
 -- No Person holding any Office of Profit or Trust under them, shall, without the Consent of the Council of Supreme Values, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State; and, No Title of Nobility shall be granted by Asgardia.
 -- The Council is charged with the removal of officers in the Executive, Legislative and Judicial branches in accordance of law.
 -- The Council shall make the final recommendation for candidates of the Head of State for public election.
--- Only the Council may consider demands to dissolve Parliament. The Council has the right to dissolve the Parliament based on the Supreme Values of Asgardia. The dissolution of Parliament requires a three-fourths super-majority vote of the Council members.
+-- Only the Council may consider demands to dissolve Parliament. The Council has the right to dissolve the Parliament based on the Supreme Values of Asgardia. The dissolution of Parliament requires a three-fourths, super-majority, vote of the Council members.
 
 
-Article 34. Parliament and Ministries
+Article 34. Parliament 
 1. Parliament is a unicameral legislature which represents all Asgardian citizens.
 3. The term of office of members of the Parliament shall be five years. The elections for half the members of Parliament shall take place three years thereafter such that no more than half of Parliament is to be elected at any one time.
 -- Parliament members must be at least 25 Earth-years of age and a Citizen of Asgardia.
@@ -413,24 +414,39 @@ Article 34. Parliament and Ministries
 the work of Parliament, nominating, electing and recalling candidates is set by
 the Constitution and the law of Asgardia. Parliament adopts rules to regulate
 internal administrative matters.
-7. Deliberation in Parliamentary sessions shall be public. However, a secret meeting may be held where a majority of two-thirds or more of those members present passes a resolution therefor. Parliament shall keep a record of proceedings. This record shall be published and given general circulation, excepting such parts of proceedings of secret session as may be deemed to require secrecy. All non-secret meetings of Parliament shall make votes of the members on any matter be pubic record.. Parliamentary sessions are held using
+7. Deliberation in Parliamentary sessions shall be public. However, a secret meeting may be held where a majority of two-thirds or more of those members present passes a resolution therefor. Parliament shall keep a record of proceedings. This record shall be published and given general circulation, excepting such parts of proceedings of secret session as may be deemed to require secrecy. All non-secret sessions of Parliament shall make votes of the members on any matter to be pubic record. Parliamentary sessions are held using
 video conferencing and other electronic systems which allow members to be
 identified and authenticated.
-8. Members of Parliament elect a Chairman and his/her deputies from among
-Members of Parliament.
+8. Members of Parliament elect a Chairperson and his/her deputies from among
+Members of Parliament. Upon the acceptance of the Chairperson role, the former role shall be relinquished and open for immediate election of a new Parliament member.
 9. Parliamentary sessions may be held in person, remotely and electronically.
 -- Parliament must confirm and ratify all treaties signed by the Head of State with a two-thirds majority within six-months of the treaty’s conclusion.
 -- Upon return of any vetoed law by the Head of State, Parliament may still enact that law if a super-majority of three-fourths of Parliament vote in favor of it.
--- Parliament shall be housed by no more than one member for every 5000 Citizens.
+-- Parliament shall be housed by no more than one member for every 5,000 Citizens and no less than one member for every 10,000 Citizens. During the first five years of Asgardia’s Constitution acceptance by all Citizens, the parliament may not be housed with less than 50 parliament members.
 -- Except in cases provided by law, members of Parliament shall be exempt from apprehension while the Parliament is in session, and any members apprehended before the opening of the session shall be freed during the term of the session upon demand of the Council of Supreme Values.
 -- An ordinary session of the Parliament shall be convoked once per year.
 -- The Council may determine to convoke extraordinary sessions of Parliament. When a quarter or more of the total members of Parliament makes the demand, The Council must determine on such convocation.
+12. The Parliament’s powers include:
+ a. adopting Asgardian law;
+ b. appointing the Chairman of Parliament, Prosecutor General, Chairman of
+the National Bank, Court Justices on the proposal of the Chamber
+of Supreme Values;
+ c. appointing and removing ministers from post on the proposal of the
+Chairman of the Government;
+ d. appointing and removing National Audit Office auditors from post;
+ e. calling elections for Head of State;
+ f. deciding on resignation of the Government and individual ministers;
+ g. approving Head of State decisions to declare a state of emergency;
+ h. calling referenda;
+ i. holding parliamentary hearings and investigations, including summoning
+representatives of state bodies.
 13. Parliament issues resolutions on matters within its purview pursuant to the
 Constitution and the law of Asgardia. The procedure for Parliament adopting
 Asgardian laws and responsibility for violation of this procedure are set by
 the law.
--- 
 
+
+Article 35. Government and Ministries
 -- The Ministries are:
  a. Ministry of Information and Communication
  b. Ministry of Justice
@@ -447,10 +463,25 @@ the law.
 -- Ministry Chairpersons are appointed by the Head of State in accordance to this Constitution and the law of Asgardia.
 -- Ministry staff shall be the purview the Ministry Chairperson, except that staff must hold a professional certification in the domain for that Ministry.
 
+Article 36. Decision-Making and Implementation 
+1. The Head of State sets the priorities for domestic and foreign policy by making
+annual and extraordinary addresses to Asgardian citizens at in-person and
+remote meetings of representatives of the supreme state bodies of Asgardia
+and issuing other decrees within his/her purview. The Head of State’s addresses
+serve as the document used to plan the country’s domestic and foreign policy
+for the upcoming year and beyond with the aim of performing Asgardia’s
+mission. The Head of State’s address is binding for all Asgardian state bodies
+and officials.
+2. Asgardian laws, plans and state development programs are developed
+and adopted in accordance with the Head of State’s address to implement
+the Constitution and perform Asgardia’s mission. Asgardia’s laws regulate key
+social relations.
+3. Asgardian citizens may initiate the making of government administrative
+decisions and participate in their preparation by means of electronic voting
+(right to propose legislation) in accordance with the law.
+4. To ensure implementation of Asgardian law, the Government and its ministries and other state bodies issue statutory instruments.
+5. Asgardian state bodies monitor the practical application of adopted/issued acts to improve legal acts within their purview. Monitoring and supervision of the implementation of adopted/issued legal acts is performed by Asgardia’s supervisory authorities and also by Asgardian citizens by using the mechanisms for public monitoring by means of electronic voting.
 
-Article 35. 
-
-Article 36. 
 
 Article 37. Judiciary
 -- Justice members must be at least 35 Earth-years of age, possess a professional certification in law, and be a Citizen of Asgardia.
