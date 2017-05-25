@@ -379,7 +379,7 @@ Article 32. Asgardia’s Head of State
  - Ministry of Justice Chairperson
 -- The Head of State:
  a. appoints the Supreme Justice of the Judicial Court, the Chairperson of the National Audit Office, the Chairperson of the Council of Supreme Values and Asgardian ambassadors extraordinary and plenipotentiary to Earth nations;
- b. has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of Chairperson of the Government, member of the Council of Supreme Values, Chairman of the National Bank, Prosecutor General, and has the right to propose removal of persons who hold these positions;
+ b. has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of Chairperson of the Government, member of the Council of Supreme Values, Chairman of the National Bank, and has the right to propose removal of persons who hold these positions;
  c. calls elections of members of Parliament in accordance with the Constitution and the law of Asgardia;
  d. negotiates and signs international treaties, ratification instruments, accepts letters of credence and recall from diplomatic representatives; treaties must be approved by Parliament via two-thirds majority within six Earth-months of HoS signing;
  e. proposes draft laws to Parliament, signs laws adopted by Parliament, and returns them without signature with the noted objections, and has the right to veto laws adopted by Parliament;
@@ -391,22 +391,28 @@ Article 32. Asgardia’s Head of State
 14. The Head of State issues decrees which are mandatory for Asgardian citizens. Head of State decrees must not be counter to the Constitution and Asgardia’s laws.
 
 Article 33. Council of Supreme Values
--- Terms of “Council of Supreme Values,” “Supreme Values Council,” and “The Council” are synonymous.
+-- The terms: “Council of Supreme Values,” “Supreme Values Council,” and “The Council” are synonymous.
+-- The Council shall be comprised of no more than 30 members appointed by Parliament.
+-- Council members must be of minimum age of 30 Earth-years, hold a professional certification in law or science, and be a Citizen for five Earth-years or more.
 -- Powers of Impeachment shall be empowered to the supervisory branch.
 -- Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under Asgardia: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
 -- Any officer of law shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
--- Shall review and make consistent all Decrees made by the HoS. By a two-thirds majority, may vote to void and remove any decree that violates the spirit of the Supreme Values.
+-- The Council is charged to review and make consistent all Decrees made by the HoS. By a two-thirds majority, may vote to void and remove any decree that violates the spirit of the Supreme Values.
 -- No Person holding any Office of Profit or Trust under them, shall, without the Consent of the Council of Supreme Values, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State; and, No Title of Nobility shall be granted by Asgardia.
--- The Council is charged with the removal of officers in the Executive, Legislative and Judicial branches as further defined by law.
+-- The Council is charged with the removal of officers in the Executive, Legislative and Judicial branches in accordance of law.
 -- The Council shall make the final recommendation for candidates of the Head of State for public election.
--- 
+-- Only the Council may consider demands to dissolve Parliament. The Council has the right to dissolve the Parliament based on the Supreme Values of Asgardia. The dissolution of Parliament requires a three-fourths super-majority vote of the Council members.
 
 
 Article 34. Parliament and Ministries
--- The term of office of members of the Parliament shall be five years, and election for half the members shall take place three years thereafter. 
+-- The term of office of members of the Parliament shall be five years. Half the members of Parliament shall take place three years thereafter such that no more than half of Parliament is to be elected at any one time.
 -- The Parliament is directly elected from Citizens that submit their candidacy to The Council and directly voted for by citizen elections.
 -- Parliament must confirm and ratify all treaties signed by the Head of State with a two-thirds majority within six-months of conclusion.
 -- Upon return of any vetoed law by the Head of State, Parliament may still enact that law if a super-majority of three-fourths of Parliament vote in favor of it.
+-- Parliament shall be housed by no more than one member for every 3000 Citizens.
+-- Except in cases provided by law, members of Parliament shall be exempt from apprehension while the Parliament is in session, and any members apprehended before the opening of the session shall be freed during the term of the session upon demand of the Council of Supreme Values.
+-- An ordinary session of the Parliament shall be convoked once per year.
+-- The Council may determine to convoke extraordinary sessions of Parliament. When a quarter or more of the total members of Parliament makes the demand, The Council must determine on such convocation.
 -- The Ministries are:
  a. Ministry of Information and Communication
  b. Ministry of Justice
@@ -419,7 +425,6 @@ Article 34. Parliament and Ministries
  i. Ministry of Safety and Security
  j. Ministry of Equity and Resources
  k. Ministry of Administrative Affairs
--- Parliament shall appoint new Ministries as deemed required in referendum.
 -- 
 
 
