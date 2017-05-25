@@ -97,7 +97,6 @@ Article 6. Asgardian Citizens
 § 2. Citizenship of Asgardia is a special type of citizenship and does not constitute dual or second citizenship for the purposes of Earth nation citizenship. A citizen of an Earth nation becoming an Asgardian citizen does not confer multiple citizenship status unless otherwise stipulated by an international treaty to which Asgardia is a party.
 § 3. A child gains citizenship of Asgardia at birth if at least one parent is a citizen of Asgardia. A child born before the foundation of Asgardia may become a citizen at the request of his/her parent(s) who are citizens of Asgardia.
 § 4. Citizenship may be terminated by the Asgardian citizen waiving citizenship or by Asgardia revoking or suspending citizenship rights. Grounds for revocation of citizenship, as well as restrictions on the acceptance of new citizens, are set by the Law of Asgardia. 
-§ 5. The death penalty is prohibited in Asgardia.[Edit: not obligations of citizens. they should be in chapter 6]
 § 6. The creation of private prisons is prohibited in Asgardia. However, law may establish State owned and operated rehabilitation centers. [Edit: not obligations of citizens. they should be in chapter 6] 
 
 Article 7. Location of Citizens
@@ -429,8 +428,8 @@ Article 34. Parliament
  g. approving Head of State decisions to declare a state of emergency;
  h. calling referenda;
  i. holding parliamentary hearings and investigations, including summoning representatives of state bodies.
-§ 15. Parliament issues resolutions on matters within its purview pursuant to the Constitution and the law of Asgardia. The procedure for Parliament adopting Asgardian laws and responsibility for violation of this procedure are set by the law.
-§ -. Asgardian law will establish taxes, duties, imposts, and excises, to pay the debts and provide for the common defense and general welfare of Asgardia.
+§ 16. Parliament issues resolutions on matters within its purview pursuant to the Constitution and the law of Asgardia. The procedure for Parliament adopting Asgardian laws and responsibility for violation of this procedure are set by the law.
+§ 17. Asgardian law will establish taxes, duties, imposts, and excises, to pay the debts and provide for the common defense and general welfare of Asgardia.
 
 Article 35. Government and Ministries
 § 1. Asgardia’s supreme state Legislative body is the Government.
@@ -484,40 +483,44 @@ Article 36. Decision-Making and Implementation
 § 5. Asgardian state bodies monitor the practical application of adopted/issued acts to improve legal acts within their purview. Monitoring and supervision of the implementation of adopted/issued legal acts is performed by Asgardia’s supervisory authorities and also by Asgardian citizens using the mechanisms for public monitoring by means of electronic voting.
 
 Article 37. Judiciary
-1. Justice in Asgardia is only administered in court.
-2. The terms: “The Court,” “Court of Justice,” and “Justice Court” are synonymous.
-3. The judiciary in Asgardia takes the form of the Court of Justice, comprising a presidium and four panels for constitutional, civil, administrative and criminal proceedings.
-4. The Court is headed by the Supreme Justice who is appointed by the Head of State. Court Justices are appointed by Parliament on the proposal of the Council of Supreme Values. The term of appointment is no more than 15 years.
-5. The Presidium of the Court comprises nine Justices. The Presidium of the Court is chaired by the Supreme Justice.
-6. Justices may be Asgardian citizens aged at least 35 Earth-years of age, hold a degree in law and experience of working in the legal profession for at least five years. The law may set additional requirements in respect of Justices.
-7. The purview, composition of panels, procedure for forming and organising the work of the Court are set by the law.
-8. The Supreme Justice organises the work of the Court, sets the Court's internal code of conduct, calls and chairs meetings of the court’s Presidium and performs other duties in accordance with the law.
-8. Court hearings may be held in person or using video conferencing and other electronic systems which allow participants to be identified and authenticated.
-9. The Court is funded exclusively through the national budget in accordance with the law of Asgardia.
-10. Adherence to Court rulings are mandatory for Asgardian citizens and all state bodies. 
+§ 1. Justice in Asgardia is only administered in court.
+§ 2. The terms: “The Court,” “Court of Justice,” and “Justice Court” are synonymous.
+§ 3. The judiciary in Asgardia takes the form of the Court of Justice, comprising a presidium and four panels for constitutional, civil, administrative and criminal proceedings.
+§ 4. The Court is headed by the Supreme Justice who is appointed by the Head of State. Court Justices are appointed by Parliament on the proposal of the Council of Supreme Values. The term of appointment is no more than 15 years.
+§ 5. The Presidium of the Court comprises nine Justices. The Presidium of the Court is chaired by the Supreme Justice.
+§ 6. Justices may be Asgardian citizens aged at least 35 Earth-years of age, hold a degree in law, and experience of working in the legal profession for at least five years. The law may set additional requirements in respect of Justices.
+§ 7. The purview, composition of panels, procedure for forming and organising the work of the Court are set by the law.
+§ 8. The Supreme Justice organises the work of the Court, sets the Court's internal code of conduct, calls and chairs meetings of the court’s Presidium and performs other duties in accordance with the law.
+§ 9. Court hearings may be held in person or using video conferencing and other electronic systems which allow participants to be identified and authenticated.
+§ 10. The Court is funded exclusively through the national budget in accordance with the law of Asgardia.
+§ 11. Adherence to Court rulings are mandatory for Asgardian citizens and all state bodies. 
+§ 12. The death penalty is prohibited in Asgardia.
+§ 13. All defendants shall be permitted full opportunity to examine all evidence and witnesses without prejudice. At all times defendants shall have the right to competent counsel. In the event a defendant cannot obtain competent council by his/her own efforts the state shall appoint counsel for his/her use.
+§ 14. In cases involving criminality, as defined by Asgardian law, the defendant shall enjoy the right to a timely and public trial. The trial shall be carried out by an impartial, competent judge and a jury of one's peers.
+§ 15. No person shall be held criminally liable for an act which was lawful at the time it was committed, or of which he has been acquitted, nor shall he be placed in double jeopardy.
+§ 16 Any person, in case he is acquitted after he has been arrested or detained, may sue the State for redress as provided by law.
+§ 17 No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land, space, or naval forces, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
+§ 18. Citizens have the right to appeal decisions handed down at trial by the process defined in the law of Asgardia.
 
-11. All defendants shall be permitted full opportunity to examine all evidence and witnesses without prejudice. At all times defendants shall have the right to competent counsel. In the event a defendant cannot obtain competent council by his/her own efforts the state shall appoint counsel for his/her use.
-12. In cases involving criminality, as defined by Asgardian law, the defendant shall enjoy the right to a timely and public trial. The trial shall be carried out by an impartial, competant judge and a jury of one's peers.
-[Edit: I think this shold maybe go in the "citizen rights" section]
-
--- In all criminal cases, the accused shall enjoy the right to a speedy and public trial by an impartial, competent judge and a jury of one's peers. He shall be permitted full opportunity to examine all witnesses, and he shall have the right of compulsory process for obtaining witnesses on his behalf at public expense. At all times the accused shall have the assistance of competent counsel who shall, if the accused is unable to secure the same by his own efforts, be assigned to his use by the State.
--- No person shall be held criminally liable for an act which was lawful at the time it was committed, or of which he has been acquitted, nor shall he be placed in double jeopardy.
--- Any person, in case he is acquitted after he has been arrested or detained, may sue the State for redress as provided by law.
--- No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land, space, or naval forces, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
-[Edit: I think the rest of this is really a legal matter as we are just talking about the structure of the court here]
 
 Article 38. Prosecutor’s Office
-§ 1. Division of the Court of Justice
+§ 1. The Prosecutors office is a division of the Court of Justice.
+§ 2. The prosecutors office monitors compliance of acts within state bodies and citizens on behalf of Asgardia. In the case of non-compliance the prosecutor is responsible for presenting the case on behalf of Asgardia according to the law.
+§ 3. The prosecutors office is appointed and removed by the Parliament.
+§ 4. The prosecutors office is composed of the Prosecutor General and his/her deputies as needed.  Appointment to the position of deputy is made by the Prosecutor General.
+§ 5. The Prosecutor General is appointed for a term of no more than 6 years.
+§ 6. Citizens appointed to the prosecutors office must be 35 years of age, hold a degree in law and have previous work within the justice system.
+
 
 Article 39. National Audit Office
 § 1. The National Audit Office (NAO) is a division of the Council of Supreme Values.
-2. The NAO is responsible for auditing central government departments, government agencies and non-departmental public bodies. The NAO is also responsible carries out Value for Money audits into the administration of public policy financing.
-3. It is the responsibility of the NAO to publish the results of audits for information to citizens and Parliament before Parliament votes on policies involving public finance.
-4. The NAO is comprised of an Auditor General and deputy auditors as needed.
-5. Appointments to and removal from the NAO are carried out by the Council of Supreme Values.
-6. Appointment to the position of Auditor General are made for a maximum 5 year term.
-7. Appointment to the position of deputy auditor in the NAO must be approved by Parliament.
-8. Citizens appointed to the NAO must have a degree in business or commerce and have worked in financial control or auditing for large projects within the general public or private business community.
+§ 2. The NAO is responsible for auditing central government departments, government agencies and non-departmental public bodies. The NAO is also responsible carries out Value for Money audits into the administration of public policy financing.
+§ 3. It is the responsibility of the NAO to publish the results of audits for information to citizens and Parliament before Parliament votes on policies involving public finance.
+§ 4. The NAO is comprised of an Auditor General and deputy auditors as needed.
+§ 5. Appointments to and removal from the NAO are carried out by the Council of Supreme Values.
+§ 6. Appointment to the position of Auditor General are made for a maximum 5 year term.
+§ 7. Appointment to the position of deputy auditor in the NAO must be approved by Parliament.
+§ 8. Citizens appointed to the NAO must have a degree in business or commerce and have worked in financial control or auditing for large projects within the general public or private business community.
 
 
 Article 40. Law Enforcement
