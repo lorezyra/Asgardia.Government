@@ -476,12 +476,24 @@ Article 36. Decision-Making and Implementation
 § 5. Asgardian state bodies monitor the practical application of adopted/issued acts to improve legal acts within their purview. Monitoring and supervision of the implementation of adopted/issued legal acts is performed by Asgardia’s supervisory authorities and also by Asgardian citizens by using the mechanisms for public monitoring by means of electronic voting.
 
 Article 37. Judiciary
-§ 1. Justice members must be at least 35 Earth-years of age, possess a professional certification in law, and be a Citizen of Asgardia.
-§ 2. Justice members, including the Chairperson, may serve no more than 15 years in office per term.
-§ 3. In all criminal cases, the accused shall enjoy the right to a speedy and public trial by an impartial, competent judge, and a jury of one's peers. He/she shall be permitted full opportunity to examine all witnesses, and he/she shall have the right of compulsory process for obtaining witnesses on his/her behalf at public expense. At all times the accused shall have the assistance of competent counsel who shall, if the accused is unable to secure the same by his/her own efforts, be assigned to his/her use by the State.
-§ 4. No person shall be held criminally liable for an act which was lawful at the time it was committed, or of which he/she has been acquitted, nor shall he/she be placed in double jeopardy.
-§ 5. Any person, in case he/she is acquitted after he/she has been arrested or detained, may sue the State for redress as provided by law.
-§ 6. No person shall be held to answer for a capital, or otherwise infamous, crime unless on a presentment or indictment of a Grand Jury, except in cases arising in the land, space, or naval forces, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
+1. Justice in Asgardia is only administered in court.
+-- The terms: “The Court,” “Court of Justice,” and “Justice Court” are synonymous.
+2. The judiciary in Asgardia takes the form of the Court of Justice, comprising a presidium and four panels for constitutional, civil, administrative and criminal proceedings.
+3. The Court is headed by the Supreme Justice who is appointed by the Head of State. Court Justices are appointed by Parliament on the proposal of the Council of Supreme Values.
+4. The Presidium of the Court comprises nine Justices. The Presidium of the Court is chaired by the Supreme Justice.
+5. Justices may be Asgardian citizens aged at least 35 Earth-years of age, hold a degree in law and experience of working in the legal profession for at least five years. The law may set additional requirements in respect of Justices.
+-- Justice members, including the Chairperson, may serve no more than 15 years in office per term.
+6. The purview, composition of panels, procedure for forming and organising the work of the Royal Court are set by the law.
+7. The Supreme Justice organises the work of the Royal Court, sets the court’s internal code of conduct, calls and chairs meetings of the court’s Presidium and performs other duties in accordance with the law.
+8. Court hearings are held using video conferencing and other electronic systems which allow participants to be identified and authenticated and are similar to in-person hearings.
+9. The Royal Court is funded exclusively through the national budget which must facilitate full and independent justice in accordance with the law.
+10. Justices are appointed for life, enjoy immunity and independence and are subject only to the Constitution and the law of Asgardia.
+11. Court rulings are mandatory for Asgardian citizens and all state bodies. 
+
+-- In all criminal cases, the accused shall enjoy the right to a speedy and public trial by an impartial, competent judge and a jury of one's peers. He shall be permitted full opportunity to examine all witnesses, and he shall have the right of compulsory process for obtaining witnesses on his behalf at public expense. At all times the accused shall have the assistance of competent counsel who shall, if the accused is unable to secure the same by his own efforts, be assigned to his use by the State.
+-- No person shall be held criminally liable for an act which was lawful at the time it was committed, or of which he has been acquitted, nor shall he be placed in double jeopardy.
+-- Any person, in case he is acquitted after he has been arrested or detained, may sue the State for redress as provided by law.
+-- No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land, space, or naval forces, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
 
 Article 38. Prosecutor’s Office
 § 1. Division of the Court of Justice
