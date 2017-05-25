@@ -359,13 +359,14 @@ Article 31. Legal System and Branch structures
 § 10. The Executive branch shall include the elected Ministry Chairpersons.
 § 11. The legislative branch is comprised of the parliament and ministry offices.
 § 12. The Judicial branch is composed of the Court of Justice. There shall be one Supreme Court of Justice. The law may define inferior courts as deemed necessary.
-§ 13. Council of Supreme Values and Law enforcement is the supervisory branch of government.
+§ 13. Council of Supreme Values, and Law enforcement is the supervisory branch of government.
 § 14. No officer of law shall be permitted to hold more than one office at a time.
 
 
 Article 32. Asgardia’s Head of State
 -- HoS is limited to a maximum of two terms. Each term shall not exceed 5 years of civic service.
 -- The HoS shall be a minimum age of 35, hold a professional certification in law or science, and be a citizen of Asgardia for at least five years. The required merits of Candidates for HoS shall be further defined by law.
+-- The Head of State is not above the law of Asgardia.
 -- The Head of Nation role shall be abolished upon the adoption of this Constitution. The current Head of Nation, as defined by Decree # 1, shall be requested to take the honorable role of Head of State. After five years, the first Head of State shall agree to step down unless voted to a second term in office. In the event the Head of Nation declines to become the Head of State, upto five Candidates shall be vetted by special committee appointed by the Head of Nation, within 30 Earth-days, and hold a general Election where the candidate with the most votes shall become the Head of State. In the case where two or more Candidates have the same number of Votes, the Head of Nation shall cast a tie-breaker vote.
 -- The seconds and subsequent Heads of State may be any Asgardian Citizen that submits his/her candidacy and qualifications to the Parliament for consideration. The Parliament shall appoint a committee of no more than 7 members to confirm the qualifications and, upon committee approval, provide the recommendation of the Candidates to the Council of Supreme Values. The Council will further interview the Candidates and confirm their fitness to lead the honorable office as defined by the supreme values of Asgardia. Three Earth-months prior to the conclusion of the current Head of State term, the Council of Supreme Values shall present the Candidates to the public for a final vote. There will be a maximum of five candidates including the current Head of State, if he/she has not already served a second term. Two Earth-months prior to the conclusion of the current Head of State, the general election shall commence. Citizen votes shall be collected over a period of 48 Earth Hours and the candidate with the most votes shall be the next Head of State. In the even that two or more Candidate have the same number of votes, the Chairperson of the Council of the Supreme Values shall cast the tie-breaker vote.
 -- Upon retirement of the HoS, except in case of Impeachment, shall enjoy guaranteed personal safety and the protection of his/her private property for the remainder of his/her life.
@@ -376,12 +377,11 @@ Article 32. Asgardia’s Head of State
  - Ministry of Finance Chairperson
  - Ministry of Administrative Affairs Chairperson
  - Ministry of Justice Chairperson
--- The Head of State is not above the law of Asgardia.
 -- The Head of State:
  a. appoints the Supreme Justice of the Judicial Court, the Chairperson of the National Audit Office, the Chairperson of the Council of Supreme Values and Asgardian ambassadors extraordinary and plenipotentiary to Earth nations;
- b. has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of Chairperson of the Government, member of the Council of Supreme Values, Chairman of the National Bank, Prosecutor General, Justices of the Judicial Court and has the right to propose removal of persons who hold these positions;
+ b. has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of Chairperson of the Government, member of the Council of Supreme Values, Chairman of the National Bank, Prosecutor General, and has the right to propose removal of persons who hold these positions;
  c. calls elections of members of Parliament in accordance with the Constitution and the law of Asgardia;
- d. negotiates and signs international treaties, ratification instruments, accepts letters of credence and recall from diplomatic representatives;
+ d. negotiates and signs international treaties, ratification instruments, accepts letters of credence and recall from diplomatic representatives; treaties must be approved by Parliament via two-thirds majority within six Earth-months of HoS signing;
  e. proposes draft laws to Parliament, signs laws adopted by Parliament, and returns them without signature with the noted objections, and has the right to veto laws adopted by Parliament;
  g. grants clemency;
  h. staffs the Administration of the Head of State, the body which supports the work of the Head of State;
@@ -405,8 +405,8 @@ Article 33. Council of Supreme Values
 Article 34. Parliament and Ministries
 -- The term of office of members of the Parliament shall be five years, and election for half the members shall take place three years thereafter. 
 -- The Parliament is directly elected from Citizens that submit their candidacy to The Council and directly voted for by citizen elections.
--- Parliament must confirm and ratify all treaties signed by the Head of State with a two-thirds majority.
--- Parliament shall appoint new Ministries as deemed required in referendum.
+-- Parliament must confirm and ratify all treaties signed by the Head of State with a two-thirds majority within six-months of conclusion.
+-- Upon return of any vetoed law by the Head of State, Parliament may still enact that law if a super-majority of three-fourths of Parliament vote in favor of it.
 -- The Ministries are:
  a. Ministry of Information and Communication
  b. Ministry of Justice
@@ -419,6 +419,8 @@ Article 34. Parliament and Ministries
  i. Ministry of Safety and Security
  j. Ministry of Equity and Resources
  k. Ministry of Administrative Affairs
+-- Parliament shall appoint new Ministries as deemed required in referendum.
+-- 
 
 
 Article 35. 
@@ -432,9 +434,10 @@ Article 37. Judiciary
 -- No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land, space, or naval forces, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
 
 
-Article 38. Prosecutor’s Office 
+Article 38. Prosecutor’s Office
+-- division of the Court of Justice
 Article 39. National Audit Office
--- division of the supervisory branch
+-- division of the Council of Supreme Values
 Article 40. Law Enforcement
 -- division of supervisory branch.
 -- No person shall be apprehended except upon warrant issued by a competent judicial officer which specifies the offense with which the person is charged, unless he is apprehended, the offense being committed.
