@@ -420,7 +420,7 @@ identified and authenticated.
 8. Members of Parliament elect a Chairperson and his/her deputies from among
 Members of Parliament. Upon the acceptance of the Chairperson role, the former role shall be relinquished and open for immediate election of a new Parliament member.
 9. Parliamentary sessions may be held in person, remotely and electronically.
--- Parliament must confirm and ratify all treaties signed by the Head of State with a two-thirds majority within six-months of the treaty’s conclusion.
+-- Parliament must confirm and ratify all treaties signed by the Head of State with a two-thirds majority within six-months of the treaty’s signing.
 -- Upon return of any vetoed law by the Head of State, Parliament may still enact that law if a super-majority of three-fourths of Parliament vote in favor of it.
 -- Parliament shall be housed by no more than one member for every 5,000 Citizens and no less than one member for every 10,000 Citizens. During the first five years of Asgardia’s Constitution acceptance by all Citizens, the parliament may not be housed with less than 50 parliament members.
 -- Except in cases provided by law, members of Parliament shall be exempt from apprehension while the Parliament is in session, and any members apprehended before the opening of the session shall be freed during the term of the session upon demand of the Council of Supreme Values.
@@ -447,7 +447,65 @@ the law.
 
 
 Article 35. Government and Ministries
--- The Ministries are:
+1. Asgardia’s supreme state Legislative body is the Government.
+2. The Government is a collective body which comprises the Chairman of the
+Government, his/her deputies and ministers. The Government may hold
+meetings in person, remotely or electronically.
+3. The system of the state’s executive bodies comprises 11 ministries.
+4. The Chairman of the Government is appointed by Parliament on the proposal
+of the Council of Supreme Values on agreement with the Head of State.
+Candidates for minister are nominated by the Chairman of the Government
+and approved by Parliament. Ministers may be Asgardian citizens aged
+35 or older, who have a degree, qualifications and professional
+experience in relevant area and the physical and mental health to perform the
+duties of a minister.
+Members of Parliament who have a private business must put it into trust
+management for the duration of their Government position to avoid a conflict
+of interest on agreement with the Chairman of the Government.
+5. The Chairman of the Government sets priority areas for the Government and
+organises its work in accordance with the Constitution, the law of Asgardia
+and Head of State decrees.
+6. The procedure for forming and organising the work of the Government is set
+by the Constitution and the law of Asgardia.
+7. The Government’s powers include:
+ a. implementing and defending the Constitution, implementing
+international treaties, laws, and Head of State decrees;
+b. developing and submitting draft bills to Parliament;
+c. developing and submitting draft budgets to Parliament and ensuring their
+implementation;
+d. controlling implementation of Government resolutions and other acts of
+state executive bodies;
+e. ensuring that national sovereignty is maintained and protected, ensuring
+national security and the security of its citizens;
+g. foreign relations;
+h. managing the national debt;
+i. organising a system for information support for state administration and
+statistical monitoring;
+j. providing a scientific basis for the actions of the executive, developing
+administrative decisions, plans, forecasts and state development
+programs, forecasting the consequences of planned decisions;
+k. monitoring social processes and interacting with citizens;
+l. controlling the work of state executive bodies;
+m. ensuring the rule of law, protecting the rights and obligations of citizens
+and public order;
+n. organising a system to train staff for the civil service and creating a
+succession pool;
+8. Asgardia has exclusive legislative rights in all financial matters. All Asgardian revenue and expenditure must be included in the budget, which must be
+balanced. Meeting the needs of Asgardia’s state administrative bodies and
+state-owned enterprises must not overload taxpayers and must ensure
+uniformity of living conditions in the nation.
+9. If the budget for the following year is not approved by law before the end
+of the financial year, prior to it becoming effective, the Government may
+conduct spending required to:
+ - maintain the institutions set by the law and implement measures set by
+the law;
+ - perform Asgardia’s legal obligations;
+ - continue other work and services if the budget for the previous year
+approved these amounts.
+10. The Government issues resolutions within its purview in accordance with
+and for the performance of the Constitution, international treaties, Head of
+State decrees, acts of the Chamber of Supreme Values and the law. 
+-- The Ministries of Government are:
  a. Ministry of Information and Communication
  b. Ministry of Justice
  c. Ministry of Science
