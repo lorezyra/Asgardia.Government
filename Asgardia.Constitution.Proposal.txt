@@ -395,12 +395,15 @@ Article 33. Council of Supreme Values
 -- Powers of Impeachment shall be empowered to the supervisory branch.
 -- Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under Asgardia: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
 -- Any officer of law shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
--- Shall review and make consistent all Decrees made by the HoS. By a two-thirds majority, may vote to void any decree that violates the spirit of the Supreme Values.
--- No Person holding any Office of Profit or Trust under them, shall, without the Consent of the Council of Supreme Values, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State; and, No Title of Nobility shall be granted by Asgardia. 
+-- Shall review and make consistent all Decrees made by the HoS. By a two-thirds majority, may vote to void and remove any decree that violates the spirit of the Supreme Values.
+-- No Person holding any Office of Profit or Trust under them, shall, without the Consent of the Council of Supreme Values, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State; and, No Title of Nobility shall be granted by Asgardia.
+-- The Council is charged with the removal of officers in the Executive, Legislative and Judicial branches as further defined by law.
+-- The Council shall make the final recommendation for candidates of the Head of State for public election.
+-- 
 
 
 Article 34. Parliament and Ministries
--- The term of office of members of the Parliament shall be five years, and election for half the members shall take place every three years. 
+-- The term of office of members of the Parliament shall be five years, and election for half the members shall take place three years thereafter. 
 -- The Parliament is directly elected from Citizens that submit their candidacy to The Council and directly voted for by citizen elections.
 -- Parliament must confirm and ratify all treaties signed by the Head of State with a two-thirds majority.
 -- Parliament shall appoint new Ministries as deemed required in referendum.
@@ -426,6 +429,8 @@ Article 37. Judiciary
 -- In all criminal cases, the accused shall enjoy the right to a speedy and public trial by an impartial, competent judge and a jury of one's peers. He shall be permitted full opportunity to examine all witnesses, and he shall have the right of compulsory process for obtaining witnesses on his behalf at public expense. At all times the accused shall have the assistance of competent counsel who shall, if the accused is unable to secure the same by his own efforts, be assigned to his use by the State.
 -- No person shall be held criminally liable for an act which was lawful at the time it was committed, or of which he has been acquitted, nor shall he be placed in double jeopardy.
 -- Any person, in case he is acquitted after he has been arrested or detained, may sue the State for redress as provided by law.
+-- No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land, space, or naval forces, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
+
 
 Article 38. Prosecutor’s Office 
 Article 39. National Audit Office
