@@ -505,15 +505,22 @@ Article 37. Judiciary
 
 Article 38. Prosecutor’s Office
 § 1. The Prosecutors office is a division of the Court of Justice.
-6. The prosecutors office monitors compliance of acts within state bodies and citizens on behalf of Asgardia. In the case of non-compliance the prosecutor is responsible for presenting the case on behalf of Asgardia according to the law.
-2. The prosecutors office is appointed and removed by the Parliament.
-3. The prosecutors office is composed of the Prosecutor General and his/her deputies as needed.  Appointment to the position of deputy is made by the Prosecutor General.
-4. The Prosecutor General is appointed for a term of no more than 6 years.
-5. Citizens appointed to the prosecutors office must be 35 years of age, hold a degree in law and have previous work within the justice system.
+§ 2. The prosecutors office monitors compliance of acts within state bodies and citizens on behalf of Asgardia. In the case of non-compliance the prosecutor is responsible for presenting the case on behalf of Asgardia according to the law.
+§ 3. The prosecutors office is appointed and removed by the Parliament.
+§ 4. The prosecutors office is composed of the Prosecutor General and his/her deputies as needed.  Appointment to the position of deputy is made by the Prosecutor General.
+§ 5. The Prosecutor General is appointed for a term of no more than 6 years.
+§ 6. Citizens appointed to the prosecutors office must be 35 years of age, hold a degree in law and have previous work within the justice system.
 
 
 Article 39. National Audit Office
-§ 1. The National Audit Office is a Division of the Council of Supreme Values
+§ 1. The National Audit Office (NAO) is a division of the Council of Supreme Values.
+§ 2. The NAO is responsible for auditing central government departments, government agencies and non-departmental public bodies. The NAO is also responsible carries out Value for Money audits into the administration of public policy financing.
+§ 3. It is the responsibility of the NAO to publish the results of audits for information to citizens and Parliament before Parliament votes on policies involving public finance.
+§ 4. The NAO is comprised of an Auditor General and deputy auditors as needed.
+§ 5. Appointments to and removal from the NAO are carried out by the Council of Supreme Values.
+§ 6. Appointment to the position of Auditor General are made for a maximum 5 year term.
+§ 7. Appointment to the position of deputy auditor in the NAO must be approved by Parliament.
+§ 8. Citizens appointed to the NAO must have a degree in business or commerce and have worked in financial control or auditing for large projects within the general public or private business community.
 
 
 Article 40. Law Enforcement
