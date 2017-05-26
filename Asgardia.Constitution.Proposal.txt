@@ -45,11 +45,11 @@ Asgardia - the Space Nation
 
 
 
-CHAPTER 2.
-GENERAL PROVISIONS
+CHAPTER 2. GENERAL PROVISIONS
 
 Article 1. Name
 The terms “Space State,” "Space Nation," “Space Nation of Asgardia,” and “Asgardia” are synonymous.
+
 Article 2. Status
 Asgardia is a Democratic Technocracy that is the first free space unitary, social nation under law which is above ethnic, national, and religious divides, based on fairness, peace, due process, and the equal dignity of every human being, as humankind explores the Universe.
 
@@ -222,7 +222,7 @@ Article 18. Equality of Dignity for All 
 § 2. Every person has the right to have their dignity recognised and protected in life and after death. No grounds can be used to diminish human dignity. The dignity of Asgardian citizens is protected by the state.
 § 3. The views of people and Asgardian citizens concerning human dignity are formed and fostered through education, parenting, propaganda and the media in accordance with Asgardia’s Supreme Values.
 § 4. The state protects groups of citizens who find themselves in a difficult position on Asgardian territory by providing them equal access to food, clothing, shelter and basic material benefits.
-§ 6. The government seeks to reduce inequality of social conditions and opportunities for Asgardian citizens, including those contingent on their country of residence.
+§ 5. The government seeks to reduce inequality of social conditions and opportunities for Asgardian citizens, including those contingent on their country of residence.
 
 Article 19. Labour
 § 1. The state and society encourage labour and seek to increase its value, significance, and prestige.
@@ -483,8 +483,8 @@ Article 37. Judiciary
 § 13. All defendants shall be permitted full opportunity to examine all evidence and witnesses without prejudice. At all times, defendants shall have the right to competent counsel. In the event a defendant cannot obtain competent council by his/her own efforts the state shall appoint counsel for his/her use.
 § 14. In cases involving criminality, as defined by Asgardian law, the defendant shall enjoy the right to a timely and public trial. The trial shall be carried out by an impartial, competent judge, and a jury of one's peers.
 § 15. No person shall be held criminally liable for an act which was lawful at the time it was committed, or of which he/she has been acquitted, nor shall he/she be placed in double jeopardy.
-§ 16 Any person, in case he/she is acquitted after he/she has been arrested or detained, may sue the State for redress as provided by law.
-§ 17 No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land, space, or naval forces, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
+§ 16. Any person, in case he/she is acquitted after he/she has been arrested or detained, may sue the State for redress as provided by law.
+§ 17. No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land, space, or naval forces, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
 § 18. Citizens have the right to appeal decisions handed down at trial by the process defined in the Law of Asgardia.
 
 Article 38. Prosecutor’s Office
@@ -555,3 +555,4 @@ The Government is formed no later than six (6) Earth-months after the election o
 
 Article 51. Effectiveness of the Constitution
 The Constitution of Asgardia becomes effective on the day of its official publication at https://asgardia.space on the basis of the results from the referendum of 18 June 2017.
+
