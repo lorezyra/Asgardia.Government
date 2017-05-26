@@ -2,7 +2,7 @@
 OF THE SPACE NATION OF ASGARDIA
 
 
-We, the people of planet Earth, irrespective of our place of birth, residence, Earthly citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states, use our free choice, will, and conviction, in the desire to:
+We, the people of planet Earth, irrespective of our place of birth, residence, earthly citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states, use our free choice, will, and conviction, in the desire to:
 • unite humanity above ethnic, national, and religious divides, based on fairness, peace, due process, and the equal dignity of every human being, as humankind looks to the future and the infinite space of the Universe,
 • resolve differences, conflicts, inequality, and imperfections in human history, bring spiritual and scientific practices and human creative achievements to a new level in all their civilizational and cultural multitude, and launch a new era in the history of humanity in space,
 • based on the Declaration of Unity of Asgardia as an integral part of this Constitution,
@@ -24,7 +24,7 @@ Declaration
  b. ensure the protection of humankind from outer space threats;
  c. ensure equal opportunities in space for all Asgardians living on Earth, regardless of geographic, financial, technological, and any other features of the countries of their earthly citizenship.
 § 3. Any citizen of Earth can become a citizen of Asgardia, if he/she concurs with this Declaration, and respects the Constitution and legislation of Asgardia. 
-§ 4. All citizens of Asgardia are equal, regardless of their place of birth, residence, Earthly citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states. 
+§ 4. All citizens of Asgardia are equal, regardless of their place of birth, residence, earthly citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states. 
 § 5. Asgardia respects the laws and international agreements of the nation states on Earth and wishes to be recognized as an equal country among other nation states on Earth. 
 § 6. Asgardia does not interfere in the affairs of the nation states of Earth on the principle of reciprocity.
 § 7. Asgardia takes part in events on Earth at an international level, like any other country, based on its membership in respective international organizations.
@@ -102,7 +102,7 @@ Article 7. Location of Citizens
 
 Article 8. Key Citizen Rights and Freedoms 
 § 1. The fundamental human rights of Asgardia are fruits of the age-old struggle of humanity to be free; they have survived the many exacting tests for durability and are conferred upon this and future generations in trust, to be held for all time inviolate. The people shall not be prevented from enjoying any of the fundamental human rights. These fundamental human rights guaranteed to the people by this Constitution shall be conferred upon the people of this and future generations as eternal and inviolate rights. 
-§ 2. All people shall be respected as individuals. Their right to life, liberty, and the pursuit of happiness shall not be infringed, to the extent that it does not interfere with the public welfare, the Supreme Values of Asgardia, or in other governmental affairs. All Citizens are considered equal under the law and there shall be no discrimination in political, economic, or social relations because of place of birth, residence, Earthly citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states. 
+§ 2. All people shall be respected as individuals. Their right to life, liberty, and the pursuit of happiness shall not be infringed, to the extent that it does not interfere with the public welfare, the Supreme Values of Asgardia, or in other governmental affairs. All Citizens are considered equal under the law and there shall be no discrimination in political, economic, or social relations because of place of birth, residence, citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states. 
 § 3. All persons born within Asgardian territories will be granted citizenship.
 § 4. All citizens, upon reaching sixteen (16) Earth-years are empowered to exercise their full rights and obligations.
 § 5. Key Citizen Rights and Freedoms: 
@@ -195,7 +195,7 @@ Article 16. Government by the People
 § 1. Asgardian citizens are the source of Asgardia’s powers. 
 § 2. The collective will of Asgardian citizens is implemented through their participation in elections to state bodies and monitoring of these bodies, referenda, and interaction with their representatives in elected state bodies.
 § 3. Elections to state bodies and citizen participation in developing, making, implementing, and monitoring the performance of state administrative decisions is conducted primarily via electronic voting.
-§ 4. Prejudice against participation in elections and referenda based on place of birth, residence, Earthly citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states, and any other difference is prohibited.
+§ 4. Prejudice against participation in elections and referenda based on place of birth, residence, earthly citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states, and any other difference is prohibited.
 § 5. State bodies and officials may not intervene in elections, put pressure on citizens, or falsify elections during democratic procedures.
 § 6. Government by the People in Asgardia is ensured by:
  a. establishing a procedure for elections, requirements applicable to candidates and election time frames;
@@ -246,7 +246,7 @@ Article 22. Security of Citizens
 § 3. Asgardia guarantees protection from any slavery or servitude, physical or emotional violence and compulsion, unlawful dependence and restrictions, and unlawful obligations or subordination within its territory. 
 § 4. State bodies and diplomatic representative bodies of Asgardia in Earth nation states must exhaust all peaceful means and measures to assist the provision of physical security of its citizens outside of Asgardia in accordance with Asgardia’s Constitution and laws, generally recognised international principles and norms, international treaties, and rules of nation states in which Asgardian citizens reside.
 § 5. Asgardia prohibits persecution for views and convictions. Any persecution for expression of views is prohibited.
-§ 6. Asgardia guarantees the protection for citizens’ personal data. 
+§ 6. Asgardia guarantees the protection for citizen’s personal data. 
 
 
 Article 23. Security of Asgardia
@@ -305,8 +305,8 @@ Article 29. Foreign Relations
 
 Article 30. Government 
 § 1. Asgardia is governed by its citizens through referenda and the following state bodies: Head of State, Council of Supreme Values, Parliament, the Government and its ministries, as well as the Court of Justice, law enforcement, and supervisory authorities. 
-§ 2. Asgardia’s government is based on the separation of the legislature, executive, judiciary, and supervisory branches. The Head of State is the head of the government and leads the Executive branch.
-§ 3. The authority of state bodies is set by the Constitution and the Law of Asgardia.
+§ 2. Asgardia’s government is based on the separation of the legislature, executive, judiciary, and supervisory branches. The Head of State is the head of the government and leads the Executive branch. 
+§ 3. The authority of state bodies is set by the Constitution and the Law of Asgardia. 
 § 4. Asgardia, through its state bodies and officials, is responsible for developing all areas of the state’s procedures and activities in accordance with its mission and Supreme Values by exercising the authority specified by the Constitution and the Law of Asgardia and using state resources.
 
 
@@ -408,7 +408,7 @@ Article 34. Parliament
  c. appointing and removing ministers from post on the proposal of the Chairman of the Government;
  d. appointing and removing National Audit Office auditors from post;
  e. calling elections for Head of State;
- f. deciding on resignation of the Government and individual ministers;
+ f. deciding on resignation of the government and individual ministers;
  g. approving Head of State decisions to declare a state of emergency;
  h. calling referenda;
  i. holding parliamentary hearings and investigations, including summoning representatives of state bodies.
@@ -542,7 +542,7 @@ The first Constitution of Asgardia will be put to a referendum by Igor Ashurbeyl
 Article 46. The Head of Nation role shall be abolished upon the adoption of this Constitution. The current Head of Nation, as defined by Decree # 1, shall be requested to take the honourable role of Head of State. After five (5) Earth-years, the first Head of State shall agree to step down unless voted to a second term in office. 
 
 Article 47. Special Procedure for the Election of a New Head of State
-In the event the Head of Nation declines to become the Head of State, the subsequent Head of State may be any Asgardian Citizen that submits his/her candidacy and qualifications to the special committee appointed by the Head of Nation for consideration. The special committee of no more than seven (7) members shall confirm the qualifications and, upon committee approval, shall present the Candidates to the public for a final vote within thirty (30) Earth-days. There will be a maximum of five (5) candidates. The general election shall commence upon presentation of the candidates. Citizen votes shall be collected over a period of forty-eight (48) Earth-hours and the candidate with the most votes shall be the next Head of State. In the event that two (2) or more Candidates have the same number of votes, the former Head of Nation shall cast the tie-breaker vote.
+In the event the Head of Nation declines to become the Head of State, the subsequent Head of State may be any Asgardian Citizen that submits his/her candidacy and qualifications to the special committee appointed by the Head of Nation for consideration. The special committee of no more than seven (7) members shall confirm the qualifications and, upon committee approval, shall present the Candidates to the public for a final vote within thirty (30) Earth-days. There will be a maximum of five (5) candidates. The general election shall commence upon presentation of the candidates. Citizen votes shall be collected over a period of forty-eigth (48) Earth-hours and the candidate with the most votes shall be the next Head of State. In the event that two (2) or more Candidates have the same number of votes, the former Head of Nation shall cast the tie-breaker vote.
 
 Article 48. Special Rights of the Head of State before the Election of Parliament and Formation of the Government of Asgardia
 In the absence of Asgardian laws and for the purposes of implementing the provisions of the Constitution before the election of Parliament and formation of the Government of Asgardia, the Head of State may issue decrees which remain in force until appropriate laws are adopted. All decrees will be reviewed by the Council of Supreme Values and the Court of Justice. Any decree may be revoked by the Council of Supreme Values and the Court of Justice, provided that a two-thirds (2/3) majority stand in agreement from both state bodies.
