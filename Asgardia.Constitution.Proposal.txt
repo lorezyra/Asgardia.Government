@@ -2,8 +2,8 @@
 OF THE SPACE NATION OF ASGARDIA
 
 
-We, the people of planet Earth, irrespective of our place of birth, residence, citizenship, language, gender, sexual orientation, race, nationality, creed, or financial standing of Earth nation states, use our free choice, will, and conviction, in the desire to:
-• unite humanity above ethnic, national, and religious divides, based on morality, fairness, peace, and the equal dignity of every human being, as humankind looks to the future and the infinite space of the Universe,
+We, the people of planet Earth, irrespective of our place of birth, residence, citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states, use our free choice, will, and conviction, in the desire to:
+• unite humanity above ethnic, national, and religious divides, based on fairness, peace, due process, and the equal dignity of every human being, as humankind looks to the future and the infinite space of the Universe,
 • resolve differences, conflicts, inequality, and imperfections in human history, bring spiritual and scientific practices and human creative achievements to a new level in all their civilizational and cultural multitude, and launch a new era in the history of humanity in space,
 • based on the Declaration of Unity of Asgardia as an integral part of this Constitution,
 have founded Asgardia, the first Space Nation in human history, and hereby adopt this Constitution of Asgardia.
@@ -24,7 +24,7 @@ Declaration
  b. ensure the protection of humankind from outer space threats;
  c. ensure equal opportunities in space for all Asgardians living on Earth, regardless of geographic, financial, technological, and any other features of the countries of their earthly citizenship.
 § 3. Any citizen of Earth can become a citizen of Asgardia, if he/she concurs with this Declaration, and respects the Constitution and legislation of Asgardia. 
-§ 4. All citizens of Asgardia are equal, regardless of their place of birth, residence, citizenship, language, gender, sexual orientation, race, nationality, creed, or financial standing of Earth nation states. 
+§ 4. All citizens of Asgardia are equal, regardless of their place of birth, residence, citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states. 
 § 5. Asgardia respects the laws and international agreements of the nation states on Earth and wishes to be recognized as an equal country among other nation states on Earth. 
 § 6. Asgardia does not interfere in the affairs of the nation states of Earth on the principle of reciprocity.
 § 7. Asgardia takes part in events on Earth at an international level, like any other country, based on its membership in respective international organizations.
@@ -51,7 +51,7 @@ GENERAL PROVISIONS
 Article 1. Name
 The terms “Space State,” "Space Nation," “Space Nation of Asgardia,” and “Asgardia” are synonymous.
 Article 2. Status
-Asgardia is a Democratic Technocracy that is the first free space unitary, social nation under law which is above ethnic, national, and religious divides, based on morality, fairness, peace, and the equal dignity of every human being, which looks to the future and the infinite space of the Universe.
+Asgardia is a Democratic Technocracy that is the first free space unitary, social nation under law which is above ethnic, national, and religious divides, based on fairness, peace, due process, and the equal dignity of every human being, as humankind explores the Universe.
 
 Article 3. Mission
 To ensure the existence and development of Asgardia and humanity’s expansion throughout space.
@@ -72,7 +72,7 @@ Article 4. Supreme Values of Asgardia
  i. community and mutual support; 
  j. scientific advancement, artistic creativity, and the belief in the boundless potential of human reason, knowledge, labour, and progress;
  k. peace, tranquillity, security, and confidence;
- l. morality, fairness, and freedom;
+ l. fairness, and freedom;
  m. harmonious existence of the individual, society, and the Space Nation.
 § 5. Asgardia’s Supreme Values are equally important and equally implemented in state administration. In the event of a conflict between the Supreme Values, the absolute Supreme Value of Asgardia prevails.
 § 6. Asgardia’s Supreme Values apply to relations with Earth nation states and citizens, as well as any discovered alien intelligence.
@@ -102,7 +102,7 @@ Article 7. Location of Citizens
 
 Article 8. Key Citizen Rights and Freedoms 
 § 1. The fundamental human rights of Asgardia are fruits of the age-old struggle of humanity to be free; they have survived the many exacting tests for durability and are conferred upon this and future generations in trust, to be held for all time inviolate. The people shall not be prevented from enjoying any of the fundamental human rights. These fundamental human rights guaranteed to the people by this Constitution shall be conferred upon the people of this and future generations as eternal and inviolate rights. 
-§ 2. All people shall be respected as individuals. Their right to life, liberty, and the pursuit of happiness shall not be infringed, to the extent that it does not interfere with the public welfare, the Supreme Values of Asgardia, or in other governmental affairs. All Citizens are considered equal under the law and there shall be no discrimination in political, economic, or social relations because of place of birth, residence, citizenship, language, gender, sexual orientation, race, nationality, creed, or financial standing of Earth nation states. 
+§ 2. All people shall be respected as individuals. Their right to life, liberty, and the pursuit of happiness shall not be infringed, to the extent that it does not interfere with the public welfare, the Supreme Values of Asgardia, or in other governmental affairs. All Citizens are considered equal under the law and there shall be no discrimination in political, economic, or social relations because of place of birth, residence, citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states. 
 § 3. All persons born within Asgardian territories will be granted citizenship.
 § 4. All citizens, upon reaching sixteen (16) Earth-years are empowered to exercise their full rights and obligations.
 § 5. Key Citizen Rights and Freedoms: 
@@ -128,7 +128,7 @@ Article 9. Key Citizen Obligations
 § 3. All persons on Asgardian territory must comply with Asgardia’s Constitution, its laws and regulations, as well as respecting Asgardia’s Supreme Values.
 § 4. All citizens of Asgardia must comply with Asgardia's Constitution, laws, and regulations, and respect and implement its Supreme Values irrespective of their location, unless this results in violation of the law of the country in which they are located.
 § 5. The people shall be liable to taxation as provided by law.
-§ 6. Asgardian citizens have the right to participate in elections and referenda. No law, decree, or amendment shall prevent any citizen from participation in the processes of Government. Citizens, regardless of origin, creed, or physical location shall be permitted to participate in elections and referenda.
+§ 6. Asgardian citizens have the right to participate in elections and referenda. No law, decree, or amendment shall prevent any citizen from participation in the processes of Government. Citizens, regardless of origin, beliefs, or physical location shall be permitted to participate in elections and referenda.
 § 7. Asgardian citizens have a responsibility to support good practices for conservation, regeneration, and sustainability of all natural environments.
 § 8. Protecting Asgardia’s national sovereignty, security, and performing its mission and Supreme Values is an obligation of every Asgardian citizen.
 § 9. In accordance with the established Law, gross failure to perform citizen obligations may lead to suspension or permanent revocation of Asgardian citizenship, fines, and restriction and/or permanent revocation of access to Asgardia’s electronic and physical resources.
@@ -195,7 +195,7 @@ Article 16. Government by the People
 § 1. Asgardian citizens are the source of Asgardia’s powers. 
 § 2. The collective will of Asgardian citizens is implemented through their participation in elections to state bodies and monitoring of these bodies, referenda, and interaction with their representatives in elected state bodies.
 § 3. Elections to state bodies and citizen participation in developing, making, implementing, and monitoring the performance of state administrative decisions is conducted primarily via electronic voting.
-§ 4. Prejudice against participation in elections and referenda based on place of birth, residence, Earthly citizenship, language, gender, sexual orientation, race, nationality, creed, or financial standing of Earth nation states, and any other difference is prohibited.
+§ 4. Prejudice against participation in elections and referenda based on place of birth, residence, Earthly citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states, and any other difference is prohibited.
 § 5. State bodies and officials may not intervene in elections, put pressure on citizens, or falsify elections during democratic procedures.
 § 6. Government by the People in Asgardia is ensured by:
  a. establishing a procedure for elections, requirements applicable to candidates and election time frames;
