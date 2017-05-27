@@ -175,9 +175,8 @@ Article 14. Scientific Resources
 § 1. Asgardia is a nation state which celebrates science, the digitised noosphere, and ideas combining the advantages of information technology in virtual and physical space.
 § 2. Asgardia accumulates intellectual resources by digitising and storing the wealth of human knowledge in space.
 § 3. Asgardia creates and stores in orbit and on celestial bodies a Databank of biological materials from Earth.
-§ 4. Science, art, research, and education may be pursued freely in Asgardia, subject to the Constitution.
-§ 5. Asgardia’s electronic resources include, among others, a secure information and telecommunications network, an electronic mail network, electronic mass media, and television and radio broadcasting.
-§ 6. Asgardia guarantees the rights of authors, inventors, and users of intellectual property. Intellectual property is defined in the Law of Asgardia and this constitution.
+§ 4. Asgardia’s electronic resources include, among others, a secure information and telecommunications network, an electronic mail network, electronic mass media, and television and radio broadcasting.
+§ 5. Asgardia guarantees the rights of authors, inventors, and users of intellectual property. Intellectual property is defined in the Law of Asgardia and this constitution.
 
 Article 15. Property
 § 1. Property in Asgardia ensures and guarantees the rights and freedoms of citizens, the security, welfare, and development of Asgardia, and serves the achievement of the common good.
