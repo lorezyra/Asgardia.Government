@@ -246,8 +246,7 @@ Article 22. Security of Citizens
 § 3. Asgardia guarantees protection from any slavery or servitude, physical or emotional violence and compulsion, unlawful dependence and restrictions, and unlawful obligations or subordination within its territory. 
 § 4. State bodies and diplomatic representative bodies of Asgardia in Earth nation states must exhaust all peaceful means and measures to assist the provision of physical security of its citizens outside of Asgardia in accordance with Asgardia’s Constitution and laws, generally recognised international principles and norms, international treaties, and rules of nation states in which Asgardian citizens reside.
 § 5. Asgardia prohibits persecution for views and convictions. Any persecution for expression of views is prohibited.
-§ 6. Asgardia guarantees a framework for protection for all citizens’ personal data. 
-
+§ 6. Asgardia guarantees a framework for the protection of all citizens’ personal data. 
 
 Article 23. Security of Asgardia
 § 1. Asgardia maintains and protects its national sovereignty, national security and the security of its resources on celestial bodies, in space and on Earth using all of its state abilities, means and resources. 
@@ -539,8 +538,8 @@ CHAPTER 10. TRANSITIONAL AND FINAL PROVISIONS
 Article 45. First Constitution
 The first Constitution of Asgardia will be put to a referendum by Igor Ashurbeyli, proclaimed the Head of Nation on 20/Jan/2017 by Decree #1. The referendum on adopting the first Asgardian Constitution is open for voting to persons over the age of sixteen (16) who have submitted their personal data via the Internet and agree to the terms and conditions published on the https://asgardia.space website. These persons are considered Asgardian citizens on a preferential basis until the adoption of the law on citizenship of Asgardia and will retain this status subsequently if desired.
 
-Article 46. The Head of Nation role shall be abolished upon the adoption of this Constitution. 
-The current Head of Nation, as defined by Decree # 1, shall be requested to take the honourable role of Head of State. After five (5) Earth-years, the first Head of State shall agree to step down unless voted to a second term in office. 
+Article 46. Abolishment of the Role of Head of Nation
+The current Head of Nation, as defined by Decree # 1, shall be requested to take the honourable role of Head of State upon adoption of this Constitution. After five (5) Earth-years, the first Head of State shall agree to step down unless voted to a second term in office. 
 
 Article 47. Special Procedure for the Election of a New Head of State
 In the event the Head of Nation declines to become the Head of State, the subsequent Head of State may be any Asgardian Citizen that submits his/her candidacy and qualifications to the special committee appointed by the Head of Nation for consideration. The special committee of no more than seven (7) members shall confirm the qualifications and, upon committee approval, shall present the Candidates to the public for a final vote within thirty (30) Earth-days. There will be a maximum of five (5) candidates. The general election shall commence upon presentation of the candidates. Citizen votes shall be collected over a period of forty-eight (48) Earth-hours and the candidate with the most votes shall be the next Head of State. In the event that two (2) or more Candidates have the same number of votes, the former Head of Nation shall cast the tie-breaker vote.
@@ -548,8 +547,8 @@ In the event the Head of Nation declines to become the Head of State, the subseq
 Article 48. Special Rights of the Head of State before the Election of Parliament and Formation of the Government of Asgardia
 In the absence of Asgardian laws and for the purposes of implementing the provisions of the Constitution before the election of Parliament and formation of the Government of Asgardia, the Head of State may issue decrees which remain in force until appropriate laws are adopted. All decrees will be reviewed by the Council of Supreme Values and the Court of Justice. Any decree may be revoked by the Council of Supreme Values and the Court of Justice, provided that a two-thirds (2/3) majority stand in agreement from both state bodies.
 
-Article 49. Special Provision for the Election of Parliament members
-The Parliament is directly elected from Citizens that submit their candidacy to all citizens and directly voted for by citizen elections.
+Article 49. Special Provision for the Election of Members of Parliament
+The Parliament is directly elected through citizen elections and the members are elected from the group of Citizens who submit their candidacy to all citizens.
 
 Article 50. Deadline for the Election of Parliament 
 Elections for members of Parliament are called no later than six (6) Earth-months after the adoption of the Constitution. The procedure for holding the first elections is set by a decree of the Head of State in accordance with the Constitution. The law on subsequent elections of members of Parliament is adopted after Parliament is formed.
@@ -558,5 +557,5 @@ Article 51. Deadline for Forming the Government of Asgardia
 The Government is formed no later than six (6) Earth-months after the election of Asgardia’s Parliament in accordance with the Constitution and the law. Until a Government is formed, the duties of the Government are performed by the Head of State and his/her Administration.
 
 Article 52. Effectiveness of the Constitution
-The Constitution of Asgardia becomes effective on the day of its official publication at https://asgardia.space on the basis of the results from the referendum of 18 June 2017 (Asgard 1, 2017).
+The Constitution of Asgardia becomes effective on the day of its official publication at https://asgardia.space on the basis of the results from the referendum of 18 June 2017 (Asgard 1, 0001).
 
