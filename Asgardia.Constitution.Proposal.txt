@@ -358,7 +358,7 @@ Article 32. Asgardia’s Head of State
  d. Ministry of Administrative Affairs Chairperson
  e. Ministry of Justice Chairperson
 § 9. The Head of State:
- a. appoints the Supreme Justice of the Judicial Court, the Chairperson of the National Audit Office, the Chairperson of the Council of Supreme Values, and Asgardian ambassadors extraordinary and plenipotentiary to Earth nation states, and any other space nation states;
+ a. appoints the Supreme Justice of the Judicial Court, the Chairperson of the National Audit Office, the Chairperson of the Council of Supreme Values, and Asgardian ambassadors extraordinary and plenipotentiary to Earth nation states and any other space nation states;
  b. has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of Chairperson of the Government, member of the Council of Supreme Values, and Chairman of the National Bank, and has the right to propose removal of persons who hold these positions;
  c. calls elections of members of Parliament in accordance with the Constitution and the Law of Asgardia and has the right to propose dissolution of Parliament to the Council of Supreme Values;
  d. negotiates and signs international treaties and ratification instruments, accepts letters of credence and recall from diplomatic representatives; treaties must be approved by Parliament via a simple majority within six (6) Earth-months of HoS signing;
