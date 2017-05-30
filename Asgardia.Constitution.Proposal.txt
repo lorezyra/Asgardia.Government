@@ -156,8 +156,8 @@ Article 12. Natural Resources
 
 Article 13. Financial Resources
 § 1. Asgardia’s sovereign financial resources are comprised of state and private finance. Arbitrary seizure of private financial resources is prohibited.
-§ 2. Asgardia’s currency is the Solar. The symbols for Solar will be established by Asgardia’s National Bank. Solar shall not be represented with a decimal place or fractional value.
-§ 3. Asgardian currency is freely exchangeable into all of the main global currencies on the free markets on Earth, and any markets established in space or on celestial bodies in the future.
+§ 2. Asgardia’s currency is the Solar. The symbols for Solar will be established by Asgardia’s National Bank.
+§ 3. Asgardian currency is freely exchangeable into all of the main global currencies on the free markets on Earth, and any markets established in space or on celestial bodies.
 § 4. Asgardia’s National Bank is responsible for the exchange rate, issuance and circulation of finance, as well as the stability of the sovereign currency and bank system liquidity. Asgardia’s National Bank is regulated by the Law of Asgardia.
 § 5. Asgardia’s sovereign currency is issued by the National Bank further defined by the Law of Asgardia. Asgardia’s National Bank is a lender of last resort.
 § 6. The Government is responsible for the national budget, external financial exchange, the tax system, and the borrowing of money on the credit of Asgardia.
@@ -193,7 +193,7 @@ Article 16. Government by the People
 § 3. Elections to state bodies and citizen participation in developing, making, implementing, and monitoring the performance of state administrative decisions is conducted primarily via electronic voting.
 § 4. Prejudice against participation in elections and referenda based on place of birth, residence, earthly citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states, and any other difference is prohibited.
 § 5. State bodies and officials may not intervene in elections, put pressure on citizens, or falsify elections during democratic procedures.
-§ 6. Government by the People in Asgardia is ensured by:
+§ 6. Government by the People in Asgardia is assured by:
  a. establishing a procedure for elections, requirements applicable to candidates and election time frames;
  b. ensuring that state body officials can be replaced and setting maximum term limits for government positions;
  c. the court protection of Asgardian citizen rights to run for office and be elected;
@@ -285,10 +285,10 @@ Article 27. Language
 § 4. In its relations with Earth nation states and international organizations, Asgardia uses Basic and the interlocutor. Agreements, treaties, and other international acts executed by Asgardia may also be prepared in a different language as requested by the other party on the mutual agreement of all parties. All agreements, treaties, and partnerships must be stored in Basic and the original interlocutor, if not Basic.
 
 Article 28. Capitals
-§ 1. The celestial capital of Asgardia, Asgard or Celestial Asgard, is located on a currently active near-Earth orbit satellite or satellites that are part of an orbital constellation. The capital may subsequently be located on a Space Ark or, eventually, on a moon entity in accordance with international space law. The terms "Capital of Asgardia," "Asgard," and "Celestial Asgard" are synonyms.
+§ 1. The celestial capital of Asgardia, Asgard or Celestial Asgard, is located on a currently active near-Earth orbit satellite or satellites that are part of an orbital constellation. The capital may subsequently be located on a Space Ark or, eventually, on a moon entity in accordance with international space law. The terms "Capital of Asgardia," "Asgard," and "Celestial Asgard" are synonymous.
 § 2. Celestial Asgard is an information portal and the virtual location of Asgardia’s state bodies, citizens, and infrastructure. The capital is used for address purposes by Asgardian citizens, other persons, Earth nation states, and international organizations to contact Asgardian state bodies and officials.
 § 3. Individual and collective enquiries by Asgardian citizens, other individuals, and legal entities to Asgardian state bodies and officials must be sent electronically in a manner that allows the enquiring party to be identified and authenticated using the virtual resources of the capital of Asgardia.
-§ 4. The Earth capital of Asgardia, Midgard or Earth Asgard, is the location of state bodies as required and the location of software and hardware complexes of Asgardia’s Earth entities, if Asgardia has territory (natural, artificial on hard surfaces or water, lawfully located in Earth nation states or not occupied by Earth nations). The terms "Earth Capital of Asgardia," "Midgard," and "Earth Asgard" are synonyms.
+§ 4. The Earth capital of Asgardia, Midgard or Earth Asgard, is the location of state bodies as required and the location of software and hardware complexes of Asgardia’s Earth entities, if Asgardia has territory (natural, artificial on hard surfaces or water, lawfully located in Earth nation states or not occupied by Earth nations). The terms "Earth Capital of Asgardia," "Midgard," and "Earth Asgard" are synonymous.
 § 5. The status of both capitals, the legal arrangements for their location, their operational procedures, and resource use are set by the Law of Asgardia.
 
 Article 29. Foreign Relations
@@ -356,9 +356,9 @@ Article 32. Asgardia’s Head of State
  e. Ministry of Justice Chairperson
 § 9. The Head of State:
  a. appoints the Supreme Justice of the Judicial Court, the Chairperson of the National Audit Office, the Chairperson of the Council of Core Values, and Asgardian ambassadors extraordinary and plenipotentiary to Earth nation states and any other space nation states;
- b. has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of Chairperson of the Government, member of the Council of Core Values, and Chairman of the National Bank, and has the right to propose removal of persons who hold these positions;
+ b. has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of Chairperson of the Government, member of the Council of Core Values, and Chairperson of the National Bank, and has the right to propose removal of persons who hold these positions;
  c. calls elections of members of Parliament in accordance with the Constitution and the Law of Asgardia and has the right to propose dissolution of Parliament to the Council of Core Values;
- d. negotiates and signs international treaties and ratification instruments, accepts letters of credence and recall from diplomatic representatives; treaties must be approved by Parliament via a simple majority within six (6) months of HoS signing;
+ d. negotiates and signs international treaties and ratification instruments, accepts letters of credence and recall from diplomatic representatives; treaties must be ratified by Parliament via a simple majority within six (6) months of HoS signing;
  e. proposes draft laws to Parliament, signs laws adopted by Parliament, returns draft laws without signature with noted objections, and has the right to veto laws adopted by Parliament;
  f. grants clemency;
  g. staffs the Administration of the Head of State, the body which supports the work of the Head of State;
