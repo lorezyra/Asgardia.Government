@@ -192,7 +192,7 @@ Article 16. Government by the People
 § 2. The collective will of Asgardian citizens is implemented through their participation in elections to state bodies and monitoring of these bodies, referenda, and interaction with their representatives in elected state bodies.
 § 3. Elections to state bodies and citizen participation in developing, making, implementing, and monitoring the performance of state administrative decisions is conducted primarily via electronic voting.
 § 4. Prejudice against participation in elections and referenda based on place of birth, residence, earthly citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states, and any other difference is prohibited.
-§ 5. State bodies and officials may not intervene in elections, put pressure on citizens, or falsify elections during democratic procedures.
+§ 5. State bodies and officials may not intervene in elections, put pressure on citizens, or falsify elections during and after democratic procedures.
 § 6. Government by the People in Asgardia is assured by:
  a. establishing a procedure for elections, requirements applicable to candidates and election time frames;
  b. ensuring that state body officials can be replaced and setting maximum term limits for government positions;
@@ -219,6 +219,7 @@ Article 18. Equality of Dignity for All
 § 3. The views of people and Asgardian citizens concerning human dignity are formed and fostered through education, parenting, propaganda and the media in accordance with Asgardia’s Core Values.
 § 4. The state protects groups of citizens who find themselves in a difficult position on Asgardian territory by providing them equal access to food, clothing, shelter and basic material benefits.
 § 5. The government seeks to reduce inequality of social conditions and opportunities for Asgardian citizens, including those contingent on their country of residence.
+§ 6. The creation of private prisons is prohibited in Asgardia. However, law may establish State owned and operated rehabilitation centres.
 
 Article 19. Labour
 § 1. The state and society encourage labour and seek to increase its value, significance, and prestige.
@@ -263,7 +264,6 @@ Article 25. Asgardia’s Aerospace Fleet
 § 2. The Ministry of Safety and Security controls Asgardia’s aerospace fleet in normal times.
 § 3. The Head of State and Parliament may declare a state of emergency, defence, or disaster in accordance with the law. In such cases, the Head of State may assume the role of Commander-in-Chief.
 § 4. Asgardia’s aerospace fleet operates in cooperation with Earth nation states and international organisations to achieve peace in space and protect Asgardia from space born threats.
-§ 5. The creation of private prisons is prohibited in Asgardia. However, law may establish State owned and operated rehabilitation centres.
 
 
 
