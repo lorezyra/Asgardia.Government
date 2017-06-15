@@ -26,8 +26,8 @@ DECLARATION
 * To ensure equal opportunities in space for all citizens of planet Earth, especially those living in the developing countries
 3. Any resident of Earth can become a citizen of Asgardia, as long as he assents in the Declaration, and abides by the Constitution and the legislation of Asgardia.
 4. All citizens of Asgardia are equal, regardless of their Earthly country of origin, residence, citizenship, race, nationality, gender, language, or financial standing.
-5. Asgardia respects the laws of Earth╒s states and the international treaties on Earth, and wishes to be recognised as an equal among the states on Earth.
-6. Asgardia does not interfere in the affairs of Earth╒s states based on reciprocity.
+5. Asgardia respects the laws of Earth’s states and the international treaties on Earth, and wishes to be recognised as an equal among the states on Earth.
+6. Asgardia does not interfere in the affairs of Earth’s states based on reciprocity.
 7. Asgardia participates in the international-level events on Earth, like any other country, based on its membership in the respective international organizations.
 8. Asgardia respects and complies with the rights of citizens of Earth states, and protects the rights of its citizens in the exclusivity of their space nation citizenship in accordance with international law
 9. Asgardia does not engage in politics, and has no place for political parties. But every Asgardian can freely participate in political life on Earth.
@@ -45,7 +45,7 @@ Space Kingdom of Asgardia.
 Chapter 2. General Provisions
 
 Article 1. Name of the Nation
-Space Kingdom of Asgardia. The terms ╥Space Kingdom of Asgardia╙ and ╥Asgardia╙ are synonymous.
+Space Kingdom of Asgardia. The terms “Space Kingdom of Asgardia” and “Asgardia” are synonymous.
 Article 2. Status
 Asgardia is the first space independent, free, unitary, social nation under law that is transethnic, transreligious, based on morality, fairness, peace and the equal dignity of every human being, which looks to the future and the infinite Universe, Constitutional Monarchy.
 Article 3. Mission
@@ -66,8 +66,8 @@ h) preservation of space environment;
 i) community and mutual support;
 j) scientific and artistic creativity and the belief in the boundless potential of human reason, knowledge, labour and progress;
 k) peace, tranquillity, safety, security and confidence;
-m) morality, fairness and freedom;
-L) harmonious existence of the individual, society and the nation.
+l) morality, fairness and freedom;
+m) harmonious existence of the individual, society and the nation.
 5. Asgardia’s Supreme Values are equally important and equally implemented in the governmental administration. In the event of a conflict between the Supreme Values, the absolute supreme value of Asgardia prevails.
 6. Asgardia’s Supreme Values apply to relations with people and states of Earth, as well as any discovered alien intelligence.
 7. It is prohibited to undermine or diminish the Supreme Values of Asgardia. Asgardia and its citizens must implement and protect its Supreme Values from internal and external infringement.
@@ -189,13 +189,13 @@ Article 16. Government by the People
 4. Prejudice during elections and referenda based on Earth country of birth, residence, citizenship, race, nationality, gender, language, wealth, creed or belief and other differences is prohibited.
 5. Asgardian governmental bodies and officials may not intervene in elections, put pressure on citizens or falsify elections during democratic procedures.
 6. Government by the People in Asgardia is ensured by:
-o establishing a procedure for elections, requirements applicable to candidates and election time frames;
-o ensuring that Asgardian governmental body officials can be replaced and setting maximum term limits for government positions;
-o court protection of Asgardian citizens╒ rights to run for office and be elected;
-o public control via electronic resources of the public activities of Asgardian governmental bodies, their regular reporting to citizens, provision of open information about different areas of government responsibilities in the format set by the law;
-o procedures that allow citizens to put forward legislative proposals and initiate referenda;
-o separation of powers;
-o the work of the governmental bodies in line with the supreme Values and the Constitution of Asgardia.
+a) establishing a procedure for elections, requirements applicable to candidates and election time frames;
+b) ensuring that Asgardian governmental body officials can be replaced and setting maximum term limits for government positions;
+c) court protection of Asgardian citizens╒ rights to run for office and be elected;
+d) public control via electronic resources of the public activities of Asgardian governmental bodies, their regular reporting to citizens, provision of open information about different areas of government responsibilities in the format set by the law;
+e) procedures that allow citizens to put forward legislative proposals and initiate referenda;
+f) separation of powers;
+g) the work of the governmental bodies in line with the supreme Values and the Constitution of Asgardia.
 7. The supreme form of the expression of public will in Asgardia is a referendum. Referenda are used to resolve the most important national matters of Asgardia. Referenda are held in accordance with the law of Asgardia.
 
 Article 17. Fairness
@@ -203,10 +203,10 @@ Article 17. Fairness
 2. Asgardia is a nation of social justice which strives to ensure that citizens enjoy material and spiritual benefits expected by other citizens, society and the government and produced by the citizen through labour and production of material and immaterial goods.
 3. Fairness in Asgardia is ensured through respect for the legal interests of all lawful interest-groups and striving to balance conflicting interests.
 4. To ensure fairness, Asgardian government encourages:
-o the spread of moral ideals;
-o equal rights and equality of human dignity;
-o governmental support for groups in need, charity, philanthropy and mutual aid;
-o work and scientific and technological progress.
+a) the spread of moral ideals;
+b) equal rights and equality of human dignity;
+c) governmental support for groups in need, charity, philanthropy and mutual aid;
+d) work and scientific and technological progress.
 5. The Asgardian government encourages the work of citizens, citizen associations, including investors and philanthropists, who engage in socially important activities.
 
 Article 18. Equality of Dignity for All
@@ -251,10 +251,10 @@ Article 23. Security of Asgardia
 Article 24. Protection of Earth
 1. Asgardia uses governmental and private resources to build capabilities to safeguard Earth from space-originating threats independently and in cooperation with Earth states and international organisations on the basis of bilateral and multilateral treaties.
 2. In order to safeguard Earth, Asgardia’s authorised bodies:
-o monitor the condition and physical processes of potentially dangerous objects in near and outer space, model and forecast Space-originating threats and their potential consequences;
-o monitor the condition and physical processes in Earth╒s geospheres and model and forecast their potential consequences;
-o monitor the Earth╒s biosphere and emerging biological threats originating in space, model and forecast their potential consequences and ways of defending against such threats.
-3. In order to preserve humanity and Earth╒s biodiversity, Asgardia organises and ensures the building of Space Arks, protective platforms in space to be used in the event of threats to the safety of humanity on Earth and for space tourism in the absence of threats.
+a) monitor the condition and physical processes of potentially dangerous objects in near and outer space, model and forecast Space-originating threats and their potential consequences;
+b) monitor the condition and physical processes in Earth’s geospheres and model and forecast their potential consequences;
+c) monitor the Earth’s biosphere and emerging biological threats originating in space, model and forecast their potential consequences and ways of defending against such threats.
+3. In order to preserve humanity and Earth’s biodiversity, Asgardia organises and ensures the building of Space Arks, protective platforms in space to be used in the event of threats to the safety of humanity on Earth and for space tourism in the absence of threats.
 
 Article 25. Asgardia’s Aerospace Fleet
 1. To safeguard Earth and its orbital satellite constellation, Asgardia creates aerospace capabilities and resources in accordance with international law.
@@ -266,11 +266,11 @@ Chapter 7. Government Structure
 
 Article 26. National symbols
 1. Asgardia’s national symbols are:
-o the national flag of Asgardia;
-o the national coat of arms of Asgardia;
-o the national anthem of Asgardia;
+a) the national flag of Asgardia;
+b) the national coat of arms of Asgardia;
+c) the national anthem of Asgardia;
 2. Asgardia’s national symbols are chosen by voting and subsequently approved by Parliament and the Head of Nation in accordance with the procedure set by the law of Asgardia.
-3. Asgardia’s national motto is ╥One Humanity, One Unity╙.
+3. Asgardia’s national motto is “One Humanity, One Unity”.
 4. The description of Asgardia’s national symbols and the procedure for using them are set by the laws of Asgardia.
 5. Asgardian citizens must respect and protect Asgardia’s national symbols. Disrespect towards Asgardia’s national symbols is subject to liability in accordance with the procedure set by the law of Asgardia.
 6. Use of national symbols in violation of the procedure set by the law of Asgardia is prosecuted in accordance with the law.
@@ -310,16 +310,16 @@ Chapter 8. Administration of Government
 Article 31. Legal System
 1. The Constitution of Asgardia is the foundation of Asgardia’s legal system. Asgardia’s Constitution takes precedence over all other legal documents and is directly applicable.
 2. Asgardia’s legal acts include:
-o referendum decisions;
-o decrees of the Head of Nation;
-o acts of Parliament;
-o Government resolutions;
-o Resolutions of the Supreme Space Court;
-o Resolutions of the Supreme Space Council;
-o prosecution authority acts;
-o National Audit Office acts;
-o National Bank acts;
-o international treaties;
+a) referendum decisions;
+b) decrees of the Head of Nation;
+c) acts of Parliament;
+d) Government resolutions;
+e) Resolutions of the Supreme Space Court;
+f) Resolutions of the Supreme Space Council;
+g) prosecution authority acts;
+h) National Audit Office acts;
+i) National Bank acts;
+j) international treaties;
 3. Asgardia’s Constitution and legal acts apply throughout Asgardia’s territory and to all Asgardian citizens irrespective of their location. In the event of differences between legal acts of the state in which an Asgardian citizen is located and Asgardia’s legal acts, if such differences are not addressed by an international treaty to which Asgardia is a party, the Asgardian citizen may operate on the basis of the acts of the state in which he/she is located.
 4. Laws and other legal acts adopted in Asgardia may not be counter to Asgardia’s Constitution or distort its provisions in any other way. Laws and other legal acts that are counter to the Constitution shall be repealed and declared void in accordance with the procedure set by the law of Asgardia.
 5. International treaties executed by Asgardia may not be counter to its Constitution. Treaties executed by Asgardia become part of its legal system.
@@ -335,25 +335,25 @@ Article 32. Asgardia’s Head of Nation
 6. In the event that the Head of Nation dies, resigns, becomes permanently incapacitated or is declared missing, as well as in the circumstances stipulated by law where the Head of Nation is unable to perform his/her duties, his/her duties temporarily pass to the Chairman of the Supreme Space Council until the reasons which prevented the Head of Nation from performing such duties cease to be in effect or until the inauguration of the new Head of Nation.
 7. The procedure for electing Heads of Nation and organising their activities is set by the law.
 8. The Head of Nation may be removed from his/her position by Parliament in accordance with the procedure set by the law in the event of:
-o ongoing inability to perform his/her duties on health grounds;
-o the Prosecutor General accusing the Head of Nation of treason or other major crime, with such accusation confirmed by a conclusion of the Royal Court;
+a) ongoing inability to perform his/her duties on health grounds;
+b) the Prosecutor General accusing the Head of Nation of treason or other major crime, with such accusation confirmed by a conclusion of the Royal Court;
 9. The Head of Nation:
-o appoints and removes:
+c) appoints and removes:
 * the Supreme Justice of the Supreme Space Court;
 * the Chairman of the Supreme Space Council;
 * the Prosecutor General;
 * the Chairman of the National Audit Office;
 * Asgardian representatives on the Earth continents;
 * Asgardians ambassadors in the states on Earth.
-o has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of: Chairman of the Government, member of Supreme Space Council, Chairman of the National Bank, Justices of the Royal Court and has the right to propose removal of persons who hold these positions;
-o calls elections of members of Parliament in accordance with the Constitution and the law of Asgardia and has the right to dissolve Parliament;
-o negotiates and signs international treaties, ratification instruments, accepts letters of credence and recall from diplomatic representatives;
-o proposes draft laws to Parliament, signs laws adopted by Parliament, or returns them without signature with the right to enact them, and has the right to veto laws adopted by Parliament;
-o awards national governmental awards and grants military ranks and honorary titles;
-o grants clemency;
-o staffs the Administration of the Head of Nation, the body which supports the work of the Head of Nation;
-o creates discussion and advisory bodies to support him/her in performing his/her duties;
-o performs other duties stipulated by the Constitution and the law of Asgardia.
+d) has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of: Chairman of the Government, member of Supreme Space Council, Chairman of the National Bank, Justices of the Royal Court and has the right to propose removal of persons who hold these positions;
+e) calls elections of members of Parliament in accordance with the Constitution and the law of Asgardia and has the right to dissolve Parliament;
+f) negotiates and signs international treaties, ratification instruments, accepts letters of credence and recall from diplomatic representatives;
+g) proposes draft laws to Parliament, signs laws adopted by Parliament, or returns them without signature with the right to enact them, and has the right to veto laws adopted by Parliament;
+h) awards national governmental awards and grants military ranks and honorary titles;
+i) grants clemency;
+j) staffs the Administration of the Head of Nation, the body which supports the work of the Head of Nation;
+k) creates discussion and advisory bodies to support him/her in performing his/her duties;
+l) performs other duties stipulated by the Constitution and the law of Asgardia.
 10. The Head of Nation issues decrees which are mandatory for the government bodies and Asgardian citizens. Head of Nation decrees must not be counter to the Constitution and Asgardia’s laws.
 
 Article 33. Parliament
@@ -366,42 +366,42 @@ Article 33. Parliament
 7. Parliamentary sessions may be held in person, remotely and electronically; they can be restricted or open, in accordance with the law of Asgardia.
 8. Representatives of governmental bodies must attend parliamentary sessions if invited.
 9. The Head of Nation may dissolve Parliament. The Prosecutor General may also propose the dissolution of Parliament to the Supreme Space Court. If the Supreme Space Court agrees with the arguments made, it may dissolve Parliament in accordance with the law.
-10. The Parliament╒s powers include:
-o adopting Asgardian law;
-o appointing the Chairman of Parliament, Chairman of the National Bank, Royal Court Justices on the proposal of the Supreme Values Council; and removing them from post on the proposal of the Head of Nation or Supreme Values Council;
-o appointing and removing ministers from post on the proposal of the Chairman of the Government;
-o appointing and removing National Audit Office auditors from post;
-o calling elections for Head of Nation;
-o deciding on resignation of the Government and individual ministers;
-o approving Head of Nation decisions to declare a state of emergency;
-o calling referenda;
-o holding parliamentary hearings and investigations, including summoning representatives of governmental bodies.
+10. The Parliament’s powers include:
+a) adopting Asgardian law;
+b) appointing the Chairman of Parliament, Chairman of the National Bank, Royal Court Justices on the proposal of the Supreme Values Council; and removing them from post on the proposal of the Head of Nation or Supreme Values Council;
+c) appointing and removing ministers from post on the proposal of the Chairman of the Government;
+d) appointing and removing National Audit Office auditors from post;
+e) calling elections for Head of Nation;
+f) deciding on resignation of the Government and individual ministers;
+g) approving Head of Nation decisions to declare a state of emergency;
+h) calling referenda;
+i) holding parliamentary hearings and investigations, including summoning representatives of governmental bodies.
 11. Parliament issues resolutions on matters within its purview pursuant to the Constitution and the law of Asgardia. The procedure for Parliament adopting Asgardian laws and responsibility for violation of this procedure are set by the law.
 12. Parliament comprises 12 permanent committees whose areas of responsibility correspond to the Government ministries.
 
 Article 34. Government
 1. Asgardia’s supreme national executive body is the Government.
 2. The Government is a collective body which comprises the Chairman of the Government, his/her deputies and ministers. The Government may hold meetings in person, remotely or electronically.
-3. The system of the nation╒s executive bodies comprises 12 ministries which correspond to the permanent parliamentary committees.
+3. The system of the nation’s executive bodies comprises 12 ministries which correspond to the permanent parliamentary committees.
 4. The Chairman of the Government is appointed by Parliament on the proposal of the Supreme Space Council in agreement with the Head of Nation. Candidates for minister are nominated by the Chairman of the Government and approved by Parliament. Ministers may be Asgardian citizens aged between 35 and 60 who have a degree, qualifications and professional experience in relevant area and the physical and mental health to perform the duties of a minister. Members of Government who have a private business must put it into trust management for the duration of their Government position to avoid a conflict of interest on agreement with the Chairman of the Government.
 5. The Chairman of the Government sets priority areas for the Government and organises its work in accordance with the Constitution, the law of Asgardia and Head of Nation decrees.
 6. The procedure for forming and organising the work of the Government is set by the Constitution and the law of Asgardia.
-7. The Government╒s powers include:
-o implementing and defending the Constitution, implementing international treaties, laws, Head of Nation decrees and acts of the Supreme Values Council;
-o developing and submitting draft laws to Parliament;
-o developing and submitting draft budgets to Parliament and ensuring their implementation;
-o supervising implementation of Government resolutions and other acts of governmental executive bodies;
-o ensuring that national interest is maintained and protected, ensuring national security and the security of its citizens, as well as safeguarding Earth;
-o granting and revoking space citizenship;
-o foreign relations;
-o managing the national debt;
-o organising a system for information support for governmental administration and statistical monitoring;
-o providing a scientific basis for the actions of the executive, developing administrative decisions, plans, forecasts and governmental development programmes, forecasting the consequences of planned decisions;
-o monitoring social processes and interacting with citizens;
-o supervising the work of governmental executive bodies;
-o ensuring the rule of law, protecting the rights and obligations of citizens and public order;
-o organising a system to train staff for the civil service and creating a succession pool;
-o other matters in accordance with the Constitution and the law of Asgardia, decrees of the Head of Nation and international obligations.
+7. The Government’s powers include:
+a) implementing and defending the Constitution, implementing international treaties, laws, Head of Nation decrees and acts of the Supreme Values Council;
+b) developing and submitting draft laws to Parliament;
+c) developing and submitting draft budgets to Parliament and ensuring their implementation;
+d) supervising implementation of Government resolutions and other acts of governmental executive bodies;
+e) ensuring that national interest is maintained and protected, ensuring national security and the security of its citizens, as well as safeguarding Earth;
+f) granting and revoking space citizenship;
+g) foreign relations;
+h) managing the national debt;
+i) organising a system for information support for governmental administration and statistical monitoring;
+j) providing a scientific basis for the actions of the executive, developing administrative decisions, plans, forecasts and governmental development programmes, forecasting the consequences of planned decisions;
+k) monitoring social processes and interacting with citizens;
+l) supervising the work of governmental executive bodies;
+m) ensuring the rule of law, protecting the rights and obligations of citizens and public order;
+n) organising a system to train staff for the civil service and creating a succession pool;
+o) other matters in accordance with the Constitution and the law of Asgardia, decrees of the Head of Nation and international obligations.
 8. All Asgardian revenue and expenditure must be included in the budget, which must be balanced. Meeting the needs of Asgardia’s administrative bodies and governmental enterprises must not overload taxpayers and must ensure uniformity of the basic living conditions in the territory of the nation in accordance with the law of Asgardia.
 9. If the budget for the following year is not approved by law before the end of the financial year, prior to it becoming effective, the Government may conduct spending required to:
 * maintain the institutions set by the law and implement measures set by the law;
@@ -427,9 +427,9 @@ Article 36. Supreme Space Council
 3. The status, organisational foundations, powers and operational procedures of the Supreme Space Council are set by the Constitution and the law of Asgardia.
 4. Representatives of governmental bodies must attend sessions of the Supreme Space Council if invited. Governmental bodies must respond to enquiries sent by the Supreme Space Council.
 
-Article 37. Prosecutor╒s Office
-1. The Prosecutor╒s Office is Asgardia’s supervisory and monitoring authority.
-2. The Prosecutor╒s Office supervises and monitors compliance of acts and the activities of governmental bodies and the actions/inaction of citizens with the Constitution and the law of Asgardia.
+Article 37. Prosecutor’s Office
+1. The Prosecutor’s Office is Asgardia’s supervisory and monitoring authority.
+2. The Prosecutor’s Office supervises and monitors compliance of acts and the activities of governmental bodies and the actions/inaction of citizens with the Constitution and the law of Asgardia.
 3. The Prosecutor General is appointed and removed from the post by the Head of Nation on the proposal of the Supreme Space Council for a five-year term. The Prosecutor General appoints other prosecutors in accordance with the law of Asgardia.
 
 
@@ -444,8 +444,8 @@ Article 39. National Bank
 3. The Chairman of the National Bank is appointed into the position for five years and removed from the position by the Parliament based on the proposal of the Head of Nation or the Supreme Space Council.
 
 Article 40. Decision-Making and Implementation
-1. The Head of Nation sets the priorities for domestic and foreign policy by making annual and extraordinary addresses to Asgardian citizens at in-person and remote meetings of representatives of the supreme governmental bodies of Asgardia and issuing other decrees within his/her purview. The Head of Nation╒s addresses serve as the document used to plan the country╒s domestic and foreign policy for the upcoming year and beyond with the aim of performing Asgardia’s mission. The Head of Nation╒s address is binding for all Asgardian national bodies and officials for implementation.
-2. Asgardian laws, plans and governmental development programmes are developed and adopted in accordance with the Head of Nation╒s address to implement the Constitution and perform Asgardia’s mission. Asgardia’s laws regulate key social relations.
+1. The Head of Nation sets the priorities for domestic and foreign policy by making annual and extraordinary addresses to Asgardian citizens at in-person and remote meetings of representatives of the supreme governmental bodies of Asgardia and issuing other decrees within his/her purview. The Head of Nation’s addresses serve as the document used to plan the country’s domestic and foreign policy for the upcoming year and beyond with the aim of performing Asgardia’s mission. The Head of Nation’s address is binding for all Asgardian national bodies and officials for implementation.
+2. Asgardian laws, plans and governmental development programmes are developed and adopted in accordance with the Head of Nation’s address to implement the Constitution and perform Asgardia’s mission. Asgardia’s laws regulate key social relations.
 3. Asgardian citizens may initiate the making of government administrative decisions and participate in their preparation by means of electronic voting (right to propose legislation) in accordance with the law of Asgardia.
 4. To ensure implementation of Asgardian law, the Government and its ministries and other governmental bodies issue statutory instruments.
 5. Asgardian governmental bodies monitor the practical application of adopted/issued acts to improve legal acts within their purview. Monitoring and supervision of the implementation of adopted/issued legal acts is performed by Asgardia’s supervisory authorities and also by Asgardian citizens by using the mechanisms for public monitoring by means of electronic voting.

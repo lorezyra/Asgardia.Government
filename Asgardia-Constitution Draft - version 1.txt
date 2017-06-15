@@ -1,12 +1,9 @@
 ﻿Constitution
 of the Space Nation of Asgardia
 
-
 Preamble 
 We, the people of planet Earth, irrespective of our place of birth and current residence, language, gender, race, nationality, creed or citizenship of Earth nations, use our free choice, will and conviction, in the desire to:
 unite humanity above ethnic, national, religious divides, based on morality, fairness, peace and the equal dignity of every human being, as humankind which looks to the future and the infinite space of the Universe, resolve differences, conflicts, inequality and imperfections in human history, bring spiritual and scientific practices and human creative achievements to a new level in all their civilizational and cultural multitude, and launch a new era in the history of humanity in space, based on the Declaration of Unity of Asgardia as an integral part of this Constitution, have founded Asgardia, the first Space Nation in human history, and hereby adopt this Constitution of Asgardia.
-
-
 
 Chapter 1. DECLARATION OF UNITY OF ASGARDIA
 
@@ -17,8 +14,6 @@ ASGARDIA,
 based on the birthright of Man in the universe,
 adopt this
 DECLARATION
-
-
 
 1. Asgardia is a free and unified space nation.
 2. The objectives of Asgardia are:
@@ -45,24 +40,16 @@ One humanity - one unity.
 This Declaration is a primary document for the creation of
 ASGARDIA - the Space Nation
 
-
-
 Chapter 2. General Provisions
 
-
 Article 1. Name
-
 The terms “Space Nation of Asgardia” and “Asgardia” are synonymous.
-
-
 
 Article 2. Status
 Asgardia is a Constitutional Monarchy that is the first free space unitary, social nation under law that is above ethnic, national, religious divides, based on morality, fairness, peace and the equal dignity of every human being, which looks to the future and the infinite space of the Universe.
 
-
 Article 3. Mission
 To ensure the existence and development of the Space Nation of Asgardia and the new humanity in space.
-
 
 Article 4. Supreme Values of Asgardia
 1. Asgardia’s Supreme Values are the most common and permanent foundations of the self-identification of Asgardian citizens which form the commonality of Asgardian society and lie at the heart of the objectives and activities of Asgardian state bodies, citizens and associations.
@@ -86,8 +73,6 @@ m) harmonious existence of the individual, society and the state.
 6. Asgardia’s Supreme Values apply to relations with Earth nations and citizens, as well as any discovered alien intelligence.
 7. It is prohibited to undermine or diminish the Supreme Values of Asgardia. Asgardia and its citizens must implement and protect its Supreme Values from internal and external infringement.
 
-
-
 Article 5. Territory
 1. At the time of its foundation, Asgardia’s territory is the digitised noosphere, a digital state with living citizens on Earth, which exists on a near-Earth orbit in the form of a single satellite or an orbital satellite constellation.
 2. Asgardia expands its territory by creating Asgardian localities on Earth, near-Earth orbits and celestial bodies.
@@ -97,18 +82,13 @@ Article 5. Territory
 6. Asgardia expands its territory by obtaining new localities on Earth, in space and on celestial bodies.
 7. Asgardia uses adjacent territories (hard surfaces, subsurface resources, oceans, atmospheres, space, celestial bodies) in accordance with generally recognized international principles and norms, as well as international treaties to which it is a party.
 
-
-
 Chapter 3. Space Citizenship of Asgardia
-
 
 Article 6. Asgardian Citizens
 1. Any resident of Earth over the age of 16 who agrees to Asgardia’s Declaration of Unity and Constitution and consciously submits his/her digital personal data to Asgardia’s Space Database may become an Asgardian citizen.
 2. Space citizenship of Asgardia is a special type of citizenship and does not constitute dual or second citizenship for the purposes of Earth nation citizenship. A citizen of an Earth nation becoming a space citizen does not confer multiple citizenship status unless otherwise stipulated by an international treaty to which Asgardia is a party.
 3. A child gains space citizenship of Asgardia at birth if one or both parents or the only parent is/are space citizens of Asgardia. A child born before the foundation of Asgardia may become a citizen on the request of his/her parent(s) who are citizens of Asgardia.
 4. Space citizenship may be terminated by the Asgardian citizen waiving citizenship or by Asgardia revoking or temporarily suspending citizenship. Grounds for revocation of space citizenship, as well as restrictions on the acceptance of new citizens are set by the law of Asgardia.
-
-
 
 Article 7. Location of Citizens
 1. Asgardian citizens have the right of free movement in Asgardian localities and the right to choose their location in Earth nations.
@@ -156,8 +136,6 @@ Article 10. Guarantees of Citizen Rights and Freedoms
 6. The state must establish Asgardia’s public opinion and take it into account when making administrative decisions in accordance with the law of Asgardia.
 7. The state guarantees that any Asgardian legal act may be repealed on the request of Asgardian citizens by means of the appropriate procedure set by Asgardian law.
 
-
-
 Chapter 4. Asgardian Resources
 
 Article 11. Human Resources
@@ -172,8 +150,6 @@ Article 12. Natural Resources
 2. Asgardia uses space resources in accordance with international space law.
 3. Asgardia’s natural resources may be exclusively state property, the property of stateowned companies, public-private property, private property, personal property, as well as other property under the law of Asgardia.
 4. Asgardia uses all available resources to ensure the safety and sustainability of its natural resources and the space environment and supports corresponding initiatives in accordance with the procedure set by the law.
-
-
 
 Article 13. Financial Resources
 1. Asgardia’s sovereign financial resources comprise state and private finance. Arbitrary seizure of private financial resources is prohibited.
@@ -190,7 +166,6 @@ Article 13. Financial Resources
 12. The Government encourages the development of private business by establishing an appropriate tax and state insurance system. Private business is regulated by the law of Asgardia.
 13. The tax system and preferential tax terms are set by the law of Asgardia.
 
-
 Article 14. Scientific Resources
 1. Asgardia is a nation which celebrates science, the digitised noosphere and ideas, which combines the advantages of information technology in virtual and physical space.
 2. Asgardia’s hardware and software complex comprises a combination of Earth-based, orbital and Moon-based entities in its localities.
@@ -199,8 +174,6 @@ Article 14. Scientific Resources
 5. Science, art, research and education may be pursued freely in Asgardia, subject to the Constitution.
 6. Asgardia’s electronic resources include, among others, a secure information and telecommunications network, an electronic mail network, electronic mass media, television and radio broadcasting.
 7. Asgardia guarantees the rights of authors, inventors and users of intellectual property in harmony and balance.
-
-
 
 Article 15. Property
 1. Property in Asgardia ensures and guarantees the rights and freedoms of citizens, the security, welfare and development of Asgardia and serves the achievement of the common good.
@@ -227,7 +200,6 @@ f) separation of powers;
 g) the work of the Royal Council of Supreme Values which monitors the activities of state bodies to ensure they are compliant with Asgardia’s Supreme Values and Constitution.
 7. The supreme form of the expression of public will in Asgardia is a referendum. Referenda are used to resolve important matters in Asgardia’s public life. The Head of State, Parliament, the Chamber of Supreme Values and citizens have the right to initiate referenda.
 
-
 Article 17. Fairness
 1. Asgardia recognises that every person has an inalienable right to fair treatment and facilitates the enjoyment of this right.
 2. Asgardia is a nation of social justice which strives to ensure that citizens enjoy material and spiritual benefits expected by other citizens, society and the state and produced by the citizen through labour.
@@ -239,7 +211,6 @@ c) state and public support for groups in need, charity, philanthropy and mutual
 d) work and scientific and technological progress.
 5. The state encourages the work of citizens, citizen associations, including investors and philanthropists, who engage in socially important activities.
 
-
 Article 18. Equality of Dignity for All
 1. Asgardia recognises the equal dignity of all persons.
 2. Every person has the right to have their dignity recognised and protected in life and after death. No grounds can be used to diminish human dignity. The dignity of Asgardian citizens is protected by the state.
@@ -249,12 +220,9 @@ Article 18. Equality of Dignity for All
 6. The government seeks to reduce inequality of social conditions and opportunities for Asgardian citizens, including those contingent on their country of residence.
 7. The state supports the establishment of humanism, compassion and charity in social and economic systems.
 
-
-
 Article 19. Labour
 1. The state and society encourage labour and seek to increase its value, significance and prestige.
 2. Employment rights are regulated by Asgardian law in accordance with generally recognised principles and norms of international law.
-
 
 Article 20. Social Protection
 1. Social protection of citizens takes the form of social support and assistance to the needy and pensioners.
@@ -276,8 +244,7 @@ Article 22. Security of Citizens
 7. Asgardia guarantees the protection of citizen personal data.
 
 Article 23. Security of Asgardia
-1. Asgardia maintains and protects its national sovereignty, national security and the security of its resources on celestial bodies, in space and on Earth using all of its state
- abilities, means and resources.
+1. Asgardia maintains and protects its national sovereignty, national security and the security of its resources on celestial bodies, in space and on Earth using all of its state abilities, means and resources.
 2. Asgardia monitors and forecasts external and internal threats and security risks (including space, military, political, informational, economic and environmental risks) and ensures that they are minimised, prevented or that damage from the realisation of such risks is minimised and their consequences are addressed.
 3. To ensure information security, the state regulates the circulation of certain types of information on the basis of the Constitution and in accordance with the procedure set by the law.
 4. The list of information, as well as the procedure for including it in restricted information, is set by the law.
@@ -311,8 +278,6 @@ c) the national anthem of Asgardia;
 5. Asgardian citizens must respect and protect Asgardia’s national symbols. Disrespect towards Asgardia’s national symbols is subject to liability in accordance with the procedure set by the law of Asgardia.
 6. Use of national symbols in violation of the procedure set by the law of Asgardia is prosecuted in accordance with the law.
 
-
-
 Article 27. Language
 1. Asgardia’s official languages are up to 13 languages chosen by Asgardian citizens on becoming space citizens as the most commonly used languages at the time the list of official languages is set. The list of official languages may change as the linguistic composition of Asgardian citizens changes.
 2. Official languages in Asgardia are the administrative and document languages.
@@ -321,8 +286,6 @@ Article 27. Language
 5. All Asgardian citizens may use their native languages for communication, education, parenting and creative pursuits. The state guarantees that all may retain their native language and does not obstruct its use or development.
 6. In its relations with Earth nations and international organisations, Asgardia uses one of the 13 languages chosen by Asgardia and the interlocutor. Agreements, treaties and other international acts executed by Asgardia may also be prepared in a different language requested by the other party on the mutual agreement of the parties.
 7. Asgardia strives towards a single Asgardian language in the future.
-
-
 
 Article 28. Capital
 1. The celestial capital of Asgardia, Asgard or Celestial Asgard, is located on a currently active near-Earth orbit satellite or satellites that are part of an orbital constellation. The capital may subsequently be located on a Space Ark or, eventually, on a Moon entity in accordance with international space law.
