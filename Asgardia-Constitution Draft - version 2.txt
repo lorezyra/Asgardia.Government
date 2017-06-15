@@ -1,4 +1,4 @@
-Constitution
+﻿Constitution
 of the Space Nation of Asgardia
 
 Preamble
@@ -26,8 +26,8 @@ DECLARATION
 * To ensure equal opportunities in space for all citizens of planet Earth, especially those living in the developing countries
 3. Any resident of Earth can become a citizen of Asgardia, as long as he assents in the Declaration, and abides by the Constitution and the legislation of Asgardia.
 4. All citizens of Asgardia are equal, regardless of their Earthly country of origin, residence, citizenship, race, nationality, gender, language, or financial standing.
-5. Asgardia respects the laws of Earth�s states and the international treaties on Earth, and wishes to be recognised as an equal among the states on Earth.
-6. Asgardia does not interfere in the affairs of Earth�s states based on reciprocity.
+5. Asgardia respects the laws of Earth╒s states and the international treaties on Earth, and wishes to be recognised as an equal among the states on Earth.
+6. Asgardia does not interfere in the affairs of Earth╒s states based on reciprocity.
 7. Asgardia participates in the international-level events on Earth, like any other country, based on its membership in the respective international organizations.
 8. Asgardia respects and complies with the rights of citizens of Earth states, and protects the rights of its citizens in the exclusivity of their space nation citizenship in accordance with international law
 9. Asgardia does not engage in politics, and has no place for political parties. But every Asgardian can freely participate in political life on Earth.
@@ -45,35 +45,35 @@ Space Kingdom of Asgardia.
 Chapter 2. General Provisions
 
 Article 1. Name of the Nation
-Space Kingdom of Asgardia. The terms �Space Kingdom of Asgardia� and �Asgardia� are synonymous.
+Space Kingdom of Asgardia. The terms ╥Space Kingdom of Asgardia╙ and ╥Asgardia╙ are synonymous.
 Article 2. Status
 Asgardia is the first space independent, free, unitary, social nation under law that is transethnic, transreligious, based on morality, fairness, peace and the equal dignity of every human being, which looks to the future and the infinite Universe, Constitutional Monarchy.
 Article 3. Mission
 To ensure the existence and development of the Space Nation of Asgardia and the new space humanity.
 Article 4. Supreme Values of Asgardia
-1. Asgardia?s Supreme Values are the most common and permanent foundations of the self-identification of Asgardian citizens which form the commonality of Asgardian society and lie at the heart of the objectives and activities of Asgardian governmental bodies, citizens and associations.
-2. The Constitution, laws and other regulations of Asgardia, as well as the activities of its governmental bodies, implement and protect Asgardia?s Supreme Values.
-3. Asgardia?s absolute supreme value is humanity striving into the infinite future, into the infinite Universe, and infinite new Universes.
-4. Asgardia?s Supreme Values in fulfilling its Mission are:
-o peace in space and the peaceful settlement of the Universe;
-o ensuring equality of opportunity in space for all Asgardian citizens;
-o safeguarding Earth and all of humanity from space-originating threats;
-o unity of space humanity as a community;
-o human dignity, human rights and freedoms and the harmonious development of the individual;
-o human happiness, life, love, children and family, and the propagation of the human species;
-o supremacy of law;
-o preservation of space environment;
-o community and mutual support;
-o scientific and artistic creativity and the belief in the boundless potential of human reason, knowledge, labour and progress;
-o peace, tranquillity, safety, security and confidence;
-o morality, fairness and freedom;
-o harmonious existence of the individual, society and the nation.
-5. Asgardia?s Supreme Values are equally important and equally implemented in the governmental administration. In the event of a conflict between the Supreme Values, the absolute supreme value of Asgardia prevails.
-6. Asgardia?s Supreme Values apply to relations with people and states of Earth, as well as any discovered alien intelligence.
+1. Asgardia’s Supreme Values are the most common and permanent foundations of the self-identification of Asgardian citizens which form the commonality of Asgardian society and lie at the heart of the objectives and activities of Asgardian governmental bodies, citizens and associations.
+2. The Constitution, laws and other regulations of Asgardia, as well as the activities of its governmental bodies, implement and protect Asgardia’s Supreme Values.
+3. Asgardia’s absolute supreme value is humanity striving into the infinite future, into the infinite Universe, and infinite new Universes.
+4. Asgardia’s Supreme Values in fulfilling its Mission are:
+a) peace in space and the peaceful settlement of the Universe;
+b) ensuring equality of opportunity in space for all Asgardian citizens;
+c) safeguarding Earth and all of humanity from space-originating threats;
+d) unity of space humanity as a community;
+e) human dignity, human rights and freedoms and the harmonious development of the individual;
+f) human happiness, life, love, children and family, and the propagation of the human species;
+g) supremacy of law;
+h) preservation of space environment;
+i) community and mutual support;
+j) scientific and artistic creativity and the belief in the boundless potential of human reason, knowledge, labour and progress;
+k) peace, tranquillity, safety, security and confidence;
+m) morality, fairness and freedom;
+L) harmonious existence of the individual, society and the nation.
+5. Asgardia’s Supreme Values are equally important and equally implemented in the governmental administration. In the event of a conflict between the Supreme Values, the absolute supreme value of Asgardia prevails.
+6. Asgardia’s Supreme Values apply to relations with people and states of Earth, as well as any discovered alien intelligence.
 7. It is prohibited to undermine or diminish the Supreme Values of Asgardia. Asgardia and its citizens must implement and protect its Supreme Values from internal and external infringement.
 
 Article 5. Territory
-1. In a legal sense Asgardia?s territory is a digital nation with living citizens on Earth; in a scientific and technological sense Asgardia is a nation implemented on a Low Earth orbit in the form of a satellite or an orbital satellite constellation; or on Earth; and on the Moon and other celestial bodies.
+1. In a legal sense Asgardia’s territory is a digital nation with living citizens on Earth; in a scientific and technological sense Asgardia is a nation implemented on a Low Earth orbit in the form of a satellite or an orbital satellite constellation; or on Earth; and on the Moon and other celestial bodies.
 2. Asgardia expands its territory by creating Asgardian localities on Earth, Low Earth orbits and celestial bodies.
 3. Asgardian localities on Earth are peacefully and lawfully acquired natural hard and liquid surfaces on Earth and man-made platforms situated on such surfaces.
 4. Asgardian localities on Low Earth orbits are satellites, orbital satellite constellations, man-made platforms (Arks); measures for safeguarding Earth and Asgardia, and other elements.
@@ -84,7 +84,7 @@ Article 5. Territory
 Chapter 3. Space Citizenship of Asgardia
 
 Article 6. Asgardian Citizens
-1. Any resident of Earth over the age of 16 who agrees to Asgardia?s Declaration of Unity and Constitution and consciously submits his/her digital personal data to Asgardia?s Space Database may become an Asgardian citizen.
+1. Any resident of Earth over the age of 16 who agrees to Asgardia’s Declaration of Unity and Constitution and consciously submits his/her digital personal data to Asgardia’s Space Database may become an Asgardian citizen.
 2. Space citizenship of Asgardia is a special type of citizenship and does not constitute dual or second citizenship for the purposes of Earth nation citizenship. A citizen of an Earth nation becoming a space citizen does not confer multiple citizenship status unless otherwise stipulated by an international treaty to which Asgardia is a party.
 3. A child gains space citizenship of Asgardia at birth if one or both parents or the only parent is/are space citizen(s) of Asgardia. A child born before the foundation of Asgardia may become a citizen on the request of his/her parent(s) who is(are) citizen(s) of Asgardia.
 4. Space citizenship may be terminated by the Asgardian citizen waiving citizenship or by Asgardia revoking or temporarily suspending citizenship.
@@ -92,46 +92,46 @@ Article 6. Asgardian Citizens
 
 Article 7. Location of Citizens
 1. Asgardian citizens have the right of free movement in Asgardian localities and the right to choose their location in Earth states in line with the respective legal, organisational and physical capabilities, in accordance with applicable national and international law.
-2. An Asgardian citizen�s permanent residence in an Earth state does not deprive or diminish his/her rights or freedoms, does not suspend or terminate his/her space citizenship and does not annul his/her obligations towards Asgardia.
+2. An Asgardian citizen’s permanent residence in an Earth state does not deprive or diminish his/her rights or freedoms, does not suspend or terminate his/her space citizenship and does not annul his/her obligations towards Asgardia.
 
 Article 8. Key Rights and Freedoms of Citizens
 1. All human and citizenship rights and freedoms are recognised in Asgardia in accordance with generally recognised international law principles and norms. Human rights and freedoms are inalienable and enjoyed by all persons from birth on the basis of the law.
 2. All Asgardian citizens are equal.
 3. Persons who acquire space citizenship at birth acquire and exercise rights and perform obligations in full on reaching full legal age at 16.
 4. Key Rights and Freedoms of Asgardia Citizen:
-o freedom of the individual and freedom of speech are inviolable;
-o the right to participate in the national affairs of Asgardia both directly and via representatives;
-o the right to elect and be elected/appointed to Asgardia?s governmental bodies and participate in referenda;
-o the right to put forward citizens� legislative proposals;
-o the right to access to information about the activities of governmental bodies and monitor them;
-o the right to participate in space exploration and universal access to scientific information about space;
-o the right to personal safety and the safety of the home in Asgardia localities;
-o the right to citizens� self-governance;
-o the right to ownership and inheritance;
-o the right to organise citizen groups on the basis of Asgardia laws.
+a) freedom of the individual and freedom of speech are inviolable;
+b) the right to participate in the national affairs of Asgardia both directly and via representatives;
+c) the right to elect and be elected/appointed to Asgardia’s governmental bodies and participate in referenda;
+d) the right to put forward citizens╒ legislative proposals;
+e) the right to access to information about the activities of governmental bodies and monitor them;
+f) the right to participate in space exploration and universal access to scientific information about space;
+g) the right to personal safety and the safety of the home in Asgardia localities;
+h) the right to citizens╒ self-governance;
+i) the right to ownership and inheritance;
+j) the right to organise citizen groups on the basis of Asgardia laws.
 5. If the rights of an Asgardian are infringed, including by an Asgardian governmental body, he/she has the right to seek legal protection in Supreme Space Court.
 6. Asgardian citizens may only be extradited to other states on the basis of the law of Asgardia.
 7. Asgardian citizens have the right of peaceful and unarmed assembly, without prior approval in line with Asgardia law.
-8. The enumeration of specific citizen rights and freedoms in this article shall not be interpreted as the negation or diminishment of other citizenship rights and freedoms stipulated by other articles of Asgardia?s Constitution, the laws of Asgardia and generally recognised human rights and freedoms.
-9. Citizenship rights and freedoms may only be restricted by the law of Asgardia to the extent defined by Asgardia Constitution and is required to protect Asgardia?s national interest, ensure Asgardia?s safety and security, performance of its mission and supreme values, and protect the rights and legal interests of other Asgardian citizens.
+8. The enumeration of specific citizen rights and freedoms in this article shall not be interpreted as the negation or diminishment of other citizenship rights and freedoms stipulated by other articles of Asgardia’s Constitution, the laws of Asgardia and generally recognised human rights and freedoms.
+9. Citizenship rights and freedoms may only be restricted by the law of Asgardia to the extent defined by Asgardia Constitution and is required to protect Asgardia’s national interest, ensure Asgardia’s safety and security, performance of its mission and supreme values, and protect the rights and legal interests of other Asgardian citizens.
 
 Article 9. Key Obligations of Citizens
 1. Asgardian citizens have inalienable and indispensable obligations. Asgardian citizen obligations arise from the moment they become citizens of Asgardia.
 2. All Asgardian citizens must respect and not violate the rights, freedoms and legal interests of other people.
-3. All persons on Asgardian territory must comply with Asgardia?s Constitution, its laws and regulations effective on Asgardian territory, as well as respecting Asgardia?s Supreme Values.
-4. All citizens of Asgardia must comply with the Constitution, Asgardia?s laws and regulations, respect and implement its Supreme Values irrespective of their location, unless this results in violation of the law of the country in which they are located.
+3. All persons on Asgardian territory must comply with Asgardia’s Constitution, its laws and regulations effective on Asgardian territory, as well as respecting Asgardia’s Supreme Values.
+4. All citizens of Asgardia must comply with the Constitution, Asgardia’s laws and regulations, respect and implement its Supreme Values irrespective of their location, unless this results in violation of the law of the country in which they are located.
 5. Asgardian citizens must pay lawfully established taxes and levies.
 6. Asgardian citizens have the right and obligations to participate in elections and referenda. Systematic derogation of this duty may lead to legal consequences in accordance with the law.
-7. All Asgardian citizens must preserve nature and the environment in Asgardia?s localities.
-8. Protecting Asgardia?s national interests and security and performing its mission and Supreme Values is an obligation of every Asgardian citizen.
-9. Asgardian citizens must make a contribution to the creation of Asgardia?s resources to ensure the common good that is commensurate with their ability to do so.
-10. Failure to perform citizenship obligations or failure to perform them properly may lead to permanent revocation of Asgardian citizenship, suspension of Asgardian citizenship, fines, restriction and/or permanent revocation of access to Asgardia?s electronic resources in accordance with the law of Asgardia. The death penalty is prohibited in Asgardia. The creation of prisons is prohibited in Asgardia.
+7. All Asgardian citizens must preserve nature and the environment in Asgardia’s localities.
+8. Protecting Asgardia’s national interests and security and performing its mission and Supreme Values is an obligation of every Asgardian citizen.
+9. Asgardian citizens must make a contribution to the creation of Asgardia’s resources to ensure the common good that is commensurate with their ability to do so.
+10. Failure to perform citizenship obligations or failure to perform them properly may lead to permanent revocation of Asgardian citizenship, suspension of Asgardian citizenship, fines, restriction and/or permanent revocation of access to Asgardia’s electronic resources in accordance with the law of Asgardia. The death penalty is prohibited in Asgardia. The creation of prisons is prohibited in Asgardia.
 
 Article 10. Guarantees of Citizen Rights and Freedoms
 1. Asgardian government guarantees the rights and freedoms of citizens by ensuring the use of its powers and all available resources.
-2. Asgardian government is responsible for respecting and protecting citizens� rights and freedoms and ensuring that they can be exercised.
+2. Asgardian government is responsible for respecting and protecting citizens╒ rights and freedoms and ensuring that they can be exercised.
 3. Guarantees of citizenship rights and freedoms are supported using Asgardian governmental property which serves as the material foundation for the exercising of its powers and performance of its obligations.
-4. The rights and freedoms of Asgardian citizens are guaranteed through the establishment of corresponding obligations of Asgardia in the Constitution and Asgardia?s laws.
+4. The rights and freedoms of Asgardian citizens are guaranteed through the establishment of corresponding obligations of Asgardia in the Constitution and Asgardia’s laws.
 5. Asgardian government guarantees that its aims, plans, development forecasts, as well as threats and risks to its development, will be publicly disclosed.
 6. Asgardian government must establish its public opinion and take it into account when making administrative decisions in accordance with the law of Asgardia.
 7. Asgardian government guarantees that any Asgardian legal act may be repealed on the request of Asgardian citizens by means of the appropriate procedure set by Asgardian law.
@@ -146,19 +146,19 @@ Article 11. Human Resources
 5. Asgardia supports its citizens in leading healthy lifestyles.
 
 Article 12. Natural Resources
-1. Asgardia?s natural resources include material objects, energy and information streams in space environments in the Universe within Asgardian territory and adjacent environments in accordance with generally recognised international principles and norms, as well as international treaties to which it is a party.
+1. Asgardia’s natural resources include material objects, energy and information streams in space environments in the Universe within Asgardian territory and adjacent environments in accordance with generally recognised international principles and norms, as well as international treaties to which it is a party.
 2. Asgardia uses space resources in accordance with international space law.
-3. Asgardia?s natural resources may be exclusively its governmental property, the property of its companies, public-private property, private property, personal property, as well as other property under the law of Asgardia.
+3. Asgardia’s natural resources may be exclusively its governmental property, the property of its companies, public-private property, private property, personal property, as well as other property under the law of Asgardia.
 4. Asgardia uses all available resources to ensure the safety and sustainability of its natural resources and the space environment and supports corresponding initiatives in line with the law of Asgardia.
 
 Article 13. Financial Resources
-1. Asgardia?s financial resources comprise national governmental and private finance. Arbitrary seizure of private financial resources is prohibited.
-2. Asgardia?s currency is a monetary unit named SOLAR.
+1. Asgardia’s financial resources comprise national governmental and private finance. Arbitrary seizure of private financial resources is prohibited.
+2. Asgardia’s currency is a monetary unit named SOLAR.
 3. Asgardian currency is freely exchangeable into all of the main global currencies on the free market on Earth in line with the law of Asgardia.
-4. Asgardia?s currency is issued by the National Bank in the amount tied to the parameters of the Moon set by a special law of Asgardia. Asgardia?s National Bank is a lender of last resort.
+4. Asgardia’s currency is issued by the National Bank in the amount tied to the parameters of the Moon set by a special law of Asgardia. Asgardia’s National Bank is a lender of last resort.
 5. Asgardia supports private and corporate charitable donors and investors.
 6. Asgardia creates special national charitable foundations, including the Asgardia, Science, Childhood Foundations and others, in accordance with the procedure set by the law of Asgardia. Distribution of foundation assets is within the purview of the Government and supervised by Parliament.
-7. The Government is responsible for the national budget, external financial exchange, the tax system, Asgardia?s public consumption foundations and charitable foundations.
+7. The Government is responsible for the national budget, external financial exchange, the tax system, Asgardia’s public consumption foundations and charitable foundations.
 8. Revenue from governmental licences and the business activities of Asgardian governmental institutions and organisations of any kind is paid to the budget of Asgardia in full.
 9. Asgardia recognises the immunity of commercial secrets.
 10. The Government encourages the development of private business by establishing an appropriate tax and governmental insurance system. Private business is regulated by the law of Asgardia.
@@ -166,11 +166,11 @@ Article 13. Financial Resources
 
 Article 14. Scientific Resources
 1. Asgardia is a nation of the supremacy of science, technology, the nation of ideas, which combines the advantages of information technology in virtual and physical world.
-2. Asgardia?s hardware and software complex comprises a combination of its localities on Earth, in orbit, based on the Moon and other celestial bodies.
+2. Asgardia’s hardware and software complex comprises a combination of its localities on Earth, in orbit, based on the Moon and other celestial bodies.
 3. Asgardia accumulates intellectual resources by digitising and storing the wealth of human knowledge in space.
 4. Asgardia creates and stores in Low Earth orbit and on celestial bodies a Databank of biological materials from Earth.
 5. Science and art may be pursued freely in Asgardia, subject to the Constitution and laws of Asgardia.
-6. Asgardia?s electronic resources include, among others, a secure information and telecommunications network, an electronic mail network, electronic mass media, television and radio broadcasting.
+6. Asgardia’s electronic resources include, among others, a secure information and telecommunications network, an electronic mail network, electronic mass media, television and radio broadcasting.
 7. Asgardia guarantees the rights of authors, inventors and users of intellectual property in harmony and balance.
 
 Article 15. Property
@@ -183,7 +183,7 @@ Article 15. Property
 Chapter 5. Government by the People and Social Justice
 
 Article 16. Government by the People
-1. Asgardian citizens are the source of Asgardia?s powers.
+1. Asgardian citizens are the source of Asgardia’s powers.
 2. The collective will of Asgardian citizens is implemented through their participation in elections to Asgardian governmental bodies and monitoring of these bodies, referenda, interaction with their representatives in elected governmental bodies.
 3. Elections to Asgardian governmental bodies and citizen participation in developing, making, implementing and monitoring the performance of administrative decisions is conducted in appropriate means, though primarily via electronic voting.
 4. Prejudice during elections and referenda based on Earth country of birth, residence, citizenship, race, nationality, gender, language, wealth, creed or belief and other differences is prohibited.
@@ -191,7 +191,7 @@ Article 16. Government by the People
 6. Government by the People in Asgardia is ensured by:
 o establishing a procedure for elections, requirements applicable to candidates and election time frames;
 o ensuring that Asgardian governmental body officials can be replaced and setting maximum term limits for government positions;
-o court protection of Asgardian citizens� rights to run for office and be elected;
+o court protection of Asgardian citizens╒ rights to run for office and be elected;
 o public control via electronic resources of the public activities of Asgardian governmental bodies, their regular reporting to citizens, provision of open information about different areas of government responsibilities in the format set by the law;
 o procedures that allow citizens to put forward legislative proposals and initiate referenda;
 o separation of powers;
@@ -212,7 +212,7 @@ o work and scientific and technological progress.
 Article 18. Equality of Dignity for All
 1. Asgardia recognises the equal dignity of all persons.
 2. Every person has the right to have their dignity recognised and protected in life and memory after death. No grounds can be used to diminish human dignity. The dignity of Asgardian citizens is protected.
-3. The views of people and Asgardian citizens about human dignity are formed and fostered through education, parenting, propaganda and the media in accordance with Asgardia?s Supreme Values.
+3. The views of people and Asgardian citizens about human dignity are formed and fostered through education, parenting, propaganda and the media in accordance with Asgardia’s Supreme Values.
 4. Propaganda of superiority and inequality of people is prohibited. Asgardia prohibits racist, Nazi, fascist and other similar ideologies in their historical and new forms.
 5. Asgardian government protects groups of citizens who find themselves in a difficult position on Asgardian territory by providing them equal access to food, clothing, shelter and basic material and immaterial benefits.
 6. The government seeks to reduce inequality of social conditions and opportunities for Asgardian citizens, including those contingent on their country of residence.
@@ -230,13 +230,13 @@ Chapter 6. Security in Asgardia
 
 Article 21. Security Areas
 1. Asgardia safeguards from space-originating threats the Earth, itself and its citizens.
-2. Asgardia?s security doctrine is exclusively peaceful and self-protective in its nature.
+2. Asgardia’s security doctrine is exclusively peaceful and self-protective in its nature.
 
 Article 22. Security of Citizens
-1. Asgardia ensures the security of citizens as its ability and the citizens� ability to overcome threats and minimise risks in the present and future.
+1. Asgardia ensures the security of citizens as its ability and the citizens╒ ability to overcome threats and minimise risks in the present and future.
 2. Citizen security is ensured in Asgardian territory.
 3. All citizens may demand that Asgardia, in its territory, safeguard them from any slavery or servitude, physical or emotional violence and compulsion, any unlawful dependence and restrictions, and any unlawful obligations or subordination.
-4. Governmental bodies and diplomatic representative bodies of Asgardia in Earth states must use all peaceful means and measures to assist the provision of physical security of its citizens outside of Asgardia in accordance with Asgardia?s Constitution and laws, generally recognised international principles and norms, international and bilateral treaties, laws and rules of states in which Asgardian citizens reside.
+4. Governmental bodies and diplomatic representative bodies of Asgardia in Earth states must use all peaceful means and measures to assist the provision of physical security of its citizens outside of Asgardia in accordance with Asgardia’s Constitution and laws, generally recognised international principles and norms, international and bilateral treaties, laws and rules of states in which Asgardian citizens reside.
 5. Asgardia prohibits the propaganda of immoral and antisocial behaviour, the production and circulation of information on any storage media which contains mass information that is harmful to morality and/or aims to undermine or diminish its Supreme Values.
 6. Any persecution for expression of views and convictions is prohibited, provided that such views do not contain propaganda of immorality, seek to undermine or diminish Supreme Values, threaten national security, incite violence, strife, demean the honour and dignity of individuals, disclose restricted information, and which is not otherwise specified by requirements for ensuring information security.
 7. Asgardia guarantees the protection of citizen personal data.
@@ -250,33 +250,33 @@ Article 23. Security of Asgardia
 
 Article 24. Protection of Earth
 1. Asgardia uses governmental and private resources to build capabilities to safeguard Earth from space-originating threats independently and in cooperation with Earth states and international organisations on the basis of bilateral and multilateral treaties.
-2. In order to safeguard Earth, Asgardia?s authorised bodies:
+2. In order to safeguard Earth, Asgardia’s authorised bodies:
 o monitor the condition and physical processes of potentially dangerous objects in near and outer space, model and forecast Space-originating threats and their potential consequences;
-o monitor the condition and physical processes in Earth�s geospheres and model and forecast their potential consequences;
-o monitor the Earth�s biosphere and emerging biological threats originating in space, model and forecast their potential consequences and ways of defending against such threats.
-3. In order to preserve humanity and Earth�s biodiversity, Asgardia organises and ensures the building of Space Arks, protective platforms in space to be used in the event of threats to the safety of humanity on Earth and for space tourism in the absence of threats.
+o monitor the condition and physical processes in Earth╒s geospheres and model and forecast their potential consequences;
+o monitor the Earth╒s biosphere and emerging biological threats originating in space, model and forecast their potential consequences and ways of defending against such threats.
+3. In order to preserve humanity and Earth╒s biodiversity, Asgardia organises and ensures the building of Space Arks, protective platforms in space to be used in the event of threats to the safety of humanity on Earth and for space tourism in the absence of threats.
 
-Article 25. Asgardia?s Aerospace Fleet
+Article 25. Asgardia’s Aerospace Fleet
 1. To safeguard Earth and its orbital satellite constellation, Asgardia creates aerospace capabilities and resources in accordance with international law.
 2. The core of the aerospace capabilities is formed by universal robotic space platforms.
 3. The Head of Nation and Parliament may declare a state of emergency, defence or disaster in accordance with the law of Asgardia. In such cases, the Head of Nation may lead Asgardian activities.
-4. Asgardia?s aerospace capabilities operate in accordance with international law and in cooperation with Earth nations and international organisations to achieve peace in space and safeguard Earth from space-originating threats.
+4. Asgardia’s aerospace capabilities operate in accordance with international law and in cooperation with Earth nations and international organisations to achieve peace in space and safeguard Earth from space-originating threats.
 
 Chapter 7. Government Structure
 
 Article 26. National symbols
-1. Asgardia?s national symbols are:
+1. Asgardia’s national symbols are:
 o the national flag of Asgardia;
 o the national coat of arms of Asgardia;
 o the national anthem of Asgardia;
-2. Asgardia?s national symbols are chosen by voting and subsequently approved by Parliament and the Head of Nation in accordance with the procedure set by the law of Asgardia.
-3. Asgardia?s national motto is �One Humanity, One Unity�.
-4. The description of Asgardia?s national symbols and the procedure for using them are set by the laws of Asgardia.
-5. Asgardian citizens must respect and protect Asgardia?s national symbols. Disrespect towards Asgardia?s national symbols is subject to liability in accordance with the procedure set by the law of Asgardia.
+2. Asgardia’s national symbols are chosen by voting and subsequently approved by Parliament and the Head of Nation in accordance with the procedure set by the law of Asgardia.
+3. Asgardia’s national motto is ╥One Humanity, One Unity╙.
+4. The description of Asgardia’s national symbols and the procedure for using them are set by the laws of Asgardia.
+5. Asgardian citizens must respect and protect Asgardia’s national symbols. Disrespect towards Asgardia’s national symbols is subject to liability in accordance with the procedure set by the law of Asgardia.
 6. Use of national symbols in violation of the procedure set by the law of Asgardia is prosecuted in accordance with the law.
 
 Article 27. Language
-1. Asgardia?s official languages are 12 languages chosen by Asgardian citizens as the most commonly used languages of communication. The procedure for selection and replacement of the official languages and the areas and specifics of their use are defined by the law of Asgardia.
+1. Asgardia’s official languages are 12 languages chosen by Asgardian citizens as the most commonly used languages of communication. The procedure for selection and replacement of the official languages and the areas and specifics of their use are defined by the law of Asgardia.
 2. Asgardia guarantees equality of the official languages. No one may set restrictions or privileges on the use of a certain official languages unless otherwise provided by the Constitution and/or the law of Asgardia.
 3. All Asgardian citizens may use their native languages for communication, education, parenting and creative pursuits. Asgardian government guarantees that all may retain their native language and does not obstruct its use or development.
 4. In its relations with Earth nations and international organisations, Asgardia uses one of the 12 languages chosen by Asgardia and the interlocutor. Agreements, treaties and other international acts concluded in the name of Asgardia may also be prepared in a different language requested by the other party on the mutual agreement of the parties.
@@ -284,18 +284,18 @@ Article 27. Language
 
 Article 28. Capital
 1. The space capital of Asgardia, Asgard or Space Asgard, is located on a currently active Low Earth orbit satellite or satellites that are part of an orbital constellation (localities). The capital may subsequently be located on a Space Ark and, eventually, on a Moon entity (localities) in accordance with international space law.
-2. Space Asgard is an information portal and the virtual location of Asgardia?s governmental bodies, citizens and infrastructure. The capital is used for address purposes by Asgardia citizens, other persons, Earth states and international organisations to contact Asgardian governmental bodies and officials.
+2. Space Asgard is an information portal and the virtual location of Asgardia’s governmental bodies, citizens and infrastructure. The capital is used for address purposes by Asgardia citizens, other persons, Earth states and international organisations to contact Asgardian governmental bodies and officials.
 3. Individual and collective enquiries by Asgardian citizens, other individuals and legal entities to Asgardian governmental bodies and officials must be sent electronically in a manner that allows the enquiring party to be identified and authenticated using the virtual resources of the capital of Asgardia.
-4. The Earth capital of Asgardia, Asgard or Earth Asgard, is the location of governmental bodies as required and the location of software and hardware complexes of Asgardia?s Earth entities, if Asgardia has territory (natural, artificial on hard surfaces or water, lawfully located in Earth states or not owned by Earth states).
+4. The Earth capital of Asgardia, Asgard or Earth Asgard, is the location of governmental bodies as required and the location of software and hardware complexes of Asgardia’s Earth entities, if Asgardia has territory (natural, artificial on hard surfaces or water, lawfully located in Earth states or not owned by Earth states).
 5. The status of both capitals, the legal arrangements for their location, their operational procedures and resource use are set by the law of Asgardia in accordance with international law.
 
 Article 29. Foreign Relations
 1. Asgardia conducts its foreign policy based on its mission and Supreme Values, as well as the national interest in accordance with international law.
-2. Achieving international legal recognition of Asgardia, including establishing diplomatic relations with Earth states and opening embassies and consulates in such states is one of the objectives of Asgardia?s foreign policy.
+2. Achieving international legal recognition of Asgardia, including establishing diplomatic relations with Earth states and opening embassies and consulates in such states is one of the objectives of Asgardia’s foreign policy.
 3. Asgardia opens embassies on all continents of the Earth.
-4. Asgardia?s foreign policy is aimed at achieving a balance of general space and planetary interests and its national interest.
+4. Asgardia’s foreign policy is aimed at achieving a balance of general space and planetary interests and its national interest.
 5. Asgardia builds international relations and collaborates with other states on the basis of international treaties and agreements executed by authorised governmental bodies.
-6. The common norms of international law are a component of Asgardia?s legal system. These norms have priority over Asgardian law provided they do not threaten Asgardia?s supreme mission of ensuring own existence.
+6. The common norms of international law are a component of Asgardia’s legal system. These norms have priority over Asgardian law provided they do not threaten Asgardia’s supreme mission of ensuring own existence.
 7. In resolving international disputes, Asgardia seeks to reach settlements under general, comprehensive and binding international arbitration proceedings.
 
 Article 30. Government
@@ -308,8 +308,8 @@ Article 30. Government
 Chapter 8. Administration of Government
 
 Article 31. Legal System
-1. The Constitution of Asgardia is the foundation of Asgardia?s legal system. Asgardia?s Constitution takes precedence over all other legal documents and is directly applicable.
-2. Asgardia?s legal acts include:
+1. The Constitution of Asgardia is the foundation of Asgardia’s legal system. Asgardia’s Constitution takes precedence over all other legal documents and is directly applicable.
+2. Asgardia’s legal acts include:
 o referendum decisions;
 o decrees of the Head of Nation;
 o acts of Parliament;
@@ -320,13 +320,13 @@ o prosecution authority acts;
 o National Audit Office acts;
 o National Bank acts;
 o international treaties;
-3. Asgardia?s Constitution and legal acts apply throughout Asgardia?s territory and to all Asgardian citizens irrespective of their location. In the event of differences between legal acts of the state in which an Asgardian citizen is located and Asgardia?s legal acts, if such differences are not addressed by an international treaty to which Asgardia is a party, the Asgardian citizen may operate on the basis of the acts of the state in which he/she is located.
-4. Laws and other legal acts adopted in Asgardia may not be counter to Asgardia?s Constitution or distort its provisions in any other way. Laws and other legal acts that are counter to the Constitution shall be repealed and declared void in accordance with the procedure set by the law of Asgardia.
+3. Asgardia’s Constitution and legal acts apply throughout Asgardia’s territory and to all Asgardian citizens irrespective of their location. In the event of differences between legal acts of the state in which an Asgardian citizen is located and Asgardia’s legal acts, if such differences are not addressed by an international treaty to which Asgardia is a party, the Asgardian citizen may operate on the basis of the acts of the state in which he/she is located.
+4. Laws and other legal acts adopted in Asgardia may not be counter to Asgardia’s Constitution or distort its provisions in any other way. Laws and other legal acts that are counter to the Constitution shall be repealed and declared void in accordance with the procedure set by the law of Asgardia.
 5. International treaties executed by Asgardia may not be counter to its Constitution. Treaties executed by Asgardia become part of its legal system.
 6. Asgardia recognises generally accepted international principles and norms.
 7. The requirements for preparation, consideration, adoption, official publication, entry into force, interpretation and systematisation of legal acts, as well as legal force and methods of resolving contradictions (collisions) between legal acts, are set by the Constitution and Asgardian law.
 
-Article 32. Asgardia?s Head of Nation
+Article 32. Asgardia’s Head of Nation
 1. The Head of Nation is the most senior official of Asgardia, the Guarantor of the Constitution, who sets the main directions of domestic and foreign policy and represents Asgardian government in the nation and abroad, acting in the capacity of Commander-in-Chief.
 2. The first Head of Nation elected on 20 January 2017 (20 January, 0001 in Asgardian calendar), and voting for this Constitution on 18 June 2017 (1 Asgard 0001 in Asgardian calendar) is Igor Ashurbeyli. As of the day of the acceptance of the Constitution of Asgardia the Head of Nation holds this post for a period of 5 years.
 3. The maximum age limit for the Head of Nation position is 82 years.
@@ -354,7 +354,7 @@ o grants clemency;
 o staffs the Administration of the Head of Nation, the body which supports the work of the Head of Nation;
 o creates discussion and advisory bodies to support him/her in performing his/her duties;
 o performs other duties stipulated by the Constitution and the law of Asgardia.
-10. The Head of Nation issues decrees which are mandatory for the government bodies and Asgardian citizens. Head of Nation decrees must not be counter to the Constitution and Asgardia?s laws.
+10. The Head of Nation issues decrees which are mandatory for the government bodies and Asgardian citizens. Head of Nation decrees must not be counter to the Constitution and Asgardia’s laws.
 
 Article 33. Parliament
 1. Parliament is a unicameral legislature which represents all Asgardian citizens.
@@ -366,7 +366,7 @@ Article 33. Parliament
 7. Parliamentary sessions may be held in person, remotely and electronically; they can be restricted or open, in accordance with the law of Asgardia.
 8. Representatives of governmental bodies must attend parliamentary sessions if invited.
 9. The Head of Nation may dissolve Parliament. The Prosecutor General may also propose the dissolution of Parliament to the Supreme Space Court. If the Supreme Space Court agrees with the arguments made, it may dissolve Parliament in accordance with the law.
-10. The Parliament�s powers include:
+10. The Parliament╒s powers include:
 o adopting Asgardian law;
 o appointing the Chairman of Parliament, Chairman of the National Bank, Royal Court Justices on the proposal of the Supreme Values Council; and removing them from post on the proposal of the Head of Nation or Supreme Values Council;
 o appointing and removing ministers from post on the proposal of the Chairman of the Government;
@@ -380,13 +380,13 @@ o holding parliamentary hearings and investigations, including summoning represe
 12. Parliament comprises 12 permanent committees whose areas of responsibility correspond to the Government ministries.
 
 Article 34. Government
-1. Asgardia?s supreme national executive body is the Government.
+1. Asgardia’s supreme national executive body is the Government.
 2. The Government is a collective body which comprises the Chairman of the Government, his/her deputies and ministers. The Government may hold meetings in person, remotely or electronically.
-3. The system of the nation�s executive bodies comprises 12 ministries which correspond to the permanent parliamentary committees.
+3. The system of the nation╒s executive bodies comprises 12 ministries which correspond to the permanent parliamentary committees.
 4. The Chairman of the Government is appointed by Parliament on the proposal of the Supreme Space Council in agreement with the Head of Nation. Candidates for minister are nominated by the Chairman of the Government and approved by Parliament. Ministers may be Asgardian citizens aged between 35 and 60 who have a degree, qualifications and professional experience in relevant area and the physical and mental health to perform the duties of a minister. Members of Government who have a private business must put it into trust management for the duration of their Government position to avoid a conflict of interest on agreement with the Chairman of the Government.
 5. The Chairman of the Government sets priority areas for the Government and organises its work in accordance with the Constitution, the law of Asgardia and Head of Nation decrees.
 6. The procedure for forming and organising the work of the Government is set by the Constitution and the law of Asgardia.
-7. The Government�s powers include:
+7. The Government╒s powers include:
 o implementing and defending the Constitution, implementing international treaties, laws, Head of Nation decrees and acts of the Supreme Values Council;
 o developing and submitting draft laws to Parliament;
 o developing and submitting draft budgets to Parliament and ensuring their implementation;
@@ -402,10 +402,10 @@ o supervising the work of governmental executive bodies;
 o ensuring the rule of law, protecting the rights and obligations of citizens and public order;
 o organising a system to train staff for the civil service and creating a succession pool;
 o other matters in accordance with the Constitution and the law of Asgardia, decrees of the Head of Nation and international obligations.
-8. All Asgardian revenue and expenditure must be included in the budget, which must be balanced. Meeting the needs of Asgardia?s administrative bodies and governmental enterprises must not overload taxpayers and must ensure uniformity of the basic living conditions in the territory of the nation in accordance with the law of Asgardia.
+8. All Asgardian revenue and expenditure must be included in the budget, which must be balanced. Meeting the needs of Asgardia’s administrative bodies and governmental enterprises must not overload taxpayers and must ensure uniformity of the basic living conditions in the territory of the nation in accordance with the law of Asgardia.
 9. If the budget for the following year is not approved by law before the end of the financial year, prior to it becoming effective, the Government may conduct spending required to:
 * maintain the institutions set by the law and implement measures set by the law;
-* perform Asgardia?s legal obligations;
+* perform Asgardia’s legal obligations;
 * continue other work and services if the budget for the previous year approved these amounts.
 10. The Government issues resolutions and other acts within its purview in accordance with and for the performance of the Constitution, Head of Nation decrees, Supreme Values Council resolutions, international treaties, laws.
 
@@ -422,14 +422,14 @@ Article 35. Supreme Space Court
 10. Court rulings are mandatory for Asgardian citizens and all governmental bodies.
 
 Article 36. Supreme Space Council
-1. The Supreme Space Council is a special governmental body in Asgardia which reports to the Head of Nation and analyses the adherence of legal acts and the actions of governmental bodies to Asgardia?s Supreme Values.
+1. The Supreme Space Council is a special governmental body in Asgardia which reports to the Head of Nation and analyses the adherence of legal acts and the actions of governmental bodies to Asgardia’s Supreme Values.
 2. The Supreme Space Council consists of its Chairman and members. Members of the Supreme Space Council may be any Asgardian citizens presented by the Chairman and nominated by the Head of Nation, aged between 50 and 80 who have particular achievements in the area of building the nation, in economics, science, culture, art, education, rule of law, healthcare, human rights and freedoms, parenting, sports, charity and/or other public or government achievements.
 3. The status, organisational foundations, powers and operational procedures of the Supreme Space Council are set by the Constitution and the law of Asgardia.
 4. Representatives of governmental bodies must attend sessions of the Supreme Space Council if invited. Governmental bodies must respond to enquiries sent by the Supreme Space Council.
 
-Article 37. Prosecutor�s Office
-1. The Prosecutor�s Office is Asgardia?s supervisory and monitoring authority.
-2. The Prosecutor�s Office supervises and monitors compliance of acts and the activities of governmental bodies and the actions/inaction of citizens with the Constitution and the law of Asgardia.
+Article 37. Prosecutor╒s Office
+1. The Prosecutor╒s Office is Asgardia’s supervisory and monitoring authority.
+2. The Prosecutor╒s Office supervises and monitors compliance of acts and the activities of governmental bodies and the actions/inaction of citizens with the Constitution and the law of Asgardia.
 3. The Prosecutor General is appointed and removed from the post by the Head of Nation on the proposal of the Supreme Space Council for a five-year term. The Prosecutor General appoints other prosecutors in accordance with the law of Asgardia.
 
 
@@ -444,25 +444,25 @@ Article 39. National Bank
 3. The Chairman of the National Bank is appointed into the position for five years and removed from the position by the Parliament based on the proposal of the Head of Nation or the Supreme Space Council.
 
 Article 40. Decision-Making and Implementation
-1. The Head of Nation sets the priorities for domestic and foreign policy by making annual and extraordinary addresses to Asgardian citizens at in-person and remote meetings of representatives of the supreme governmental bodies of Asgardia and issuing other decrees within his/her purview. The Head of Nation�s addresses serve as the document used to plan the country�s domestic and foreign policy for the upcoming year and beyond with the aim of performing Asgardia?s mission. The Head of Nation�s address is binding for all Asgardian national bodies and officials for implementation.
-2. Asgardian laws, plans and governmental development programmes are developed and adopted in accordance with the Head of Nation�s address to implement the Constitution and perform Asgardia?s mission. Asgardia?s laws regulate key social relations.
+1. The Head of Nation sets the priorities for domestic and foreign policy by making annual and extraordinary addresses to Asgardian citizens at in-person and remote meetings of representatives of the supreme governmental bodies of Asgardia and issuing other decrees within his/her purview. The Head of Nation╒s addresses serve as the document used to plan the country╒s domestic and foreign policy for the upcoming year and beyond with the aim of performing Asgardia’s mission. The Head of Nation╒s address is binding for all Asgardian national bodies and officials for implementation.
+2. Asgardian laws, plans and governmental development programmes are developed and adopted in accordance with the Head of Nation╒s address to implement the Constitution and perform Asgardia’s mission. Asgardia’s laws regulate key social relations.
 3. Asgardian citizens may initiate the making of government administrative decisions and participate in their preparation by means of electronic voting (right to propose legislation) in accordance with the law of Asgardia.
 4. To ensure implementation of Asgardian law, the Government and its ministries and other governmental bodies issue statutory instruments.
-5. Asgardian governmental bodies monitor the practical application of adopted/issued acts to improve legal acts within their purview. Monitoring and supervision of the implementation of adopted/issued legal acts is performed by Asgardia?s supervisory authorities and also by Asgardian citizens by using the mechanisms for public monitoring by means of electronic voting.
+5. Asgardian governmental bodies monitor the practical application of adopted/issued acts to improve legal acts within their purview. Monitoring and supervision of the implementation of adopted/issued legal acts is performed by Asgardia’s supervisory authorities and also by Asgardian citizens by using the mechanisms for public monitoring by means of electronic voting.
 
 Chapter 9. Adoption and Amendment of the Constitution
 
 Article 41. Adoption of the Constitution
-Asgardia?s Constitution is adopted by means of an electronic voting by the citizens of Asgardia - a referendum.
+Asgardia’s Constitution is adopted by means of an electronic voting by the citizens of Asgardia - a referendum.
 
 Article 42. First Constitution
 The first Constitution of Asgardia is put for voting by Igor Ashurbeyli, the Head of Nation elected at a general voting on 20 January 2017 (20 January 0001 in Asgardian calendar). The voting on adopting the first Asgardian Constitution is open to persons over the age of 18 who have submitted their personal data via the Internet and agreed to the terms and conditions published on the Asgardian websitewww.asgardia.spacebefore the date of finalisation of the voting as per the Head of Nation decree. These persons are considered Asgardian citizens on a preferential basis prior to the adoption of the law on space citizenship of Asgardia and will retain this status subsequently if desired.
 
 Article 43. Quorum for Adoption of the Constitution
-Asgardia?s Constitution is adopted if more than half of the total number of Asgardian citizens on the date of the vote voted in favour, and for adoption of the first Constitution, the number of persons according to article 42 of this Constitution.
+Asgardia’s Constitution is adopted if more than half of the total number of Asgardian citizens on the date of the vote voted in favour, and for adoption of the first Constitution, the number of persons according to article 42 of this Constitution.
 
 Article 44. Amendment of the Constitution
-Asgardia?s Constitution may be amended by means of an electronic voting by Asgardian citizens - a referendum, in accordance with the law of Asgardia.
+Asgardia’s Constitution may be amended by means of an electronic voting by Asgardian citizens - a referendum, in accordance with the law of Asgardia.
 
 Article 45. Procedure for Amendment of the Constitution
 Proposals on amending the Constitution may be made by the Head of Nation, Supreme Space Council, Parliament in accordance with the law of Asgardia.
@@ -473,13 +473,13 @@ Article 46. Special rights of the Head of Nation before the election of Parliame
 In the absence of Asgardian laws and for the purposes of implementing the provisions of the Constitution before the election of Parliament and formation of the first Government of Asgardia, the Head of Nation issues necessary decrees which remain in force until respective laws are adopted.
 
 Article 47. Special procedure for election of a new Head of Nation
-If elections for a new Head of Nation are scheduled within the first five years of adoption of the Constitution, the requirements of Asgardia?s Constitution concerning the candidate for the position of Head of Nation holding space citizenship for at least five years do not apply.
+If elections for a new Head of Nation are scheduled within the first five years of adoption of the Constitution, the requirements of Asgardia’s Constitution concerning the candidate for the position of Head of Nation holding space citizenship for at least five years do not apply.
 
 Article 48. Deadline for election of Parliament
 Elections for members of Parliament are called no later than six months after the adoption of the Constitution. The procedure for holding the first elections is set by a decree of the Head of Nation in accordance with the Constitution of Asgardia. The law on subsequent elections of members of Parliament is adopted after Parliament is formed.
 
 Article 49. Deadline for forming the Government of Asgardia
-The Government is formed no later than three months after election of Asgardia?s Parliament in accordance with the Constitution and the law of Asgardia.
+The Government is formed no later than three months after election of Asgardia’s Parliament in accordance with the Constitution and the law of Asgardia.
 
 Article 50. Effectiveness of the Constitution
 The Constitution of Asgardia becomes effective on the day of its official publication on the official national site of Asgadia www.asgardia.spaceon the basis of the voting on 18 June 2017 (1 Asgard 0001 of Asgardian calendar).
