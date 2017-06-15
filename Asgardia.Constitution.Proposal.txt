@@ -192,7 +192,7 @@ Article 16. Government by the People
 § 2. The collective will of Asgardian citizens is implemented through their participation in elections to state bodies and monitoring of these bodies, referenda, and interaction with their representatives in elected state bodies.
 § 3. Elections to state bodies and citizen participation in developing, making, implementing, and monitoring the performance of state administrative decisions is conducted primarily via electronic voting.
 § 4. Prejudice against participation in elections and referenda based on place of birth, residence, earthly citizenship, language, gender, sexual orientation, race, nationality, beliefs, or financial standing of Earth nation states, and any other difference is prohibited.
-§ 5. State bodies and officials may not intervene in elections, put pressure on citizens, or falsify elections during and after democratic procedures.
+§ 5. State bodies and officials may not intervene in elections, put pressure on citizens, or falsify elections during or after democratic procedures.
 § 6. Government by the People in Asgardia is assured by:
  a. establishing a procedure for elections, requirements applicable to candidates and election time frames;
  b. ensuring that state body officials can be replaced and setting maximum term limits for government positions;
