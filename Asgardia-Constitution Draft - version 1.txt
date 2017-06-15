@@ -26,7 +26,6 @@ c. To ensure equal opportunities in space for all Asgardians residing on Earth, 
 6. Asgardia does not interfere in the affairs of Earth’s nations on the principle of reciprocity.
 7. Asgardia participates in the international-level events on Earth, like any other country, based on its membership in the respective international organizations.
 8. Asgardia respects and complies with the rights of citizens of Earth nations, and protects the rights of its citizens in the exclusivity of their space nation citizenship.
-
 9. Asgardia does not engage in politics, and has no place for political parties. But every Asgardian can freely participate in political life on Earth.
 10. Asgardia mirrors the Earth, but does not reflect Earthly borders. At the same time, in the framework of Earthly law, every Asgardian can freely live within the borders of any Earthly country.
 11. Asgardia is a country of free spirit, science and internationalism. But every Asgardian can freely practice any religion on Earth.
@@ -344,8 +343,7 @@ Article 32. Asgardia’s Head of State
  declared missing, as well as in the circumstances stipulated by law where the Head of State is unable to perform his/her duties, his/her duties temporarily pass to the Chairman of the Royal Council of Supreme Values until the reasons which prevented the Head of State from performing such duties cease to be in effect or until the inauguration of the new Head of State.
 8. Candidates for the role of new Head of State shall be the Head of State╒s willed successor, if any, and one candidate nominated by Parliament and one by the Royal Council of Supreme Values.
 9. The procedure for electing Heads of State and organising their activities is set by the law.
-10. The Head of State may be removed from his/her position by Parliament in accordance
- with the procedure set by the law in the event of:
+10. The Head of State may be removed from his/her position by Parliament in accordance with the procedure set by the law in the event of:
 a) ongoing inability to perform his/her duties on health grounds;
 b) the Prosecutor General accusing the Head of State of treason or other major crime, with such accusation confirmed by a conclusion of the Royal Court;
 c) the Prosecutor General or the Chamber of Supreme Values accusing the Head of State of a gross violation of Asgardia’s Constitution, with such accusation confirmed by a conclusion of the Royal Court.
@@ -492,6 +490,4 @@ The Government is formed no later than three months after election of Asgardia�
 
 Article 50. Effectiveness of the Constitution
 The Constitution of Asgardia becomes effective on the day of its official publication at https://asgardia.space on the basis of the results of the referendum of 18 June 2017.
-
-
 
