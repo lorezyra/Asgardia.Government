@@ -91,7 +91,7 @@ Article 6. Asgardian Citizens
 
 Article 7. Location of Citizens
 1. Asgardian citizens have the right of free movement in Asgardian localities and the right to choose their location in Earth nations.
-2. An Asgardian citizen╒s permanent residence in an Earth nation does not deprive or diminish his/her rights or freedoms, does not suspend or terminate his/her space citizenship and does not annul his/her obligations to Asgardia.
+2. An Asgardian citizen’s permanent residence in an Earth nation does not deprive or diminish his/her rights or freedoms, does not suspend or terminate his/her space citizenship and does not annul his/her obligations to Asgardia.
 
 Article 8. Key Citizen Rights and Freedoms
 1. All human and citizen rights and freedoms are recognised in Asgardia in accordance with generally recognised international principles and norms. Human rights and freedoms are inalienable and enjoyed by all persons from birth on the basis of the law.
@@ -341,7 +341,7 @@ Article 32. Asgardia’s Head of State
 6. The second and subsequent Heads of State may be any Asgardian citizen over the age of 40 and under the age of 65 who has held space citizenship for at least five years prior to being nominated, who has the physical and mental health to perform the duties of Head of State.
 7. In the event that the Head of State dies, resigns, becomes permanently incapacitated or is
  declared missing, as well as in the circumstances stipulated by law where the Head of State is unable to perform his/her duties, his/her duties temporarily pass to the Chairman of the Royal Council of Supreme Values until the reasons which prevented the Head of State from performing such duties cease to be in effect or until the inauguration of the new Head of State.
-8. Candidates for the role of new Head of State shall be the Head of State╒s willed successor, if any, and one candidate nominated by Parliament and one by the Royal Council of Supreme Values.
+8. Candidates for the role of new Head of State shall be the Head of State’s willed successor, if any, and one candidate nominated by Parliament and one by the Royal Council of Supreme Values.
 9. The procedure for electing Heads of State and organising their activities is set by the law.
 10. The Head of State may be removed from his/her position by Parliament in accordance with the procedure set by the law in the event of:
 a) ongoing inability to perform his/her duties on health grounds;
@@ -396,11 +396,11 @@ i) holding parliamentary hearings and investigations, including summoning repres
 Article 35. Government
 1. Asgardia’s supreme state executive body is the Government.
 2. The Government is a collective body which comprises the Chairman of the Government, his/her deputies and ministers. The Government may hold meetings in person, remotely or electronically.
-3. The system of the state╒s executive bodies comprises 13 ministries which correspond to the permanent parliamentary committees.
+3. The system of the state’s executive bodies comprises 13 ministries which correspond to the permanent parliamentary committees.
 4. The Chairman of the Government is appointed by Parliament on the proposal of the Royal Council of Supreme Values on agreement with the Head of State. Candidates for minister are nominated by the Chairman of the Government and approved by Parliament. Ministers may be Asgardian citizens aged between 40 and 65 who have a degree, qualifications and professional experience in relevant area and the physical and mental health to perform the duties of a minister. Members of Parliament who have a private business must put it into trust management for the duration of their Government position to avoid a conflict of interest on agreement with the Chairman of the Government.
 5. The Chairman of the Government sets priority areas for the Government and organizes its work in accordance with the Constitution, the law of Asgardia and Head of State decrees.
 6. The procedure for forming and organising the work of the Government is set by the Constitution and the law of Asgardia.
-7. The Government╒s powers include:
+7. The Government’s powers include:
 a) implementing and defending the Constitution, implementing international treaties, laws, Head of State decrees and acts of the Chamber of Supreme Values;
 b) developing and submitting draft bills to Parliament;
 c) developing and submitting draft budgets to Parliament and ensuring their implementation;
@@ -437,7 +437,7 @@ Article 37. Judiciary
 4. The Presidium of the Royal Court comprises 13 Justices. The Presidium of the Royal Court is chaired by the Supreme Justice.
 5. Justices may be Asgardian citizens aged between 40 and 65 who have a degree in law and experience of working in the legal profession for at least five years. The law may set additional requirements in respect of Justices.
 6. The purview, composition of panels, procedure for forming and organising the work of the Royal Court are set by the law.
-7. The Supreme Justice organises the work of the Royal Court, sets the court╒s internal code of conduct, calls and chairs meetings of the court╒s Presidium and performs other duties in accordance with the law.
+7. The Supreme Justice organises the work of the Royal Court, sets the court’s internal code of conduct, calls and chairs meetings of the court’s Presidium and performs other duties in accordance with the law.
 8. Court hearings are held using video conferencing and other electronic systems which allow participants to be identified and authenticated and are similar to in-person hearings.
 9. The Royal Court is funded exclusively through the national budget which must facilitate full and independent justice in accordance with the law.
 10. Justices are appointed for life, enjoy immunity and independence and are subject only to the Constitution and the law of Asgardia.
