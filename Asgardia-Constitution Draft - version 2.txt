@@ -103,11 +103,11 @@ Article 8. Key Rights and Freedoms of Citizens
 a) freedom of the individual and freedom of speech are inviolable;
 b) the right to participate in the national affairs of Asgardia both directly and via representatives;
 c) the right to elect and be elected/appointed to Asgardia’s governmental bodies and participate in referenda;
-d) the right to put forward citizens╒ legislative proposals;
+d) the right to put forward citizens’ legislative proposals;
 e) the right to access to information about the activities of governmental bodies and monitor them;
 f) the right to participate in space exploration and universal access to scientific information about space;
 g) the right to personal safety and the safety of the home in Asgardia localities;
-h) the right to citizens╒ self-governance;
+h) the right to citizens’ self-governance;
 i) the right to ownership and inheritance;
 j) the right to organise citizen groups on the basis of Asgardia laws.
 5. If the rights of an Asgardian are infringed, including by an Asgardian governmental body, he/she has the right to seek legal protection in Supreme Space Court.
@@ -130,7 +130,7 @@ Article 9. Key Obligations of Citizens
 
 Article 10. Guarantees of Citizen Rights and Freedoms
 1. Asgardian government guarantees the rights and freedoms of citizens by ensuring the use of its powers and all available resources.
-2. Asgardian government is responsible for respecting and protecting citizens╒ rights and freedoms and ensuring that they can be exercised.
+2. Asgardian government is responsible for respecting and protecting citizens’ rights and freedoms and ensuring that they can be exercised.
 3. Guarantees of citizenship rights and freedoms are supported using Asgardian governmental property which serves as the material foundation for the exercising of its powers and performance of its obligations.
 4. The rights and freedoms of Asgardian citizens are guaranteed through the establishment of corresponding obligations of Asgardia in the Constitution and Asgardia’s laws.
 5. Asgardian government guarantees that its aims, plans, development forecasts, as well as threats and risks to its development, will be publicly disclosed.
@@ -192,7 +192,7 @@ Article 16. Government by the People
 6. Government by the People in Asgardia is ensured by:
 a) establishing a procedure for elections, requirements applicable to candidates and election time frames;
 b) ensuring that Asgardian governmental body officials can be replaced and setting maximum term limits for government positions;
-c) court protection of Asgardian citizens╒ rights to run for office and be elected;
+c) court protection of Asgardian citizens’ rights to run for office and be elected;
 d) public control via electronic resources of the public activities of Asgardian governmental bodies, their regular reporting to citizens, provision of open information about different areas of government responsibilities in the format set by the law;
 e) procedures that allow citizens to put forward legislative proposals and initiate referenda;
 f) separation of powers;
@@ -234,7 +234,7 @@ Article 21. Security Areas
 2. Asgardia’s security doctrine is exclusively peaceful and self-protective in its nature.
 
 Article 22. Security of Citizens
-1. Asgardia ensures the security of citizens as its ability and the citizens╒ ability to overcome threats and minimise risks in the present and future.
+1. Asgardia ensures the security of citizens as its ability and the citizens’ ability to overcome threats and minimise risks in the present and future.
 2. Citizen security is ensured in Asgardian territory.
 3. All citizens may demand that Asgardia, in its territory, safeguard them from any slavery or servitude, physical or emotional violence and compulsion, any unlawful dependence and restrictions, and any unlawful obligations or subordination.
 4. Governmental bodies and diplomatic representative bodies of Asgardia in Earth states must use all peaceful means and measures to assist the provision of physical security of its citizens outside of Asgardia in accordance with Asgardia’s Constitution and laws, generally recognised international principles and norms, international and bilateral treaties, laws and rules of states in which Asgardian citizens reside.
@@ -339,22 +339,22 @@ Article 32. Asgardia’s Head of Nation
 a) ongoing inability to perform his/her duties on health grounds;
 b) the Prosecutor General accusing the Head of Nation of treason or other major crime, with such accusation confirmed by a conclusion of the Royal Court;
 9. The Head of Nation:
-c) appoints and removes:
+a) appoints and removes:
 * the Supreme Justice of the Supreme Space Court;
 * the Chairman of the Supreme Space Council;
 * the Prosecutor General;
 * the Chairman of the National Audit Office;
 * Asgardian representatives on the Earth continents;
 * Asgardians ambassadors in the states on Earth.
-d) has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of: Chairman of the Government, member of Supreme Space Council, Chairman of the National Bank, Justices of the Royal Court and has the right to propose removal of persons who hold these positions;
-e) calls elections of members of Parliament in accordance with the Constitution and the law of Asgardia and has the right to dissolve Parliament;
-f) negotiates and signs international treaties, ratification instruments, accepts letters of credence and recall from diplomatic representatives;
-g) proposes draft laws to Parliament, signs laws adopted by Parliament, or returns them without signature with the right to enact them, and has the right to veto laws adopted by Parliament;
-h) awards national governmental awards and grants military ranks and honorary titles;
-i) grants clemency;
-j) staffs the Administration of the Head of Nation, the body which supports the work of the Head of Nation;
-k) creates discussion and advisory bodies to support him/her in performing his/her duties;
-l) performs other duties stipulated by the Constitution and the law of Asgardia.
+b) has the right to veto candidates nominated in accordance with the Constitution and the Law for the positions of: Chairman of the Government, member of Supreme Space Council, Chairman of the National Bank, Justices of the Royal Court and has the right to propose removal of persons who hold these positions;
+c) calls elections of members of Parliament in accordance with the Constitution and the law of Asgardia and has the right to dissolve Parliament;
+d) negotiates and signs international treaties, ratification instruments, accepts letters of credence and recall from diplomatic representatives;
+e) proposes draft laws to Parliament, signs laws adopted by Parliament, or returns them without signature with the right to enact them, and has the right to veto laws adopted by Parliament;
+f) awards national governmental awards and grants military ranks and honorary titles;
+g) grants clemency;
+h) staffs the Administration of the Head of Nation, the body which supports the work of the Head of Nation;
+i) creates discussion and advisory bodies to support him/her in performing his/her duties;
+j) performs other duties stipulated by the Constitution and the law of Asgardia.
 10. The Head of Nation issues decrees which are mandatory for the government bodies and Asgardian citizens. Head of Nation decrees must not be counter to the Constitution and Asgardia’s laws.
 
 Article 33. Parliament

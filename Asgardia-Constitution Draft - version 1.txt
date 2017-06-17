@@ -339,8 +339,7 @@ Article 32. Asgardia’s Head of State
 4. The maximum age limit for the Head of State position is 75 years.
 5. One year prior to reaching the age limit or in the event of a voluntary resignation, the Head of State nominates a candidate for the position of Head of State on a hereditary or other basis. Two other candidates or the same candidate for the position of Head of State are nominated by Parliament and the Royal Council of Supreme Values. The election of the Head of State is put to a referendum in accordance with the law of Asgardia.
 6. The second and subsequent Heads of State may be any Asgardian citizen over the age of 40 and under the age of 65 who has held space citizenship for at least five years prior to being nominated, who has the physical and mental health to perform the duties of Head of State.
-7. In the event that the Head of State dies, resigns, becomes permanently incapacitated or is
- declared missing, as well as in the circumstances stipulated by law where the Head of State is unable to perform his/her duties, his/her duties temporarily pass to the Chairman of the Royal Council of Supreme Values until the reasons which prevented the Head of State from performing such duties cease to be in effect or until the inauguration of the new Head of State.
+7. In the event that the Head of State dies, resigns, becomes permanently incapacitated or is declared missing, as well as in the circumstances stipulated by law where the Head of State is unable to perform his/her duties, his/her duties temporarily pass to the Chairman of the Royal Council of Supreme Values until the reasons which prevented the Head of State from performing such duties cease to be in effect or until the inauguration of the new Head of State.
 8. Candidates for the role of new Head of State shall be the Head of State’s willed successor, if any, and one candidate nominated by Parliament and one by the Royal Council of Supreme Values.
 9. The procedure for electing Heads of State and organising their activities is set by the law.
 10. The Head of State may be removed from his/her position by Parliament in accordance with the procedure set by the law in the event of:
@@ -477,7 +476,8 @@ Proposals on amending the Constitution may be made by the Head of State, Parliam
 
 Chapter 10. Transitional and Final Provisions
 
-Article 46. Special rights of the Head of State before the election of Parliament and formation of the Government of Asgardia In the absence of Asgardian laws and for the purposes of implementing the provisions of the Constitution before the election of Parliament and formation of the Government of Asgardia, the Head of State may issue decrees which remain in force until appropriate laws are adopted.
+Article 46. Special rights of the Head of State before the election of Parliament and formation of the Government of Asgardia
+In the absence of Asgardian laws and for the purposes of implementing the provisions of the Constitution before the election of Parliament and formation of the Government of Asgardia, the Head of State may issue decrees which remain in force until appropriate laws are adopted.
 
 Article 47. Special procedure for election of a new Head of State
 If elections for a new Head of State are scheduled within the first five years of adoption of the Constitution, the requirements of Asgardia’s Constitution concerning the candidate for the position of Head of State holding space citizenship for at least five years do not apply.
